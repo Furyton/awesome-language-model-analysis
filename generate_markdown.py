@@ -1,7 +1,7 @@
 import os
 import csv
 
-ROOT = "src"
+ROOT = "papers"
 FILE_NAME = "papers.csv"
 TEMPLATE_NAME = "README.template"
 
