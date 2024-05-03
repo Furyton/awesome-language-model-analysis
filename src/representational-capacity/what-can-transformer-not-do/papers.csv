@@ -1,0 +1,12 @@
+Title,Date,Url,Author
+Collapse of Self-trained Language Models,2024-04-02,http://arxiv.org/abs/2404.02305,"Herel, David; Mikolov, Tomas"
+The pitfalls of next-token prediction,2024-03-11,http://arxiv.org/abs/2403.06963,"Bachmann, Gregor; Nagarajan, Vaishnavh"
+Why are Sensitive Functions Hard for Transformers?,2024-03-03,http://arxiv.org/abs/2402.09963,"Hahn, Michael; Rofin, Mark"
+"Transformers are Expressive, But Are They Expressive Enough for Regression?",2024-02-23,http://arxiv.org/abs/2402.15478,"Nath, Swaroop; Khadilkar, Harshad; Bhattacharyya, Pushpak"
+Limits of Transformer Language Models on Learning Algorithmic Compositions,2024-02-13,http://arxiv.org/abs/2402.05785,"Thomm, Jonathan; Terzic, Aleksandar; Karunaratne, Geethan; Camposampiero, Giacomo; Schölkopf, Bernhard; Rahimi, Abbas"
+Representational Strengths and Limitations of Transformers,2023-11-16,http://arxiv.org/abs/2306.02896,"Sanford, Clayton; Hsu, Daniel; Telgarsky, Matus"
+Large Language Models Cannot Self-Correct Reasoning Yet,2023-10-13,https://openreview.net/forum?id=IkmD3fKBPQ,"Huang, Jie; Chen, Xinyun; Mishra, Swaroop; Zheng, Huaixiu Steven; Yu, Adams Wei; Song, Xinying; Zhou, Denny"
+Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth,2023-08-01,http://arxiv.org/abs/2103.03404,"Dong, Yihe; Cordonnier, Jean-Baptiste; Loukas, Andreas"
+Limits for Learning with Language Models,2023-06-21,http://arxiv.org/abs/2306.12213,"Asher, Nicholas; Bhar, Swarnadeep; Chaturvedi, Akshay; Hunter, Julie; Paul, Soumya"
+Your Transformer May Not be as Powerful as You Expect,2022-10-31,https://openreview.net/forum?id=NQFFNdsOGD,"Luo, Shengjie; Li, Shanda; Zheng, Shuxin; Liu, Tie-Yan; Wang, Liwei; He, Di"
+The Devil in Linear Transformer,2022-10-19,http://arxiv.org/abs/2210.10340,"Qin, Zhen; Han, XiaoDong; Sun, Weixuan; Li, Dongxu; Kong, Lingpeng; Barnes, Nick; Zhong, Yiran"

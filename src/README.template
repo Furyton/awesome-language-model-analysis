@@ -1,0 +1,130 @@
+# awesome-theoretical-empirical-analysis-of-language-models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+This paper list focuses on the **theoretical and empirical analysis** of language models, especially **large language models** (LLMs).
+The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
+
+Scope of this list:
+- Currently, this list focuses on **transformer-based** models.
+- We hope to collect papers that only focus on the theoretical and empirical analysis of language models, instead of papers that aim to improve the performance of language models.
+
+Limitations of this list:
+- This list is not exhaustive, and we may miss some very important papers.
+- This list is not well-organized yet, and we may need to reorganize the list in the future.
+- Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
+
+If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
+
+For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
+
+Table of Content
+====================
+- [awesome-theoretical-empirical-analysis-of-language-models ](#awesome-theoretical-empirical-analysis-of-language-models-)
+- [Table of Content](#table-of-content)
+  - [Phenomena of Interest](#phenomena-of-interest)
+    - [In-Context Learning](#in-context-learning)
+    - [Chain-of-Thought](#chain-of-thought)
+    - [Hallucination](#hallucination)
+    - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
+    - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
+    - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
+    - [Learning / Generalization](#learning--generalization)
+    - [Other Phenomena](#other-phenomena)
+  - [Representational Capacity](#representational-capacity)
+    - [What Can Transformer Do? / Properties of Transformer](#what-can-transformer-do--properties-of-transformer)
+    - [What Can Transformer Not Do? / Limitation of Transformer](#what-can-transformer-not-do--limitation-of-transformer)
+  - [Architectural Effectivity](#architectural-effectivity)
+    - [Layer-normalization](#layer-normalization)
+    - [Tokenization](#tokenization)
+  - [Training Paradigms](#training-paradigms)
+  - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
+  - [Miscellanea](#miscellanea)
+
+## Phenomena of Interest
+
+Here are some phenomena that are interesting to investigate in language models.
+
+### In-Context Learning
+
+{phenomena-of-interest/in-context-learning}
+
+### Chain-of-Thought
+
+{phenomena-of-interest/chain-of-thought}
+
+### Hallucination
+
+{phenomena-of-interest/hallucination}
+
+### Scaling Laws / Emergent Abilities / Grokking / etc.
+
+This section includes papers that investigate how the performance of language models scales with model size, data size, or compute, and how emergent abilities arise in language models.
+
+{phenomena-of-interest/scaling-laws}
+
+### Knowledge / Memory mechanisms
+
+{phenomena-of-interest/knowledge}
+
+### Training Dynamics / Landscape / Optimization / Fine-tuning / etc.
+
+This section focuses on the training dynamics of language models, including the optimization landscape, fine-tuning, and transfer learning.
+
+{phenomena-of-interest/training-dynamics}
+
+### Learning / Generalization
+
+This section includes papers that investigate the generalization ability of language models, and the general learning behavior of language models.
+
+{phenomena-of-interest/learning}
+
+### Other Phenomena
+
+{phenomena-of-interest/other-phenomena}
+
+## Representational Capacity
+
+Investigate the expressiveness of transformer-based models about what they can do and what they can't do.
+
+### What Can Transformer Do? / Properties of Transformer
+
+This section includes positive results on the representational capacity and properties of transformer-based models.
+
+{representational-capacity/what-can-transformer-do}
+
+### What Can Transformer Not Do? / Limitation of Transformer
+
+The papers in this section investigate the limitations of transformer-based models, including the limitations of their expressiveness and learning abilities.
+
+{representational-capacity/what-can-transformer-not-do}
+
+## Architectural Effectivity
+
+discussion of the effectiveness of different architectures in terms of learning and generalization
+
+### Layer-normalization
+
+{architectural-effectivity/layer-normalization}
+
+### Tokenization
+
+{architectural-effectivity/tokenization}
+
+## Training Paradigms
+
+{training-paradigms}
+
+## Mechanistic Engineering / Probing / Interpretability
+
+This section includes papers that mainly investigate the mechanisms of language models through probing, mechanistic engineering, and other papers generally related to interpretability.
+
+{mechanistic-engineering}
+
+## Miscellanea
+
+{miscellanea}
+
+---
+
+Contact:
+
+- [Shiguang Wu](https://github.com/Furyton), furyton AT outlook.com / shiguang.wu AT mail.sdu.edu.cn
