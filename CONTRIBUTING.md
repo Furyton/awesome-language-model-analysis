@@ -2,7 +2,7 @@
 
 We welcome contributions to this list!
 
-The papers are maintained in the `source` branch under the `papers` directory.
+The papers are maintained under the `papers` directory.
 The `README.md` file is generated from the papers in the `papers` directory using the python script `generate_markdown.py`.
 
 The structure of the `papers` directory is as follows:
@@ -32,7 +32,7 @@ papers
 
 There is a `papers.csv` file in each directory that contains the metadata for each paper. The metadata includes the title, authors, date, and URL. The `README.template` file contains the template for the README file.
 
-All you need to do is update the `papers.csv` file in the corresponding directory and pull request to the `source` branch. The GitHub Action will automatically generate the `README.md` file in the `main` branch.
+All you need to do is update the `papers.csv` file in the corresponding directory and pull request to the `main` branch. The GitHub Action will automatically generate the `README.md` file.
 
 Note:
 
@@ -54,9 +54,7 @@ Here is a very concrete example on how to contribute:
 
 2. Clone the forked repository to your local machine.
 
-3. Checkout the `source` branch.
-
-4. Add a new paper to the `papers/phenomena-of-interest/learning/papers.csv` like this:
+3. Add a new paper to the `papers/phenomena-of-interest/learning/papers.csv` like this:
 
 ```csv
 Title,Date,Url,Author
@@ -65,7 +63,7 @@ Title,Date,Url,Author
 On the Role of Attention in Prompt-tuning,2023-06-15,https://openreview.net/forum?id=qorOnDor89,"Oymak, Samet; Rawat, Ankit Singh; Soltanolkotabi, Mahdi; Thrampoulidis, Christos"
 ```
 
-5. Pull request to the `source` branch.
+4. Pull request to the `main` branch.
 
 ---
 

@@ -1,4 +1,4 @@
-# awesome-theoretical-empirical-analysis-of-language-models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Transformers LM-Analytics [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 This paper list focuses on the **theoretical and empirical analysis** of language models, especially **large language models** (LLMs).
 The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
@@ -18,7 +18,6 @@ For details on how to contribute, please refer to the [contribution guidelines](
 
 Table of Content
 ====================
-- [awesome-theoretical-empirical-analysis-of-language-models ](#awesome-theoretical-empirical-analysis-of-language-models-)
 - [Table of Content](#table-of-content)
   - [Phenomena of Interest](#phenomena-of-interest)
     - [In-Context Learning](#in-context-learning)
