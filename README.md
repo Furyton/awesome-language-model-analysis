@@ -905,6 +905,11 @@ This section includes papers that mainly investigate the mechanisms of language 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: A Primer on the Inner Workings of Transformer-based Language Models [[paper link]](https://arxiv.org/abs/2405.00208) 2024-05-02  
+**Authors**: Ferrando, Javier; Sarti, Gabriele; Bisazza, Arianna; Costa-jussà, Marta R.
+
+
+
 **Title**: Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs [[paper link]](http://arxiv.org/abs/2404.17120) 2024-04-25  
 **Authors**: Cherepanova, Valeriia; Zou, James
 
