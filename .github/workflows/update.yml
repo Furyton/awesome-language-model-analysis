@@ -1,0 +1,30 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout source code
+      uses: actions/checkout@v2
+      
+    - name: Run Python script
+      run: python generate_readme.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Generate README"
+      
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
