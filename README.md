@@ -18,6 +18,7 @@ For details on how to contribute, please refer to the [contribution guidelines](
 
 Table of Content
 ====================
+- [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)
 - [Table of Content](#table-of-content)
   - [Phenomena of Interest](#phenomena-of-interest)
     - [In-Context Learning](#in-context-learning)
@@ -44,6 +45,9 @@ Here are some phenomena that are interesting to investigate in language models.
 
 ### In-Context Learning
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation [[paper link]](http://arxiv.org/abs/2404.07129) 2024-04-10  
 **Authors**: Singh, Aaditya K.; Moskovitz, Ted; Hill, Felix; Chan, Stephanie C. Y.; Saxe, Andrew M.
@@ -209,8 +213,13 @@ Here are some phenomena that are interesting to investigate in language models.
 **Authors**: Chan, Stephanie C. Y.; Dasgupta, Ishita; Kim, Junkyung; Kumaran, Dharshan; Lampinen, Andrew K.; Hill, Felix
 
 
+</details>
+
 ### Chain-of-Thought
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Let's Think Dot by Dot: Hidden Computation in Transformer Language Models [[paper link]](http://arxiv.org/abs/2404.15758) 2024-04-24  
 **Authors**: Pfau, Jacob; Merrill, William; Bowman, Samuel R.
@@ -246,8 +255,13 @@ Here are some phenomena that are interesting to investigate in language models.
 **Authors**: Merrill, William; Sabharwal, Ashish
 
 
+</details>
+
 ### Hallucination
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Mechanisms of non-factual hallucinations in language models [[paper link]](http://arxiv.org/abs/2403.18167) 2024-03-26  
 **Authors**: Yu, Lei; Cao, Meng; Cheung, Jackie Chi Kit; Dong, Yue
@@ -273,10 +287,15 @@ Here are some phenomena that are interesting to investigate in language models.
 **Authors**: Slobodkin, Aviv; Goldman, Omer; Caciularu, Avi; Dagan, Ido; Ravfogel, Shauli
 
 
+</details>
+
 ### Scaling Laws / Emergent Abilities / Grokking / etc.
 
 This section includes papers that investigate how the performance of language models scales with model size, data size, or compute, and how emergent abilities arise in language models.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: More Compute Is What You Need [[paper link]](http://arxiv.org/abs/2404.19484) 2024-04-30  
 **Authors**: Guo, Zhen
@@ -352,8 +371,13 @@ This section includes papers that investigate how the performance of language mo
 **Authors**: Kaplan, Jared; McCandlish, Sam; Henighan, Tom; Brown, Tom B.; Chess, Benjamin; Child, Rewon; Gray, Scott; Radford, Alec; Wu, Jeffrey; Amodei, Dario
 
 
+</details>
+
 ### Knowledge / Memory mechanisms
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws [[paper link]](http://arxiv.org/abs/2404.05405) 2024-04-08  
 **Authors**: Allen-Zhu, Zeyuan; Li, Yuanzhi
@@ -379,10 +403,15 @@ This section includes papers that investigate how the performance of language mo
 **Authors**: Maini, Pratyush; Mozer, Michael C.; Sedghi, Hanie; Lipton, Zachary C.; Kolter, J. Zico; Zhang, Chiyuan
 
 
+</details>
+
 ### Training Dynamics / Landscape / Optimization / Fine-tuning / etc.
 
 This section focuses on the training dynamics of language models, including the optimization landscape, fine-tuning, and transfer learning.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Control Theoretic Approach to Fine-Tuning and Transfer Learning [[paper link]](http://arxiv.org/abs/2404.11013) 2024-04-16  
 **Authors**: Bayram, Erkan; Liu, Shenyu; Belabbas, Mohamed-Ali; Başar, Tamer
@@ -468,10 +497,15 @@ This section focuses on the training dynamics of language models, including the 
 **Authors**: Fu, Zihao; So, Anthony Man-Cho; Collier, Nigel
 
 
+</details>
+
 ### Learning / Generalization
 
 This section includes papers that investigate the generalization ability of language models, and the general learning behavior of language models.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks [[paper link]](http://arxiv.org/abs/2311.12786) 2023-11-21  
 **Authors**: Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott
@@ -532,8 +566,13 @@ This section includes papers that investigate the generalization ability of lang
 **Authors**: Radiya-Dixit, Evani; Wang, Xin
 
 
+</details>
+
 ### Other Phenomena
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Algorithmic progress in language models [[paper link]](http://arxiv.org/abs/2403.05812) 2024-03-09  
 **Authors**: Ho, Anson; Besiroglu, Tamay; Erdil, Ege; Owen, David; Rahman, Robi; Guo, Zifan Carl; Atkinson, David; Thompson, Neil; Sevilla, Jaime
@@ -549,6 +588,8 @@ This section includes papers that investigate the generalization ability of lang
 **Authors**: Li, Zonglin; You, Chong; Bhojanapalli, Srinadh; Li, Daliang; Rawat, Ankit Singh; Reddi, Sashank J.; Ye, Ke; Chern, Felix; Yu, Felix; Guo, Ruiqi; Kumar, Sanjiv
 
 
+</details>
+
 ## Representational Capacity
 
 Investigate the expressiveness of transformer-based models about what they can do and what they can't do.
@@ -557,6 +598,9 @@ Investigate the expressiveness of transformer-based models about what they can d
 
 This section includes positive results on the representational capacity and properties of transformer-based models.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Transformers Can Represent $n$-gram Language Models [[paper link]](http://arxiv.org/abs/2404.14994) 2024-04-23  
 **Authors**: Svete, Anej; Cotterell, Ryan
@@ -717,10 +761,15 @@ This section includes positive results on the representational capacity and prop
 **Authors**: Brunner, Gino; Liu, Yang; Pascual, Damián; Richter, Oliver; Ciaramita, Massimiliano; Wattenhofer, Roger
 
 
+</details>
+
 ### What Can Transformer Not Do? / Limitation of Transformer
 
 The papers in this section investigate the limitations of transformer-based models, including the limitations of their expressiveness and learning abilities.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Collapse of Self-trained Language Models [[paper link]](http://arxiv.org/abs/2404.02305) 2024-04-02  
 **Authors**: Herel, David; Mikolov, Tomas
@@ -776,12 +825,17 @@ The papers in this section investigate the limitations of transformer-based mode
 **Authors**: Qin, Zhen; Han, XiaoDong; Sun, Weixuan; Li, Dongxu; Kong, Lingpeng; Barnes, Nick; Zhong, Yiran
 
 
+</details>
+
 ## Architectural Effectivity
 
 discussion of the effectiveness of different architectures in terms of learning and generalization
 
 ### Layer-normalization
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: The Expressive Power of Tuning Only the Normalization Layers [[paper link]](https://proceedings.mlr.press/v195/giannou23a.html) 2023-07-12  
 **Authors**: Giannou, Angeliki; Rajput, Shashank; Papailiopoulos, Dimitris
@@ -802,8 +856,13 @@ discussion of the effectiveness of different architectures in terms of learning 
 **Authors**: Xiong, Ruibin; Yang, Yunchang; He, Di; Zheng, Kai; Zheng, Shuxin; Xing, Chen; Zhang, Huishuai; Lan, Yanyan; Wang, Liwei; Liu, Tie-Yan
 
 
+</details>
+
 ### Tokenization
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Toward a Theory of Tokenization in LLMs [[paper link]](http://arxiv.org/abs/2404.08335) 2024-04-12  
 **Authors**: Rajaraman, Nived; Jiao, Jiantao; Ramchandran, Kannan
@@ -819,8 +878,13 @@ discussion of the effectiveness of different architectures in terms of learning 
 **Authors**: Schmidt, Craig W.; Reddy, Varshini; Zhang, Haoran; Alameddine, Alec; Uzan, Omri; Pinter, Yuval; Tanner, Chris
 
 
+</details>
+
 ## Training Paradigms
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget [[paper link]](http://arxiv.org/abs/2404.19319) 2024-04-30  
 **Authors**: Bui, Minh Duc; Schmidt, Fabian David; Glavaš, Goran; von der Wense, Katharina
@@ -831,10 +895,15 @@ discussion of the effectiveness of different architectures in terms of learning 
 **Authors**: Zhang, Jingzhao; Karimireddy, Sai Praneeth; Veit, Andreas; Kim, Seungyeon; Reddi, Sashank J.; Kumar, Sanjiv; Sra, Suvrit
 
 
+</details>
+
 ## Mechanistic Engineering / Probing / Interpretability
 
 This section includes papers that mainly investigate the mechanisms of language models through probing, mechanistic engineering, and other papers generally related to interpretability.
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs [[paper link]](http://arxiv.org/abs/2404.17120) 2024-04-25  
 **Authors**: Cherepanova, Valeriia; Zou, James
@@ -875,8 +944,13 @@ This section includes papers that mainly investigate the mechanisms of language 
 **Authors**: Speicher, Till; Khan, Aflah Mohammad; Wu, Qinyuan; Nanda, Vedant; Das, Soumi; Ghosh, Bishwamittra; Gummadi, Krishna P.; Terzi, Evimaria
 
 
+</details>
+
 ## Miscellanea
 
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
 
 **Title**: Compression Represents Intelligence Linearly [[paper link]](http://arxiv.org/abs/2404.09937) 2024-04-15  
 **Authors**: Huang, Yuzhen; Zhang, Jinghan; Shan, Zifei; He, Junxian
@@ -936,6 +1010,8 @@ This section includes papers that mainly investigate the mechanisms of language 
 **Title**: On the Role of Attention in Prompt-tuning [[paper link]](https://openreview.net/forum?id=qorOnDor89) 2023-06-15  
 **Authors**: Oymak, Samet; Rawat, Ankit Singh; Soltanolkotabi, Mahdi; Thrampoulidis, Christos
 
+
+</details>
 
 ---
 
