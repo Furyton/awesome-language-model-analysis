@@ -3,7 +3,7 @@ name: Generate README
 on:
   push:
     branches:
-      - source
+      - main
 
 jobs:
   generate-readme:
