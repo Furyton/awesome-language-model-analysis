@@ -1,9 +1,19 @@
-Title,Date,Url,Author
-Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs,2024-04-25,http://arxiv.org/abs/2404.17120,"Cherepanova, Valeriia; Zou, James"
-Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions,2024-02-22,http://arxiv.org/abs/2402.15055,"Neo, Clement; Cohen, Shay B.; Barez, Fazl"
-Universal Neurons in GPT2 Language Models,2024-01-22,http://arxiv.org/abs/2401.12181,"Gurnee, Wes; Horsley, Theo; Guo, Zifan Carl; Kheirkhah, Tara Rezaei; Sun, Qinyi; Hathaway, Will; Nanda, Neel; Bertsimas, Dimitris"
-Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,"Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott"
-Understanding the Mechanics and Dynamics of Memorisation in Large Language Models: A Case Study with Random Strings,2023-10-13,https://openreview.net/forum?id=ILStlRb1Sp,"Speicher, Till; Khan, Aflah Mohammad; Wu, Qinyuan; Nanda, Vedant; Das, Soumi; Ghosh, Bishwamittra; Gummadi, Krishna P.; Terzi, Evimaria"
-Interpretability Illusions in the Generalization of Simplified Models,2023-12-06,http://arxiv.org/abs/2312.03656,"Friedman, Dan; Lampinen, Andrew; Dixon, Lucas; Chen, Danqi; Ghandeharioun, Asma"
-Transformers are uninterpretable with myopic methods: a case study with bounded Dyck grammars,2023-12-03,http://arxiv.org/abs/2312.01429,"Wen, Kaiyue; Li, Yuchen; Liu, Bingbin; Risteski, Andrej"
-White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?,2023-11-22,https://arxiv.org/abs/2311.13110v2,"Yu, Yaodong; Buchanan, Sam; Pai, Druv; Chu, Tianzhe; Wu, Ziyang; Tong, Shengbang; Bai, Hao; Zhai, Yuexiang; Haeffele, Benjamin D.; Ma, Yi"
+Title,Date,Url,Author
+
+Talking Nonsense: Probing Large Language Models' Understanding of Adversarial Gibberish Inputs,2024-04-25,http://arxiv.org/abs/2404.17120,"Cherepanova, Valeriia; Zou, James"
+
+Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions,2024-02-22,http://arxiv.org/abs/2402.15055,"Neo, Clement; Cohen, Shay B.; Barez, Fazl"
+
+Universal Neurons in GPT2 Language Models,2024-01-22,http://arxiv.org/abs/2401.12181,"Gurnee, Wes; Horsley, Theo; Guo, Zifan Carl; Kheirkhah, Tara Rezaei; Sun, Qinyi; Hathaway, Will; Nanda, Neel; Bertsimas, Dimitris"
+
+Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,"Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott"
+
+Understanding the Mechanics and Dynamics of Memorisation in Large Language Models: A Case Study with Random Strings,2023-10-13,https://openreview.net/forum?id=ILStlRb1Sp,"Speicher, Till; Khan, Aflah Mohammad; Wu, Qinyuan; Nanda, Vedant; Das, Soumi; Ghosh, Bishwamittra; Gummadi, Krishna P.; Terzi, Evimaria"
+
+Interpretability Illusions in the Generalization of Simplified Models,2023-12-06,http://arxiv.org/abs/2312.03656,"Friedman, Dan; Lampinen, Andrew; Dixon, Lucas; Chen, Danqi; Ghandeharioun, Asma"
+
+Transformers are uninterpretable with myopic methods: a case study with bounded Dyck grammars,2023-12-03,http://arxiv.org/abs/2312.01429,"Wen, Kaiyue; Li, Yuchen; Liu, Bingbin; Risteski, Andrej"
+
+White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?,2023-11-22,https://arxiv.org/abs/2311.13110v2,"Yu, Yaodong; Buchanan, Sam; Pai, Druv; Chu, Tianzhe; Wu, Ziyang; Tong, Shengbang; Bai, Hao; Zhai, Yuexiang; Haeffele, Benjamin D.; Ma, Yi"
+
+A Primer on the Inner Workings of Transformer-based Language Models,2024-05-02,https://arxiv.org/abs/2405.00208,"Ferrando, Javier; Sarti, Gabriele; Bisazza, Arianna; Costa-jussà, Marta R."
