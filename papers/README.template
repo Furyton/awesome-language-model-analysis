@@ -1,4 +1,4 @@
-# Awesome Transformers LM-Analytics [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Transformers LM Analytics [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 This paper list focuses on the **theoretical and empirical analysis** of language models, especially **large language models** (LLMs).
 The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
