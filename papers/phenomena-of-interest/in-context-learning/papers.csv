@@ -1,34 +1,69 @@
-Title,Date,Url,Author
-What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation,2024-04-10,http://arxiv.org/abs/2404.07129,"Singh, Aaditya K.; Moskovitz, Ted; Hill, Felix; Chan, Stephanie C. Y.; Saxe, Andrew M."
-Is attention required for ICL? Exploring the Relationship Between Model Architecture and In-Context Learning Ability,2024-04-01,http://arxiv.org/abs/2310.08049,"Lee, Ivan; Jiang, Nan; Berg-Kirkpatrick, Taylor"
-"Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality",2024-02-29,http://arxiv.org/abs/2402.19442,"Chen, Siyu; Sheen, Heejune; Wang, Tianhao; Yang, Zhuoran"
-How Transformers Learn Causal Structure with Gradient Descent,2024-02-22,http://arxiv.org/abs/2402.14735,"Nichani, Eshaan; Damian, Alex; Lee, Jason D."
-In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization,2024-02-22,http://arxiv.org/abs/2402.14951,"Zhang, Ruiqi; Wu, Jingfeng; Bartlett, Peter L."
-Identifying Semantic Induction Heads to Understand In-Context Learning,2024-02-20,http://arxiv.org/abs/2402.13055,"Ren, Jie; Guo, Qipeng; Yan, Hang; Liu, Dongrui; Qiu, Xipeng; Lin, Dahua"
-The Transient Nature of Emergent In-Context Learning in Transformers,2023-12-11,http://arxiv.org/abs/2311.08360,"Singh, Aaditya K.; Chan, Stephanie C. Y.; Moskovitz, Ted; Grant, Erin; Saxe, Andrew M.; Hill, Felix"
-In-Context Learning Functions with Varying Number of Minima,2023-11-21,http://arxiv.org/abs/2311.12538,"Oniani, David; Wang, Yanshan"
-Exploring the Relationship between In-Context Learning and Instruction Tuning,2023-11-17,http://arxiv.org/abs/2311.10367,"Duan, Hanyu; Tang, Yixuan; Yang, Yi; Abbasi, Ahmed; Tam, Kar Yan"
-When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks,2023-11-15,http://arxiv.org/abs/2311.08993,"Peng, Hao; Wang, Xiaozhi; Chen, Jianhui; Li, Weikai; Qi, Yunjia; Wang, Zimu; Wu, Zhili; Zeng, Kaisheng; Xu, Bin; Hou, Lei; Li, Juanzi"
-"In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax",2023-11-13,http://arxiv.org/abs/2311.07811,"Mueller, Aaron; Webson, Albert; Petty, Jackson; Linzen, Tal"
-Transformers learn to implement preconditioned gradient descent for in-context learning,2023-11-09,http://arxiv.org/abs/2306.00297,"Ahn, Kwangjun; Cheng, Xiang; Daneshmand, Hadi; Sra, Suvrit"
-In-Context Learning Creates Task Vectors,2023-10-24,http://arxiv.org/abs/2310.15916,"Hendel, Roee; Geva, Mor; Globerson, Amir"
-Function Vectors in Large Language Models,2023-10-23,http://arxiv.org/abs/2310.15213,"Todd, Eric; Li, Millicent L.; Sharma, Arnab Sen; Mueller, Aaron; Wallace, Byron C.; Bau, David"
-In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern,2023-10-19,http://arxiv.org/abs/2310.13220,"Ren, Ruifeng; Liu, Yong"
-How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations,2023-10-16,http://arxiv.org/abs/2310.10616,"Guo, Tianyu; Hu, Wei; Mei, Song; Wang, Huan; Xiong, Caiming; Savarese, Silvio; Bai, Yu"
-Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions,2023-10-13,https://openreview.net/forum?id=ekeyCgeRfC,"Bhattamishra, Satwik; Patel, Arkil; Blunsom, Phil; Kanade, Varun"
-How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?,2023-10-13,https://openreview.net/forum?id=vSh5ePa0ph,"Wu, Jingfeng; Zou, Difan; Chen, Zixiang; Braverman, Vladimir; Gu, Quanquan; Bartlett, Peter"
-In-Context Learning Learns Label Relationships but Is Not Conventional Learning,2023-10-13,https://openreview.net/forum?id=YPIA7bgd5y,"Kossen, Jannik; Gal, Yarin; Rainforth, Tom"
-In-context Convergence of Transformers,2023-10-13,https://openreview.net/forum?id=kxpswbhr1r,"Huang, Yu; Cheng, Yuan; Liang, Yingbin"
-In-Context Learning through the Bayesian Prism,2023-10-13,https://openreview.net/forum?id=HX5ujdsSon,"Panwar, Madhur; Ahuja, Kabir; Goyal, Navin"
-Do pretrained Transformers Really Learn In-context by Gradient Descent?,2023-10-12,http://arxiv.org/abs/2310.08540,"Shen, Lingfeng; Mishra, Aayush; Khashabi, Daniel"
-"What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization",2023-10-10,http://arxiv.org/abs/2305.19420,"Zhang, Yufeng; Zhang, Fengzhuo; Yang, Zhuoran; Wang, Zhaoran"
-Explaining Emergent In-Context Learning as Kernel Regression,2023-10-05,http://arxiv.org/abs/2305.12766,"Han, Chi; Wang, Ziqi; Zhao, Han; Ji, Heng"
-CausalLM is not optimal for in-context learning,2023-09-02,http://arxiv.org/abs/2308.06912,"Ding, Nan; Levinboim, Tomer; Wu, Jialin; Goodman, Sebastian; Soricut, Radu"
-One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention,2023-07-07,http://arxiv.org/abs/2307.03576,"Mahankali, Arvind; Hashimoto, Tatsunori B.; Ma, Tengyu"
-Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection,2023-07-06,http://arxiv.org/abs/2306.04637,"Bai, Yu; Chen, Fan; Wang, Huan; Xiong, Caiming; Mei, Song"
-Transformers Learn In-Context by Gradient Descent,2023-06-15,https://openreview.net/forum?id=tHvXrFQma5,"Oswald, Johannes Von; Niklasson, Eyvind; Randazzo, Ettore; Sacramento, Joao; Mordvintsev, Alexander; Zhmoginov, Andrey; Vladymyrov, Max"
-The Closeness of In-Context Learning and Weight Shifting for Softmax Regression,2023-04-26,http://arxiv.org/abs/2304.13276,"Li, Shuai; Song, Zhao; Xia, Yu; Yu, Tong; Zhou, Tianyi"
-A Theory of Emergent In-Context Learning as Implicit Structure Induction,2023-03-14,http://arxiv.org/abs/2303.07971,"Hahn, Michael; Goyal, Navin"
-The Learnability of In-Context Learning,2023-03-14,http://arxiv.org/abs/2303.07895,"Wies, Noam; Levine, Yoav; Shashua, Amnon"
-What Can Transformers Learn In-Context? A Case Study of Simple Function Classes,2023-01-14,http://arxiv.org/abs/2208.01066,"Garg, Shivam; Tsipras, Dimitris; Liang, Percy; Valiant, Gregory"
-Transformers generalize differently from information stored in context vs in weights,2022-10-13,http://arxiv.org/abs/2210.05675,"Chan, Stephanie C. Y.; Dasgupta, Ishita; Kim, Junkyung; Kumaran, Dharshan; Lampinen, Andrew K.; Hill, Felix"
+Title,Date,Url,Author
+
+What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation,2024-04-10,http://arxiv.org/abs/2404.07129,"Singh, Aaditya K.; Moskovitz, Ted; Hill, Felix; Chan, Stephanie C. Y.; Saxe, Andrew M."
+
+Is attention required for ICL? Exploring the Relationship Between Model Architecture and In-Context Learning Ability,2024-04-01,http://arxiv.org/abs/2310.08049,"Lee, Ivan; Jiang, Nan; Berg-Kirkpatrick, Taylor"
+
+"Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality",2024-02-29,http://arxiv.org/abs/2402.19442,"Chen, Siyu; Sheen, Heejune; Wang, Tianhao; Yang, Zhuoran"
+
+How Transformers Learn Causal Structure with Gradient Descent,2024-02-22,http://arxiv.org/abs/2402.14735,"Nichani, Eshaan; Damian, Alex; Lee, Jason D."
+
+In-Context Learning of a Linear Transformer Block: Benefits of the MLP Component and One-Step GD Initialization,2024-02-22,http://arxiv.org/abs/2402.14951,"Zhang, Ruiqi; Wu, Jingfeng; Bartlett, Peter L."
+
+Identifying Semantic Induction Heads to Understand In-Context Learning,2024-02-20,http://arxiv.org/abs/2402.13055,"Ren, Jie; Guo, Qipeng; Yan, Hang; Liu, Dongrui; Qiu, Xipeng; Lin, Dahua"
+
+The Transient Nature of Emergent In-Context Learning in Transformers,2023-12-11,http://arxiv.org/abs/2311.08360,"Singh, Aaditya K.; Chan, Stephanie C. Y.; Moskovitz, Ted; Grant, Erin; Saxe, Andrew M.; Hill, Felix"
+
+In-Context Learning Functions with Varying Number of Minima,2023-11-21,http://arxiv.org/abs/2311.12538,"Oniani, David; Wang, Yanshan"
+
+Exploring the Relationship between In-Context Learning and Instruction Tuning,2023-11-17,http://arxiv.org/abs/2311.10367,"Duan, Hanyu; Tang, Yixuan; Yang, Yi; Abbasi, Ahmed; Tam, Kar Yan"
+
+When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks,2023-11-15,http://arxiv.org/abs/2311.08993,"Peng, Hao; Wang, Xiaozhi; Chen, Jianhui; Li, Weikai; Qi, Yunjia; Wang, Zimu; Wu, Zhili; Zeng, Kaisheng; Xu, Bin; Hou, Lei; Li, Juanzi"
+
+"In-context Learning Generalizes, But Not Always Robustly: The Case of Syntax",2023-11-13,http://arxiv.org/abs/2311.07811,"Mueller, Aaron; Webson, Albert; Petty, Jackson; Linzen, Tal"
+
+Transformers learn to implement preconditioned gradient descent for in-context learning,2023-11-09,http://arxiv.org/abs/2306.00297,"Ahn, Kwangjun; Cheng, Xiang; Daneshmand, Hadi; Sra, Suvrit"
+
+In-Context Learning Creates Task Vectors,2023-10-24,http://arxiv.org/abs/2310.15916,"Hendel, Roee; Geva, Mor; Globerson, Amir"
+
+Function Vectors in Large Language Models,2023-10-23,http://arxiv.org/abs/2310.15213,"Todd, Eric; Li, Millicent L.; Sharma, Arnab Sen; Mueller, Aaron; Wallace, Byron C.; Bau, David"
+
+In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern,2023-10-19,http://arxiv.org/abs/2310.13220,"Ren, Ruifeng; Liu, Yong"
+
+How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations,2023-10-16,http://arxiv.org/abs/2310.10616,"Guo, Tianyu; Hu, Wei; Mei, Song; Wang, Huan; Xiong, Caiming; Savarese, Silvio; Bai, Yu"
+
+Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions,2023-10-13,https://openreview.net/forum?id=ekeyCgeRfC,"Bhattamishra, Satwik; Patel, Arkil; Blunsom, Phil; Kanade, Varun"
+
+How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?,2023-10-13,https://openreview.net/forum?id=vSh5ePa0ph,"Wu, Jingfeng; Zou, Difan; Chen, Zixiang; Braverman, Vladimir; Gu, Quanquan; Bartlett, Peter"
+
+In-Context Learning Learns Label Relationships but Is Not Conventional Learning,2023-10-13,https://openreview.net/forum?id=YPIA7bgd5y,"Kossen, Jannik; Gal, Yarin; Rainforth, Tom"
+
+In-context Convergence of Transformers,2023-10-13,https://openreview.net/forum?id=kxpswbhr1r,"Huang, Yu; Cheng, Yuan; Liang, Yingbin"
+
+In-Context Learning through the Bayesian Prism,2023-10-13,https://openreview.net/forum?id=HX5ujdsSon,"Panwar, Madhur; Ahuja, Kabir; Goyal, Navin"
+
+Do pretrained Transformers Really Learn In-context by Gradient Descent?,2023-10-12,http://arxiv.org/abs/2310.08540,"Shen, Lingfeng; Mishra, Aayush; Khashabi, Daniel"
+
+"What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization",2023-10-10,http://arxiv.org/abs/2305.19420,"Zhang, Yufeng; Zhang, Fengzhuo; Yang, Zhuoran; Wang, Zhaoran"
+
+Explaining Emergent In-Context Learning as Kernel Regression,2023-10-05,http://arxiv.org/abs/2305.12766,"Han, Chi; Wang, Ziqi; Zhao, Han; Ji, Heng"
+
+CausalLM is not optimal for in-context learning,2023-09-02,http://arxiv.org/abs/2308.06912,"Ding, Nan; Levinboim, Tomer; Wu, Jialin; Goodman, Sebastian; Soricut, Radu"
+
+One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention,2023-07-07,http://arxiv.org/abs/2307.03576,"Mahankali, Arvind; Hashimoto, Tatsunori B.; Ma, Tengyu"
+
+Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection,2023-07-06,http://arxiv.org/abs/2306.04637,"Bai, Yu; Chen, Fan; Wang, Huan; Xiong, Caiming; Mei, Song"
+
+Transformers Learn In-Context by Gradient Descent,2023-06-15,https://openreview.net/forum?id=tHvXrFQma5,"Oswald, Johannes Von; Niklasson, Eyvind; Randazzo, Ettore; Sacramento, Joao; Mordvintsev, Alexander; Zhmoginov, Andrey; Vladymyrov, Max"
+
+The Closeness of In-Context Learning and Weight Shifting for Softmax Regression,2023-04-26,http://arxiv.org/abs/2304.13276,"Li, Shuai; Song, Zhao; Xia, Yu; Yu, Tong; Zhou, Tianyi"
+
+A Theory of Emergent In-Context Learning as Implicit Structure Induction,2023-03-14,http://arxiv.org/abs/2303.07971,"Hahn, Michael; Goyal, Navin"
+
+The Learnability of In-Context Learning,2023-03-14,http://arxiv.org/abs/2303.07895,"Wies, Noam; Levine, Yoav; Shashua, Amnon"
+
+What Can Transformers Learn In-Context? A Case Study of Simple Function Classes,2023-01-14,http://arxiv.org/abs/2208.01066,"Garg, Shivam; Tsipras, Dimitris; Liang, Percy; Valiant, Gregory"
+
+Transformers generalize differently from information stored in context vs in weights,2022-10-13,http://arxiv.org/abs/2210.05675,"Chan, Stephanie C. Y.; Dasgupta, Ishita; Kim, Junkyung; Kumaran, Dharshan; Lampinen, Andrew K.; Hill, Felix"
+
+Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models,2023-10-26,https://arxiv.org/abs/2310.17086v1,"Fu, Deqing; Chen, Tian-Qi; Jia, Robin; Sharan, Vatsal"

@@ -1,8 +1,14 @@
-Title,Date,Url,Author
-Let's Think Dot by Dot: Hidden Computation in Transformer Language Models,2024-04-24,http://arxiv.org/abs/2404.15758,"Pfau, Jacob; Merrill, William; Bowman, Samuel R."
-Chain of Thought Empowers Transformers to Solve Inherently Serial Problems,2024-02-20,http://arxiv.org/abs/2402.12875,"Li, Zhiyuan; Liu, Hong; Zhou, Denny; Ma, Tengyu"
-Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective,2023-12-22,http://arxiv.org/abs/2305.15408,"Feng, Guhao; Zhang, Bohang; Gu, Yuntian; Ye, Haotian; He, Di; Wang, Liwei"
-Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models,2023-10-26,https://arxiv.org/abs/2310.17086v1,"Fu, Deqing; Chen, Tian-Qi; Jia, Robin; Sharan, Vatsal"
-Why Can Large Language Models Generate Correct Chain-of-Thoughts?,2023-10-20,http://arxiv.org/abs/2310.13571,"Tutunov, Rasul; Grosnit, Antoine; Ziomek, Juliusz; Wang, Jun; Bou-Ammar, Haitham"
-How Large Language Models Implement Chain-of-Thought?,2023-10-13,https://openreview.net/forum?id=b2XfOm3RJa,"Wang, Yiqun; Hu, Sile; Zhang, Yonggang; Tian, Xiang; Liu, Xuesong; Chen, Yaowu; Shen, Xu; Ye, Jieping"
-The Expressive Power of Transformers with Chain of Thought,2023-10-13,https://openreview.net/forum?id=NjNGlPh8Wh,"Merrill, William; Sabharwal, Ashish"
+Title,Date,Url,Author
+
+Let's Think Dot by Dot: Hidden Computation in Transformer Language Models,2024-04-24,http://arxiv.org/abs/2404.15758,"Pfau, Jacob; Merrill, William; Bowman, Samuel R."
+
+Chain of Thought Empowers Transformers to Solve Inherently Serial Problems,2024-02-20,http://arxiv.org/abs/2402.12875,"Li, Zhiyuan; Liu, Hong; Zhou, Denny; Ma, Tengyu"
+
+Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective,2023-12-22,http://arxiv.org/abs/2305.15408,"Feng, Guhao; Zhang, Bohang; Gu, Yuntian; Ye, Haotian; He, Di; Wang, Liwei"
+
+Why Can Large Language Models Generate Correct Chain-of-Thoughts?,2023-10-20,http://arxiv.org/abs/2310.13571,"Tutunov, Rasul; Grosnit, Antoine; Ziomek, Juliusz; Wang, Jun; Bou-Ammar, Haitham"
+
+How Large Language Models Implement Chain-of-Thought?,2023-10-13,https://openreview.net/forum?id=b2XfOm3RJa,"Wang, Yiqun; Hu, Sile; Zhang, Yonggang; Tian, Xiang; Liu, Xuesong; Chen, Yaowu; Shen, Xu; Ye, Jieping"
+
+The Expressive Power of Transformers with Chain of Thought,2023-10-13,https://openreview.net/forum?id=NjNGlPh8Wh,"Merrill, William; Sabharwal, Ashish"
+
