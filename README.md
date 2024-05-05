@@ -51,6 +51,11 @@ Here are some phenomena that are interesting to investigate in language models.
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: In-Context Learning with Long-Context Models: An In-Depth Exploration [[paper link]](http://arxiv.org/abs/2405.00200) 2024-04-30  
+**Authors**: Bertsch, Amanda; Ivgi, Maor; Alon, Uri; Berant, Jonathan; Gormley, Matthew R.; Neubig, Graham
+
+
+
 **Title**: What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation [[paper link]](http://arxiv.org/abs/2404.07129) 2024-04-10  
 **Authors**: Singh, Aaditya K.; Moskovitz, Ted; Hill, Felix; Chan, Stephanie C. Y.; Saxe, Andrew M.
 
