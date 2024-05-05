@@ -67,3 +67,5 @@ What Can Transformers Learn In-Context? A Case Study of Simple Function Classes,
 Transformers generalize differently from information stored in context vs in weights,2022-10-13,http://arxiv.org/abs/2210.05675,"Chan, Stephanie C. Y.; Dasgupta, Ishita; Kim, Junkyung; Kumaran, Dharshan; Lampinen, Andrew K.; Hill, Felix"
 
 Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models,2023-10-26,https://arxiv.org/abs/2310.17086v1,"Fu, Deqing; Chen, Tian-Qi; Jia, Robin; Sharan, Vatsal"
+
+In-Context Learning with Long-Context Models: An In-Depth Exploration,2024-04-30,http://arxiv.org/abs/2405.00200,"Bertsch, Amanda; Ivgi, Maor; Alon, Uri; Berant, Jonathan; Gormley, Matthew R.; Neubig, Graham"
