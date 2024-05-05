@@ -16,6 +16,8 @@ If you have any suggestions or want to contribute, please feel free to open an i
 
 For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
 
+You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-transformers-LM-analytics/discussions).
+
 Table of Content
 ====================
 - [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)
@@ -106,6 +108,11 @@ Here are some phenomena that are interesting to investigate in language models.
 
 **Title**: Transformers learn to implement preconditioned gradient descent for in-context learning [[paper link]](http://arxiv.org/abs/2306.00297) 2023-11-09  
 **Authors**: Ahn, Kwangjun; Cheng, Xiang; Daneshmand, Hadi; Sra, Suvrit
+
+
+
+**Title**: Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models [[paper link]](https://arxiv.org/abs/2310.17086v1) 2023-10-26  
+**Authors**: Fu, Deqing; Chen, Tian-Qi; Jia, Robin; Sharan, Vatsal
 
 
 
@@ -233,11 +240,6 @@ Here are some phenomena that are interesting to investigate in language models.
 
 **Title**: Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective [[paper link]](http://arxiv.org/abs/2305.15408) 2023-12-22  
 **Authors**: Feng, Guhao; Zhang, Bohang; Gu, Yuntian; Ye, Haotian; He, Di; Wang, Liwei
-
-
-
-**Title**: Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models [[paper link]](https://arxiv.org/abs/2310.17086v1) 2023-10-26  
-**Authors**: Fu, Deqing; Chen, Tian-Qi; Jia, Robin; Sharan, Vatsal
 
 
 
