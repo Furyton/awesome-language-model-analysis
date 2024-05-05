@@ -349,6 +349,11 @@ This section includes papers that investigate how the performance of language mo
 
 
 
+**Title**: A Tale of Tails: Model Collapse as a Change of Scaling Laws [[paper link]](https://arxiv.org/abs/2402.07043) 2024-02-10  
+**Authors**: Dohmatob, Elvis; Feng, Yunzhen; Yang, Pu; Charton, Francois; Kempe, Julia
+
+
+
 **Title**: Scaling Data-Constrained Language Models [[paper link]](http://arxiv.org/abs/2305.16264) 2023-10-25  
 **Authors**: Muennighoff, Niklas; Rush, Alexander M.; Barak, Boaz; Scao, Teven Le; Piktus, Aleksandra; Tazi, Nouamane; Pyysalo, Sampo; Wolf, Thomas; Raffel, Colin
 
