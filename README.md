@@ -969,6 +969,11 @@ This section includes papers that mainly investigate the mechanisms of language 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: Understand LLMs Requires More Than Statistical Generalization [[paper link]](http://arxiv.org/abs/2405.01964) 2024-05-03  
+**Authors**: Reizinger, Patrik; Ujváry, Szilvia; Mészáros, Anna; Kerekes, Anna; Brendel, Wieland; Huszár, Ferenc
+
+
+
 **Title**: Compression Represents Intelligence Linearly [[paper link]](http://arxiv.org/abs/2404.09937) 2024-04-15  
 **Authors**: Huang, Yuzhen; Zhang, Jinghan; Shan, Zifei; He, Junxian
 
