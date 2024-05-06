@@ -1,13 +1,27 @@
-Title,Date,Url,Author
-Compression Represents Intelligence Linearly,2024-04-15,http://arxiv.org/abs/2404.09937,"Huang, Yuzhen; Zhang, Jinghan; Shan, Zifei; He, Junxian"
-Language Generation in the Limit,2024-04-10,http://arxiv.org/abs/2404.06757,"Kleinberg, Jon; Mullainathan, Sendhil"
-Do language models plan ahead for future tokens?,2024-03-31,http://arxiv.org/abs/2404.00859,"Wu, Wilson; Morris, John X.; Levine, Lionel"
-Universality and Limitations of Prompt Tuning,2023-11-16,http://arxiv.org/abs/2305.18787,"Wang, Yihan; Chauhan, Jatin; Wang, Wei; Hsieh, Cho-Jui"
-Data Similarity is Not Enough to Explain Language Model Performance,2023-11-15,http://arxiv.org/abs/2311.09006,"Yauney, Gregory; Reif, Emily; Mimno, David"
-Simplifying Transformer Blocks,2023-11-03,http://arxiv.org/abs/2311.01906,"He, Bobby; Hofmann, Thomas"
-Causal Interpretation of Self-Attention in Pre-Trained Transformers,2023-10-31,http://arxiv.org/abs/2310.20307,"Rohekar, Raanan Y.; Gurwicz, Yaniv; Nisimov, Shami"
-How do Language Models Bind Entities in Context?,2023-10-26,http://arxiv.org/abs/2310.17191,"Feng, Jiahai; Steinhardt, Jacob"
-Understanding prompt engineering may not require rethinking generalization,2023-10-13,https://openreview.net/forum?id=a745RnSFLT,"Akinwande, Victor; Jiang, Yiding; Sam, Dylan; Kolter, J. Zico"
-Understanding Catastrophic Forgetting in Language Models via Implicit Inference,2023-09-18,http://arxiv.org/abs/2309.10105,"Kotha, Suhas; Springer, Jacob Mitchell; Raghunathan, Aditi"
-Attention-Only Transformers and Implementing MLPs with Attention Heads,2023-09-15,http://arxiv.org/abs/2309.08593,"Huben, Robert; Morris, Valerie"
-On the Role of Attention in Prompt-tuning,2023-06-15,https://openreview.net/forum?id=qorOnDor89,"Oymak, Samet; Rawat, Ankit Singh; Soltanolkotabi, Mahdi; Thrampoulidis, Christos"
+Title,Date,Url,Author
+
+Compression Represents Intelligence Linearly,2024-04-15,http://arxiv.org/abs/2404.09937,"Huang, Yuzhen; Zhang, Jinghan; Shan, Zifei; He, Junxian"
+
+Language Generation in the Limit,2024-04-10,http://arxiv.org/abs/2404.06757,"Kleinberg, Jon; Mullainathan, Sendhil"
+
+Do language models plan ahead for future tokens?,2024-03-31,http://arxiv.org/abs/2404.00859,"Wu, Wilson; Morris, John X.; Levine, Lionel"
+
+Universality and Limitations of Prompt Tuning,2023-11-16,http://arxiv.org/abs/2305.18787,"Wang, Yihan; Chauhan, Jatin; Wang, Wei; Hsieh, Cho-Jui"
+
+Data Similarity is Not Enough to Explain Language Model Performance,2023-11-15,http://arxiv.org/abs/2311.09006,"Yauney, Gregory; Reif, Emily; Mimno, David"
+
+Simplifying Transformer Blocks,2023-11-03,http://arxiv.org/abs/2311.01906,"He, Bobby; Hofmann, Thomas"
+
+Causal Interpretation of Self-Attention in Pre-Trained Transformers,2023-10-31,http://arxiv.org/abs/2310.20307,"Rohekar, Raanan Y.; Gurwicz, Yaniv; Nisimov, Shami"
+
+How do Language Models Bind Entities in Context?,2023-10-26,http://arxiv.org/abs/2310.17191,"Feng, Jiahai; Steinhardt, Jacob"
+
+Understanding prompt engineering may not require rethinking generalization,2023-10-13,https://openreview.net/forum?id=a745RnSFLT,"Akinwande, Victor; Jiang, Yiding; Sam, Dylan; Kolter, J. Zico"
+
+Understanding Catastrophic Forgetting in Language Models via Implicit Inference,2023-09-18,http://arxiv.org/abs/2309.10105,"Kotha, Suhas; Springer, Jacob Mitchell; Raghunathan, Aditi"
+
+Attention-Only Transformers and Implementing MLPs with Attention Heads,2023-09-15,http://arxiv.org/abs/2309.08593,"Huben, Robert; Morris, Valerie"
+
+On the Role of Attention in Prompt-tuning,2023-06-15,https://openreview.net/forum?id=qorOnDor89,"Oymak, Samet; Rawat, Ankit Singh; Soltanolkotabi, Mahdi; Thrampoulidis, Christos"
+
+Understand LLMs Requires More Than Statistical Generalization,2024-05-03,http://arxiv.org/abs/2405.01964,"Reizinger, Patrik; Ujváry, Szilvia; Mészáros, Anna; Kerekes, Anna; Brendel, Wieland; Huszár, Ferenc"
