@@ -26,6 +26,7 @@ Table of Content
     - [In-Context Learning](#in-context-learning)
     - [Chain-of-Thought](#chain-of-thought)
     - [Hallucination](#hallucination)
+    - [Reversal Curse](#reversal-curse)
     - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
     - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
     - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
@@ -270,6 +271,11 @@ Here are some phenomena that are interesting to investigate in language models.
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations? [[paper link]](http://arxiv.org/abs/2405.05904) 2024-05-09  
+**Authors**: Gekhman, Zorik; Yona, Gal; Aharoni, Roee; Eyal, Matan; Feder, Amir; Reichart, Roi; Herzig, Jonathan
+
+
+
 **Title**: Mechanisms of non-factual hallucinations in language models [[paper link]](http://arxiv.org/abs/2403.18167) 2024-03-26  
 **Authors**: Yu, Lei; Cao, Meng; Cheung, Jackie Chi Kit; Dong, Yue
 
@@ -292,6 +298,18 @@ Here are some phenomena that are interesting to investigate in language models.
 
 **Title**: The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models [[paper link]](http://arxiv.org/abs/2310.11877) 2023-10-18  
 **Authors**: Slobodkin, Aviv; Goldman, Omer; Caciularu, Avi; Dagan, Ido; Ravfogel, Shauli
+
+
+</details>
+
+### Reversal Curse
+
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
+
+**Title**: Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics [[paper link]](http://arxiv.org/abs/2405.04669) 2024-05-07  
+**Authors**: Zhu, Hanlin; Huang, Baihe; Zhang, Shaolun; Jordan, Michael; Jiao, Jiantao; Tian, Yuandong; Russell, Stuart
 
 
 </details>
@@ -425,6 +443,11 @@ This section focuses on the training dynamics of language models, including the 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics [[paper link]](http://arxiv.org/abs/2405.04669) 2024-05-07  
+**Authors**: Zhu, Hanlin; Huang, Baihe; Zhang, Shaolun; Jordan, Michael; Jiao, Jiantao; Tian, Yuandong; Russell, Stuart
+
+
+
 **Title**: Control Theoretic Approach to Fine-Tuning and Transfer Learning [[paper link]](http://arxiv.org/abs/2404.11013) 2024-04-16  
 **Authors**: Bayram, Erkan; Liu, Shenyu; Belabbas, Mohamed-Ali; Başar, Tamer
 
@@ -457,6 +480,11 @@ This section focuses on the training dynamics of language models, including the 
 
 **Title**: Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models [[paper link]](http://arxiv.org/abs/2403.09635) 2024-03-14  
 **Authors**: Kedia, Akhil; Zaidi, Mohd Abbas; Khyalia, Sushil; Jung, Jungho; Goka, Harshith; Lee, Haejun
+
+
+
+**Title**: Linear Attention is (Maybe) All You Need (to Understand Transformer Optimization) [[paper link]](http://arxiv.org/abs/2310.01082) 2024-03-13  
+**Authors**: Ahn, Kwangjun; Cheng, Xiang; Song, Minhak; Yun, Chulhee; Jadbabaie, Ali; Sra, Suvrit
 
 
 
@@ -518,6 +546,11 @@ This section includes papers that investigate the generalization ability of lang
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+**Title**: Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing [[paper link]](http://arxiv.org/abs/2405.05409) 2024-05-08  
+**Authors**: Zhang, Zhongwang; Lin, Pengxiao; Wang, Zhiwei; Zhang, Yaoyu; Xu, Zhi-Qin John
+
+
 
 **Title**: Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks [[paper link]](http://arxiv.org/abs/2311.12786) 2023-11-21  
 **Authors**: Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott
@@ -917,6 +950,11 @@ This section includes papers that mainly investigate the mechanisms of language 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions [[paper link]](https://arxiv.org/abs/2405.03205) 2024-05-06  
+**Authors**: Li, Ruizhe; Gao, Yanjun
+
+
+
 **Title**: A Primer on the Inner Workings of Transformer-based Language Models [[paper link]](https://arxiv.org/abs/2405.00208) 2024-05-02  
 **Authors**: Ferrando, Javier; Sarti, Gabriele; Bisazza, Arianna; Costa-jussà, Marta R.
 
@@ -986,6 +1024,11 @@ This section includes papers that mainly investigate the mechanisms of language 
 
 **Title**: Do language models plan ahead for future tokens? [[paper link]](http://arxiv.org/abs/2404.00859) 2024-03-31  
 **Authors**: Wu, Wilson; Morris, John X.; Levine, Lionel
+
+
+
+**Title**: What's In My Big Data? [[paper link]](http://arxiv.org/abs/2310.20707) 2024-03-05  
+**Authors**: Elazar, Yanai; Bhagia, Akshita; Magnusson, Ian; Ravichander, Abhilasha; Schwenk, Dustin; Suhr, Alane; Walsh, Pete; Groeneveld, Dirk; Soldaini, Luca; Singh, Sameer; Hajishirzi, Hanna; Smith, Noah A.; Dodge, Jesse
 
 
 
