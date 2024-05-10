@@ -1,6 +1,13 @@
-Title,Date,Url,Author
-Mechanisms of non-factual hallucinations in language models,2024-03-26,http://arxiv.org/abs/2403.18167,"Yu, Lei; Cao, Meng; Cheung, Jackie Chi Kit; Dong, Yue"
-Unfamiliar Finetuning Examples Control How Language Models Hallucinate,2024-03-08,http://arxiv.org/abs/2403.05612,"Kang, Katie; Wallace, Eric; Tomlin, Claire; Kumar, Aviral; Levine, Sergey"
-In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation,2024-03-05,http://arxiv.org/abs/2403.01548,"Chen, Shiqi; Xiong, Miao; Liu, Junteng; Wu, Zhengxuan; Xiao, Teng; Gao, Siyang; He, Junxian"
-Calibrated Language Models Must Hallucinate,2023-11-24,http://arxiv.org/abs/2311.14648,"Kalai, Adam Tauman; Vempala, Santosh S."
-The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models,2023-10-18,http://arxiv.org/abs/2310.11877,"Slobodkin, Aviv; Goldman, Omer; Caciularu, Avi; Dagan, Ido; Ravfogel, Shauli"
+Title,Date,Url,Author
+
+Mechanisms of non-factual hallucinations in language models,2024-03-26,http://arxiv.org/abs/2403.18167,"Yu, Lei; Cao, Meng; Cheung, Jackie Chi Kit; Dong, Yue"
+
+Unfamiliar Finetuning Examples Control How Language Models Hallucinate,2024-03-08,http://arxiv.org/abs/2403.05612,"Kang, Katie; Wallace, Eric; Tomlin, Claire; Kumar, Aviral; Levine, Sergey"
+
+In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation,2024-03-05,http://arxiv.org/abs/2403.01548,"Chen, Shiqi; Xiong, Miao; Liu, Junteng; Wu, Zhengxuan; Xiao, Teng; Gao, Siyang; He, Junxian"
+
+Calibrated Language Models Must Hallucinate,2023-11-24,http://arxiv.org/abs/2311.14648,"Kalai, Adam Tauman; Vempala, Santosh S."
+
+The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models,2023-10-18,http://arxiv.org/abs/2310.11877,"Slobodkin, Aviv; Goldman, Omer; Caciularu, Avi; Dagan, Ido; Ravfogel, Shauli"
+
+Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?,2024-05-09,http://arxiv.org/abs/2405.05904,"Gekhman, Zorik; Yona, Gal; Aharoni, Roee; Eyal, Matan; Feder, Amir; Reichart, Roi; Herzig, Jonathan"

@@ -17,3 +17,5 @@ Transformers are uninterpretable with myopic methods: a case study with bounded 
 White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?,2023-11-22,https://arxiv.org/abs/2311.13110v2,"Yu, Yaodong; Buchanan, Sam; Pai, Druv; Chu, Tianzhe; Wu, Ziyang; Tong, Shengbang; Bai, Hao; Zhai, Yuexiang; Haeffele, Benjamin D.; Ma, Yi"
 
 A Primer on the Inner Workings of Transformer-based Language Models,2024-05-02,https://arxiv.org/abs/2405.00208,"Ferrando, Javier; Sarti, Gabriele; Bisazza, Arianna; Costa-jussà, Marta R."
+
+Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions,2024-05-06,https://arxiv.org/abs/2405.03205,"Li, Ruizhe; Gao, Yanjun"

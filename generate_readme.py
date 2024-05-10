@@ -9,6 +9,7 @@ directory = [
     "phenomena-of-interest/in-context-learning",
     "phenomena-of-interest/chain-of-thought",
     "phenomena-of-interest/hallucination",
+    "phenomena-of-interest/reversal-curse",
     "phenomena-of-interest/scaling-laws",
     "phenomena-of-interest/knowledge",
     "phenomena-of-interest/training-dynamics",

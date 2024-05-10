@@ -26,6 +26,7 @@ Table of Content
     - [In-Context Learning](#in-context-learning)
     - [Chain-of-Thought](#chain-of-thought)
     - [Hallucination](#hallucination)
+    - [Reversal Curse](#reversal-curse)
     - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
     - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
     - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
@@ -69,6 +70,15 @@ Here are some phenomena that are interesting to investigate in language models.
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 {phenomena-of-interest/hallucination}
+
+</details>
+
+### Reversal Curse
+
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
+{phenomena-of-interest/reversal-curse}
 
 </details>
 
