@@ -1,9 +1,5 @@
 Title,Date,Url,Author
-
-Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,"Zhu, Hanlin; Huang, Baihe; Zhang, Shaolun; Jordan, Michael; Jiao, Jiantao; Tian, Yuandong; Russell, Stuart"
-
-The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A",2024-04-04,http://arxiv.org/abs/2309.12288,"Berglund, Lukas; Tong, Meg; Kaufmann, Max; Balesni, Mikita; Stickland, Asa Cooper; Korbak, Tomasz; Evans, Owain"
-
-An Investigation of LLMs' Inefficacy in Understanding Converse Relations,2023-12-01,https://aclanthology.org/2023.emnlp-main.429,"Qi, Chengwen; Li, Bowen; Hui, Binyuan; Wang, Bailin; Li, Jinyang; Wu, Jinwang; Laili, Yuanjun"
-
-Physics of Language Models: Part 3.2, Knowledge Manipulation,2023-09-25,http://arxiv.org/abs/2309.14402,"Allen-Zhu, Zeyuan; Li, Yuanzhi"
+Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,Hanlin Zhu; Baihe Huang; Shaolun Zhang; Michael Jordan; Jiantao Jiao; Yuandong Tian; Stuart Russell
+"The Reversal Curse: LLMs trained on ""A is B"" fail to learn ""B is A""",2024-04-04,http://arxiv.org/abs/2309.12288,Lukas Berglund; Meg Tong; Max Kaufmann; Mikita Balesni; Asa Cooper Stickland; Tomasz Korbak; Owain Evans
+An Investigation of LLMs' Inefficacy in Understanding Converse Relations,2023-12-01,https://aclanthology.org/2023.emnlp-main.429,Chengwen Qi; Bowen Li; Binyuan Hui; Bailin Wang; Jinyang Li; Jinwang Wu; Yuanjun Laili
+"Physics of Language Models: Part 3.2, Knowledge Manipulation",2023-09-25,http://arxiv.org/abs/2309.14402,Zeyuan Allen-Zhu; Yuanzhi Li

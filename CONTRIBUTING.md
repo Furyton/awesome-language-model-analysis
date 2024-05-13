@@ -17,6 +17,7 @@ papers
 │   ├── knowledge
 │   ├── training-dynamics
 │   ├── learning
+│   ├── reversal-curse
 │   └── other-phenomena
 ├── representational-capacity
 │   ├── what-can-transformer-do
@@ -60,7 +61,7 @@ Here is a very concrete example on how to contribute:
 Title,Date,Url,Author
 ... # papers already in the file
 
-On the Role of Attention in Prompt-tuning,2023-06-15,https://openreview.net/forum?id=qorOnDor89,"Oymak, Samet; Rawat, Ankit Singh; Soltanolkotabi, Mahdi; Thrampoulidis, Christos"
+Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,2024-05-08,http://arxiv.org/abs/2405.05409,Zhongwang Zhang; Pengxiao Lin; Zhiwei Wang; Yaoyu Zhang; Zhi-Qin John Xu
 ```
 
 4. Pull request to the `main` branch.

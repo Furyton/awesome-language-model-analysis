@@ -1,5 +1,5 @@
-Title,Date,Url,Author
-The Expressive Power of Tuning Only the Normalization Layers,2023-07-12,https://proceedings.mlr.press/v195/giannou23a.html,"Giannou, Angeliki; Rajput, Shashank; Papailiopoulos, Dimitris"
-ResiDual: Transformer with Dual Residual Connections,2023-04-28,http://arxiv.org/abs/2304.14802,"Xie, Shufang; Zhang, Huishuai; Guo, Junliang; Tan, Xu; Bian, Jiang; Awadalla, Hany Hassan; Menezes, Arul; Qin, Tao; Yan, Rui"
-"DeepNet: Scaling Transformers to 1,000 Layers",2022-03-01,http://arxiv.org/abs/2203.00555,"Wang, Hongyu; Ma, Shuming; Dong, Li; Huang, Shaohan; Zhang, Dongdong; Wei, Furu"
-On Layer Normalization in the Transformer Architecture,2020-06-29,http://arxiv.org/abs/2002.04745,"Xiong, Ruibin; Yang, Yunchang; He, Di; Zheng, Kai; Zheng, Shuxin; Xing, Chen; Zhang, Huishuai; Lan, Yanyan; Wang, Liwei; Liu, Tie-Yan"
+Title,Date,Url,Author
+The Expressive Power of Tuning Only the Normalization Layers,2023-07-12,https://proceedings.mlr.press/v195/giannou23a.html,Angeliki Giannou; Shashank Rajput; Dimitris Papailiopoulos
+ResiDual: Transformer with Dual Residual Connections,2023-04-28,http://arxiv.org/abs/2304.14802,Shufang Xie; Huishuai Zhang; Junliang Guo; Xu Tan; Jiang Bian; Hany Hassan Awadalla; Arul Menezes; Tao Qin; Rui Yan
+"DeepNet: Scaling Transformers to 1,000 Layers",2022-03-01,http://arxiv.org/abs/2203.00555,Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei
+On Layer Normalization in the Transformer Architecture,2020-06-29,http://arxiv.org/abs/2002.04745,Ruibin Xiong; Yunchang Yang; Di He; Kai Zheng; Shuxin Zheng; Chen Xing; Huishuai Zhang; Yanyan Lan; Liwei Wang; Tie-Yan Liu

@@ -1,39 +1,20 @@
 Title,Date,Url,Author
-
-Control Theoretic Approach to Fine-Tuning and Transfer Learning,2024-04-16,http://arxiv.org/abs/2404.11013,"Bayram, Erkan; Liu, Shenyu; Belabbas, Mohamed-Ali; Başar, Tamer"
-
-Look at the Text: Instruction-Tuned Language Models are More Robust Multiple Choice Selectors than You Think,2024-04-12,http://arxiv.org/abs/2404.08382,"Wang, Xinpeng; Hu, Chengzhi; Ma, Bolei; Röttger, Paul; Plank, Barbara"
-
-On Training Data Influence of GPT Models,2024-04-11,http://arxiv.org/abs/2404.07840,"Liu, Qingyi; Chai, Yekun; Wang, Shuohuan; Sun, Yu; Wang, Keze; Wu, Hua"
-
-Best Practices and Lessons Learned on Synthetic Data for Language Models,2024-04-11,http://arxiv.org/abs/2404.07503,"Liu, Ruibo; Wei, Jerry; Liu, Fangyu; Si, Chenglei; Zhang, Yanzhe; Rao, Jinmeng; Zheng, Steven; Peng, Daiyi; Yang, Diyi; Zhou, Denny; Dai, Andrew M."
-
-How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse,2024-04-07,http://arxiv.org/abs/2404.05090,"Seddik, Mohamed El Amine; Chen, Suei-Wen; Hayou, Soufiane; Youssef, Pierre; Debbah, Merouane"
-
-Unveiling the Generalization Power of Fine-Tuned Large Language Models,2024-03-14,http://arxiv.org/abs/2403.09162,"Yang, Haoran; Zhang, Yumeng; Xu, Jiaqi; Lu, Hongyuan; Heng, Pheng Ann; Lam, Wai"
-
-Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models,2024-03-14,http://arxiv.org/abs/2403.09635,"Kedia, Akhil; Zaidi, Mohd Abbas; Khyalia, Sushil; Jung, Jungho; Goka, Harshith; Lee, Haejun"
-
-"Hallmarks of Optimization Trajectories in Neural Networks and LLMs: The Lengths, Bends, and Dead Ends",2024-03-12,http://arxiv.org/abs/2403.07379,"Singh, Sidak Pal; He, Bobby; Hofmann, Thomas; Schölkopf, Bernhard"
-
-The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models,2024-03-06,http://arxiv.org/abs/2403.03942,"Bhaskar, Adithya; Friedman, Dan; Chen, Danqi"
-
-"Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality",2024-02-29,http://arxiv.org/abs/2402.19442,"Chen, Siyu; Sheen, Heejune; Wang, Tianhao; Yang, Zhuoran"
-
-How Transformers Learn Causal Structure with Gradient Descent,2024-02-22,http://arxiv.org/abs/2402.14735,"Nichani, Eshaan; Damian, Alex; Lee, Jason D."
-
-Transformers learn through gradual rank increase,2023-12-10,http://arxiv.org/abs/2306.07042,"Boix-Adsera, Enric; Littwin, Etai; Abbe, Emmanuel; Bengio, Samy; Susskind, Joshua"
-
-Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,"Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott"
-
-Connecting Pre-trained Language Model and Downstream Task via Properties of Representation,2023-11-02,https://openreview.net/forum?id=YLOJ4aKAka,"Wu, Chenwei; Lee, Holden; Ge, Rong"
-
-Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer,2023-07-02,http://arxiv.org/abs/2305.16380,"Tian, Yuandong; Wang, Yiping; Chen, Beidi; Du, Simon"
-
-A Kernel-Based View of Language Model Fine-Tuning,2023-06-15,https://openreview.net/forum?id=49dTFIGdx8,"Malladi, Sadhika; Wettig, Alexander; Yu, Dingli; Chen, Danqi; Arora, Sanjeev"
-
-A Stability Analysis of Fine-Tuning a Pre-Trained Model,2023-01-24,https://arxiv.org/abs/2301.09820v2,"Fu, Zihao; So, Anthony Man-Cho; Collier, Nigel"
-
-Linear Attention is (Maybe) All You Need (to Understand Transformer Optimization),2024-03-13,http://arxiv.org/abs/2310.01082,"Ahn, Kwangjun; Cheng, Xiang; Song, Minhak; Yun, Chulhee; Jadbabaie, Ali; Sra, Suvrit"
-
-Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,"Zhu, Hanlin; Huang, Baihe; Zhang, Shaolun; Jordan, Michael; Jiao, Jiantao; Tian, Yuandong; Russell, Stuart"
+Control Theoretic Approach to Fine-Tuning and Transfer Learning,2024-04-16,http://arxiv.org/abs/2404.11013,Erkan Bayram; Shenyu Liu; Mohamed-Ali Belabbas; Tamer Başar
+Look at the Text: Instruction-Tuned Language Models are More Robust Multiple Choice Selectors than You Think,2024-04-12,http://arxiv.org/abs/2404.08382,Xinpeng Wang; Chengzhi Hu; Bolei Ma; Paul Röttger; Barbara Plank
+On Training Data Influence of GPT Models,2024-04-11,http://arxiv.org/abs/2404.07840,Qingyi Liu; Yekun Chai; Shuohuan Wang; Yu Sun; Keze Wang; Hua Wu
+Best Practices and Lessons Learned on Synthetic Data for Language Models,2024-04-11,http://arxiv.org/abs/2404.07503,Ruibo Liu; Jerry Wei; Fangyu Liu; Chenglei Si; Yanzhe Zhang; Jinmeng Rao; Steven Zheng; Daiyi Peng; Diyi Yang; Denny Zhou; Andrew M. Dai
+How Bad is Training on Synthetic Data? A Statistical Analysis of Language Model Collapse,2024-04-07,http://arxiv.org/abs/2404.05090,Mohamed El Amine Seddik; Suei-Wen Chen; Soufiane Hayou; Pierre Youssef; Merouane Debbah
+Unveiling the Generalization Power of Fine-Tuned Large Language Models,2024-03-14,http://arxiv.org/abs/2403.09162,Haoran Yang; Yumeng Zhang; Jiaqi Xu; Hongyuan Lu; Pheng Ann Heng; Wai Lam
+Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models,2024-03-14,http://arxiv.org/abs/2403.09635,Akhil Kedia; Mohd Abbas Zaidi; Sushil Khyalia; Jungho Jung; Harshith Goka; Haejun Lee
+"Hallmarks of Optimization Trajectories in Neural Networks and LLMs: The Lengths, Bends, and Dead Ends",2024-03-12,http://arxiv.org/abs/2403.07379,Sidak Pal Singh; Bobby He; Thomas Hofmann; Bernhard Schölkopf
+The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models,2024-03-06,http://arxiv.org/abs/2403.03942,Adithya Bhaskar; Dan Friedman; Danqi Chen
+"Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality",2024-02-29,http://arxiv.org/abs/2402.19442,Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
+How Transformers Learn Causal Structure with Gradient Descent,2024-02-22,http://arxiv.org/abs/2402.14735,Eshaan Nichani; Alex Damian; Jason D. Lee
+Transformers learn through gradual rank increase,2023-12-10,http://arxiv.org/abs/2306.07042,Enric Boix-Adsera; Etai Littwin; Emmanuel Abbe; Samy Bengio; Joshua Susskind
+Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,Samyak Jain; Robert Kirk; Ekdeep Singh Lubana; Robert P. Dick; Hidenori Tanaka; Edward Grefenstette; Tim Rocktäschel; David Scott Krueger
+Connecting Pre-trained Language Model and Downstream Task via Properties of Representation,2023-11-02,https://openreview.net/forum?id=YLOJ4aKAka,Chenwei Wu; Holden Lee; Rong Ge
+Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer,2023-07-02,http://arxiv.org/abs/2305.16380,Yuandong Tian; Yiping Wang; Beidi Chen; Simon Du
+A Kernel-Based View of Language Model Fine-Tuning,2023-06-15,https://openreview.net/forum?id=49dTFIGdx8,Sadhika Malladi; Alexander Wettig; Dingli Yu; Danqi Chen; Sanjeev Arora
+A Stability Analysis of Fine-Tuning a Pre-Trained Model,2023-01-24,https://arxiv.org/abs/2301.09820v2,Zihao Fu; Anthony Man-Cho So; Nigel Collier
+Linear Attention is (Maybe) All You Need (to Understand Transformer Optimization),2024-03-13,http://arxiv.org/abs/2310.01082,Kwangjun Ahn; Xiang Cheng; Minhak Song; Chulhee Yun; Ali Jadbabaie; Suvrit Sra
+Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,Hanlin Zhu; Baihe Huang; Shaolun Zhang; Michael Jordan; Jiantao Jiao; Yuandong Tian; Stuart Russell

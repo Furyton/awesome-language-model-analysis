@@ -1,27 +1,14 @@
 Title,Date,Url,Author
-
-Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,"Jain, Samyak; Kirk, Robert; Lubana, Ekdeep Singh; Dick, Robert P.; Tanaka, Hidenori; Grefenstette, Edward; Rocktäschel, Tim; Krueger, David Scott"
-
-The Impact of Depth and Width on Transformer Language Model Generalization,2023-10-30,http://arxiv.org/abs/2310.19956,"Petty, Jackson; van Steenkiste, Sjoerd; Dasgupta, Ishita; Sha, Fei; Garrette, Dan; Linzen, Tal"
-
-How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition,2023-10-09,http://arxiv.org/abs/2310.05492,"Dong, Guanting; Yuan, Hongyi; Lu, Keming; Li, Chengpeng; Xue, Mingfeng; Liu, Dayiheng; Wang, Wei; Yuan, Zheng; Zhou, Chang; Zhou, Jingren"
-
-A Theory for Emergence of Complex Skills in Language Models,2023-07-29,http://arxiv.org/abs/2307.15936,"Arora, Sanjeev; Goyal, Anirudh"
-
-On the Power of Foundation Models,2023-07-03,https://proceedings.mlr.press/v202/yuan23b.html,"Yuan, Yang"
-
-Task-Specific Skill Localization in Fine-tuned Language Models,2023-06-15,https://openreview.net/forum?id=Rgnaj43Pk0,"Panigrahi, Abhishek; Saunshi, Nikunj; Zhao, Haoyu; Arora, Sanjeev"
-
-Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks,2023-02-11,http://arxiv.org/abs/2206.03826,"Pan, Jiachun; Zhou, Pan; Yan, Shuicheng"
-
-"Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models",2022-10-25,http://arxiv.org/abs/2210.14199,"Liu, Hong; Xie, Sang Michael; Li, Zhiyuan; Ma, Tengyu"
-
-Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning,2022-04-20,http://arxiv.org/abs/2106.09226,"Wei, Colin; Xie, Sang Michael; Ma, Tengyu"
-
-A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks,2021-04-14,http://arxiv.org/abs/2010.03648,"Saunshi, Nikunj; Malladi, Sadhika; Arora, Sanjeev"
-
-Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,2020-12-22,http://arxiv.org/abs/2012.13255,"Aghajanyan, Armen; Zettlemoyer, Luke; Gupta, Sonal"
-
-How fine can fine-tuning be? Learning efficient language models,2020-06-03,https://proceedings.mlr.press/v108/radiya-dixit20a.html,"Radiya-Dixit, Evani; Wang, Xin"
-
-Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,2024-05-08,http://arxiv.org/abs/2405.05409,"Zhang, Zhongwang; Lin, Pengxiao; Wang, Zhiwei; Zhang, Yaoyu; Xu, Zhi-Qin John"
+Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks,2023-11-21,http://arxiv.org/abs/2311.12786,Samyak Jain; Robert Kirk; Ekdeep Singh Lubana; Robert P. Dick; Hidenori Tanaka; Edward Grefenstette; Tim Rocktäschel; David Scott Krueger
+The Impact of Depth and Width on Transformer Language Model Generalization,2023-10-30,http://arxiv.org/abs/2310.19956,Jackson Petty; Sjoerd van Steenkiste; Ishita Dasgupta; Fei Sha; Dan Garrette; Tal Linzen
+How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition,2023-10-09,http://arxiv.org/abs/2310.05492,Guanting Dong; Hongyi Yuan; Keming Lu; Chengpeng Li; Mingfeng Xue; Dayiheng Liu; Wei Wang; Zheng Yuan; Chang Zhou; Jingren Zhou
+A Theory for Emergence of Complex Skills in Language Models,2023-07-29,http://arxiv.org/abs/2307.15936,Sanjeev Arora; Anirudh Goyal
+On the Power of Foundation Models,2023-07-03,https://proceedings.mlr.press/v202/yuan23b.html,Yang Yuan
+Task-Specific Skill Localization in Fine-tuned Language Models,2023-06-15,https://openreview.net/forum?id=Rgnaj43Pk0,Abhishek Panigrahi; Nikunj Saunshi; Haoyu Zhao; Sanjeev Arora
+Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks,2023-02-11,http://arxiv.org/abs/2206.03826,Jiachun Pan; Pan Zhou; Shuicheng Yan
+"Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models",2022-10-25,http://arxiv.org/abs/2210.14199,Hong Liu; Sang Michael Xie; Zhiyuan Li; Tengyu Ma
+Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning,2022-04-20,http://arxiv.org/abs/2106.09226,Colin Wei; Sang Michael Xie; Tengyu Ma
+A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks,2021-04-14,http://arxiv.org/abs/2010.03648,Nikunj Saunshi; Sadhika Malladi; Sanjeev Arora
+Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,2020-12-22,http://arxiv.org/abs/2012.13255,Armen Aghajanyan; Luke Zettlemoyer; Sonal Gupta
+How fine can fine-tuning be? Learning efficient language models,2020-06-03,https://proceedings.mlr.press/v108/radiya-dixit20a.html,Evani Radiya-Dixit; Xin Wang
+Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,2024-05-08,http://arxiv.org/abs/2405.05409,Zhongwang Zhang; Pengxiao Lin; Zhiwei Wang; Yaoyu Zhang; Zhi-Qin John Xu

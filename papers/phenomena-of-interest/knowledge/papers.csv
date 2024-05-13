@@ -1,13 +1,6 @@
 Title,Date,Url,Author
-
-"Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws",2024-04-08,http://arxiv.org/abs/2404.05405,"Allen-Zhu, Zeyuan; Li, Yuanzhi"
-
-Memorization Capacity of Multi-Head Attention in Transformers,2024-03-02,http://arxiv.org/abs/2306.02010,"Mahdavi, Sadegh; Liao, Renjie; Thrampoulidis, Christos"
-
-Birth of a Transformer: A Memory Viewpoint,2023-11-06,http://arxiv.org/abs/2306.00802,"Bietti, Alberto; Cabannes, Vivien; Bouchacourt, Diane; Jegou, Herve; Bottou, Leon"
-
-"Physics of Language Models: Part 3.2, Knowledge Manipulation",2023-09-25,http://arxiv.org/abs/2309.14402,"Allen-Zhu, Zeyuan; Li, Yuanzhi"
-
-Can Neural Network Memorization Be Localized?,2023-07-18,http://arxiv.org/abs/2307.09542,"Maini, Pratyush; Mozer, Michael C.; Sedghi, Hanie; Lipton, Zachary C.; Kolter, J. Zico; Zhang, Chiyuan"
-
-Physics of Language Models: Part 3.2, Knowledge Manipulation,2023-09-25,http://arxiv.org/abs/2309.14402,"Allen-Zhu, Zeyuan; Li, Yuanzhi"
+"Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws",2024-04-08,http://arxiv.org/abs/2404.05405,Zeyuan Allen-Zhu; Yuanzhi Li
+Memorization Capacity of Multi-Head Attention in Transformers,2024-03-02,http://arxiv.org/abs/2306.02010,Sadegh Mahdavi; Renjie Liao; Christos Thrampoulidis
+Birth of a Transformer: A Memory Viewpoint,2023-11-06,http://arxiv.org/abs/2306.00802,Alberto Bietti; Vivien Cabannes; Diane Bouchacourt; Herve Jegou; Leon Bottou
+"Physics of Language Models: Part 3.2, Knowledge Manipulation",2023-09-25,http://arxiv.org/abs/2309.14402,Zeyuan Allen-Zhu; Yuanzhi Li
+Can Neural Network Memorization Be Localized?,2023-07-18,http://arxiv.org/abs/2307.09542,Pratyush Maini; Michael C. Mozer; Hanie Sedghi; Zachary C. Lipton; J. Zico Kolter; Chiyuan Zhang

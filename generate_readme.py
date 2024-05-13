@@ -40,6 +40,11 @@ def get_section_list(topic):
         reader = csv.DictReader(f)
         # sort by date
         reader = sorted(reader, key=lambda x: x["Date"], reverse=True)
+        # sanity check of each row
+        for row in reader:
+            assert len(row.keys()) == 4, row
+            for key in row.keys():
+                assert key in ["Title", "Date", "Url", "Author"], row
         paper_list = [TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"]) for row in reader]
 
     paper_list = "\n\n".join(paper_list)
