@@ -1,33 +1,67 @@
-Title,Date,Url,Author
-Transformers Can Represent $n$-gram Language Models,2024-04-23,http://arxiv.org/abs/2404.14994,"Svete, Anej; Cotterell, Ryan"
-Mechanics of Next Token Prediction with Self-Attention,2024-04-18,https://proceedings.mlr.press/v238/li24f.html,"Li, Yingcong; Huang, Yixiao; Ildiz, Muhammed E.; Rawat, Ankit Singh; Oymak, Samet"
-When can transformers reason with abstract symbols?,2024-04-16,http://arxiv.org/abs/2310.09753,"Boix-Adsera, Enric; Saremi, Omid; Abbe, Emmanuel; Bengio, Samy; Littwin, Etai; Susskind, Joshua"
-The Illusion of State in State-Space Models,2024-04-12,http://arxiv.org/abs/2404.08819,"Merrill, William; Petty, Jackson; Sabharwal, Ashish"
-Attention is Naturally Sparse with Gaussian Distributed Input,2024-04-03,http://arxiv.org/abs/2404.02690,"Deng, Yichuan; Song, Zhao; Yang, Chiwun"
-What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks,2024-04-01,http://arxiv.org/abs/2404.01601,"Chen, Xingwu; Zou, Difan"
-The Topos of Transformer Networks,2024-03-27,http://arxiv.org/abs/2403.18415,"Villani, Mattia Jacopo; McBurney, Peter"
-Simulating Weighted Automata over Sequences and Trees with Transformers,2024-03-12,http://arxiv.org/abs/2403.09728,"Rizvi, Michael; Lizaire, Maude; Lacroce, Clara; Rabusseau, Guillaume"
-Simplicity Bias of Transformers to Learn Low Sensitivity Functions,2024-03-11,http://arxiv.org/abs/2403.06925,"Vasudeva, Bhavya; Fu, Deqing; Zhou, Tianyi; Kau, Elliott; Huang, Youqi; Sharan, Vatsal"
-On the Origins of Linear Representations in Large Language Models,2024-03-06,http://arxiv.org/abs/2403.03867,"Jiang, Yibo; Rajendran, Goutham; Ravikumar, Pradeep; Aragam, Bryon; Veitch, Victor"
-How Well Can Transformers Emulate In-context Newton's Method?,2024-03-05,http://arxiv.org/abs/2403.03183,"Giannou, Angeliki; Yang, Liu; Wang, Tianhao; Papailiopoulos, Dimitris; Lee, Jason D."
-RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval,2024-02-29,http://arxiv.org/abs/2402.18510,"Wen, Kaiyue; Dang, Xingyu; Lyu, Kaifeng"
-Implicit Bias of Next-Token Prediction,2024-02-28,http://arxiv.org/abs/2402.18551,"Thrampoulidis, Christos"
-On the Expressive Power of a Variant of the Looped Transformer,2024-02-21,http://arxiv.org/abs/2402.13572,"Gao, Yihang; Zheng, Chuanyang; Xie, Enze; Shi, Han; Hu, Tianyang; Li, Yu; Ng, Michael K.; Li, Zhenguo; Liu, Zhaoqiang"
-From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers,2024-02-20,http://arxiv.org/abs/2402.13512,"Ildiz, M. Emrullah; Huang, Yixiao; Li, Yingcong; Rawat, Ankit Singh; Oymak, Samet"
-Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context,2024-02-15,http://arxiv.org/abs/2312.06528,"Cheng, Xiang; Chen, Yuxin; Sra, Suvrit"
-"Compositional Capabilities of Autoregressive Transformers: A Study on Synthetic, Interpretable Tasks",2024-02-05,http://arxiv.org/abs/2311.12997,"Ramesh, Rahul; Lubana, Ekdeep Singh; Khona, Mikail; Dick, Robert P.; Tanaka, Hidenori"
-Are Transformers with One Layer Self-Attention Using Low-Rank Weight Matrices Universal Approximators?,2024-01-29,http://arxiv.org/abs/2307.14023,"Kajitsuka, Tokio; Sato, Issei"
-Transformers are Multi-State RNNs,2024-01-11,http://arxiv.org/abs/2401.06104,"Oren, Matanel; Hassid, Michael; Adi, Yossi; Schwartz, Roy"
-"How Capable Can a Transformer Become? A Study on Synthetic, Interpretable Tasks",2023-12-12,https://openreview.net/forum?id=KIhFggzePM,"Ramesh, Rahul; Khona, Mikail; Dick, Robert P.; Tanaka, Hidenori; Lubana, Ekdeep Singh"
-Transformers can optimally learn regression mixture models,2023-11-14,http://arxiv.org/abs/2311.08362,"Pathak, Reese; Sen, Rajat; Kong, Weihao; Das, Abhimanyu"
-The Expressive Power of Low-Rank Adaptation,2023-10-26,http://arxiv.org/abs/2310.17513,"Zeng, Yuchen; Lee, Kangwook"
-What Algorithms can Transformers Learn? A Study in Length Generalization,2023-10-24,http://arxiv.org/abs/2310.16028,"Zhou, Hattie; Bradley, Arwen; Littwin, Etai; Razin, Noam; Saremi, Omid; Susskind, Josh; Bengio, Samy; Nakkiran, Preetum"
-Transformers as Support Vector Machines,2023-09-07,http://arxiv.org/abs/2308.16898,"Tarzanagh, Davoud Ataee; Li, Yingcong; Thrampoulidis, Christos; Oymak, Samet"
-How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding,2023-06-15,https://openreview.net/forum?id=LMXgU4zrq6,"Li, Yuchen; Li, Yuanzhi; Risteski, Andrej"
-Tighter Bounds on the Expressivity of Transformer Encoders,2023-06-15,https://openreview.net/forum?id=XKcogevHj8,"Chiang, David; Cholak, Peter; Pillay, Anand"
-Fast Attention Requires Bounded Entries,2023-02-26,https://arxiv.org/abs/2302.13214v2,"Alman, Josh; Song, Zhao"
-Transformers Learn Shortcuts to Automata,2023-02-01,https://openreview.net/forum?id=De4FYqjFueZ,"Liu, Bingbin; Ash, Jordan T.; Goel, Surbhi; Krishnamurthy, Akshay; Zhang, Cyril"
-Transformer Vs. MLP-Mixer: Exponential Expressive Gap For NLP Problems,2022-11-17,http://arxiv.org/abs/2208.08191,"Navon, Dan; Bronstein, Alex M."
-Small Transformers Compute Universal Metric Embeddings,2022-10-18,http://arxiv.org/abs/2209.06788,"Kratsios, Anastasis; Debarnot, Valentin; Dokmanić, Ivan"
-The Lipschitz Constant of Self-Attention,2021-06-09,http://arxiv.org/abs/2006.04710,"Kim, Hyunjik; Papamakarios, George; Mnih, Andriy"
-On Identifiability in Transformers,2020-02-07,http://arxiv.org/abs/1908.04211,"Brunner, Gino; Liu, Yang; Pascual, Damián; Richter, Oliver; Ciaramita, Massimiliano; Wattenhofer, Roger"
+Title,Date,Url,Author
+
+Transformers Can Represent $n$-gram Language Models,2024-04-23,http://arxiv.org/abs/2404.14994,"Svete, Anej; Cotterell, Ryan"
+
+Mechanics of Next Token Prediction with Self-Attention,2024-04-18,https://proceedings.mlr.press/v238/li24f.html,"Li, Yingcong; Huang, Yixiao; Ildiz, Muhammed E.; Rawat, Ankit Singh; Oymak, Samet"
+
+When can transformers reason with abstract symbols?,2024-04-16,http://arxiv.org/abs/2310.09753,"Boix-Adsera, Enric; Saremi, Omid; Abbe, Emmanuel; Bengio, Samy; Littwin, Etai; Susskind, Joshua"
+
+The Illusion of State in State-Space Models,2024-04-12,http://arxiv.org/abs/2404.08819,"Merrill, William; Petty, Jackson; Sabharwal, Ashish"
+
+Attention is Naturally Sparse with Gaussian Distributed Input,2024-04-03,http://arxiv.org/abs/2404.02690,"Deng, Yichuan; Song, Zhao; Yang, Chiwun"
+
+What Can Transformer Learn with Varying Depth? Case Studies on Sequence Learning Tasks,2024-04-01,http://arxiv.org/abs/2404.01601,"Chen, Xingwu; Zou, Difan"
+
+The Topos of Transformer Networks,2024-03-27,http://arxiv.org/abs/2403.18415,"Villani, Mattia Jacopo; McBurney, Peter"
+
+Simulating Weighted Automata over Sequences and Trees with Transformers,2024-03-12,http://arxiv.org/abs/2403.09728,"Rizvi, Michael; Lizaire, Maude; Lacroce, Clara; Rabusseau, Guillaume"
+
+Simplicity Bias of Transformers to Learn Low Sensitivity Functions,2024-03-11,http://arxiv.org/abs/2403.06925,"Vasudeva, Bhavya; Fu, Deqing; Zhou, Tianyi; Kau, Elliott; Huang, Youqi; Sharan, Vatsal"
+
+On the Origins of Linear Representations in Large Language Models,2024-03-06,http://arxiv.org/abs/2403.03867,"Jiang, Yibo; Rajendran, Goutham; Ravikumar, Pradeep; Aragam, Bryon; Veitch, Victor"
+
+How Well Can Transformers Emulate In-context Newton's Method?,2024-03-05,http://arxiv.org/abs/2403.03183,"Giannou, Angeliki; Yang, Liu; Wang, Tianhao; Papailiopoulos, Dimitris; Lee, Jason D."
+
+RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval,2024-02-29,http://arxiv.org/abs/2402.18510,"Wen, Kaiyue; Dang, Xingyu; Lyu, Kaifeng"
+
+Implicit Bias of Next-Token Prediction,2024-02-28,http://arxiv.org/abs/2402.18551,"Thrampoulidis, Christos"
+
+On the Expressive Power of a Variant of the Looped Transformer,2024-02-21,http://arxiv.org/abs/2402.13572,"Gao, Yihang; Zheng, Chuanyang; Xie, Enze; Shi, Han; Hu, Tianyang; Li, Yu; Ng, Michael K.; Li, Zhenguo; Liu, Zhaoqiang"
+
+From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers,2024-02-20,http://arxiv.org/abs/2402.13512,"Ildiz, M. Emrullah; Huang, Yixiao; Li, Yingcong; Rawat, Ankit Singh; Oymak, Samet"
+
+Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context,2024-02-15,http://arxiv.org/abs/2312.06528,"Cheng, Xiang; Chen, Yuxin; Sra, Suvrit"
+
+"Compositional Capabilities of Autoregressive Transformers: A Study on Synthetic, Interpretable Tasks",2024-02-05,http://arxiv.org/abs/2311.12997,"Ramesh, Rahul; Lubana, Ekdeep Singh; Khona, Mikail; Dick, Robert P.; Tanaka, Hidenori"
+
+Are Transformers with One Layer Self-Attention Using Low-Rank Weight Matrices Universal Approximators?,2024-01-29,http://arxiv.org/abs/2307.14023,"Kajitsuka, Tokio; Sato, Issei"
+
+Transformers are Multi-State RNNs,2024-01-11,http://arxiv.org/abs/2401.06104,"Oren, Matanel; Hassid, Michael; Adi, Yossi; Schwartz, Roy"
+
+"How Capable Can a Transformer Become? A Study on Synthetic, Interpretable Tasks",2023-12-12,https://openreview.net/forum?id=KIhFggzePM,"Ramesh, Rahul; Khona, Mikail; Dick, Robert P.; Tanaka, Hidenori; Lubana, Ekdeep Singh"
+
+Transformers can optimally learn regression mixture models,2023-11-14,http://arxiv.org/abs/2311.08362,"Pathak, Reese; Sen, Rajat; Kong, Weihao; Das, Abhimanyu"
+
+The Expressive Power of Low-Rank Adaptation,2023-10-26,http://arxiv.org/abs/2310.17513,"Zeng, Yuchen; Lee, Kangwook"
+
+What Algorithms can Transformers Learn? A Study in Length Generalization,2023-10-24,http://arxiv.org/abs/2310.16028,"Zhou, Hattie; Bradley, Arwen; Littwin, Etai; Razin, Noam; Saremi, Omid; Susskind, Josh; Bengio, Samy; Nakkiran, Preetum"
+
+Transformers as Support Vector Machines,2023-09-07,http://arxiv.org/abs/2308.16898,"Tarzanagh, Davoud Ataee; Li, Yingcong; Thrampoulidis, Christos; Oymak, Samet"
+
+How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding,2023-06-15,https://openreview.net/forum?id=LMXgU4zrq6,"Li, Yuchen; Li, Yuanzhi; Risteski, Andrej"
+
+Tighter Bounds on the Expressivity of Transformer Encoders,2023-06-15,https://openreview.net/forum?id=XKcogevHj8,"Chiang, David; Cholak, Peter; Pillay, Anand"
+
+Fast Attention Requires Bounded Entries,2023-02-26,https://arxiv.org/abs/2302.13214v2,"Alman, Josh; Song, Zhao"
+
+Transformers Learn Shortcuts to Automata,2023-02-01,https://openreview.net/forum?id=De4FYqjFueZ,"Liu, Bingbin; Ash, Jordan T.; Goel, Surbhi; Krishnamurthy, Akshay; Zhang, Cyril"
+
+Transformer Vs. MLP-Mixer: Exponential Expressive Gap For NLP Problems,2022-11-17,http://arxiv.org/abs/2208.08191,"Navon, Dan; Bronstein, Alex M."
+
+Small Transformers Compute Universal Metric Embeddings,2022-10-18,http://arxiv.org/abs/2209.06788,"Kratsios, Anastasis; Debarnot, Valentin; Dokmanić, Ivan"
+
+The Lipschitz Constant of Self-Attention,2021-06-09,http://arxiv.org/abs/2006.04710,"Kim, Hyunjik; Papamakarios, George; Mnih, Andriy"
+
+On Identifiability in Transformers,2020-02-07,http://arxiv.org/abs/1908.04211,"Brunner, Gino; Liu, Yang; Pascual, Damián; Richter, Oliver; Ciaramita, Massimiliano; Wattenhofer, Roger"
+
+What Formal Languages Can Transformers Express? A Survey,2024-05-06,http://arxiv.org/abs/2311.00208,"Strobl, Lena; Merrill, William; Weiss, Gail; Chiang, David; Angluin, Dana"
