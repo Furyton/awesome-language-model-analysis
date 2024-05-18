@@ -26,8 +26,8 @@ directory = [
 
 
 TEMPLATE = """
-**Title**: {} [[paper link]]({}) {}  
-**Authors**: {}
+- **{}** [[paper link]]({}) {}  
+{}
 """
 
 
