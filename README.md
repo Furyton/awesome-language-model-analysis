@@ -337,6 +337,11 @@ This section includes papers that investigate how the performance of language mo
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory [[paper link]](http://arxiv.org/abs/2405.08707) 2024-05-14  
+**Authors**: Xueyan Niu; Bo Bai; Lei Deng; Wei Han
+
+
+
 **Title**: More Compute Is What You Need [[paper link]](http://arxiv.org/abs/2404.19484) 2024-04-30  
 **Authors**: Zhen Guo
 
@@ -634,6 +639,11 @@ This section includes papers that investigate the generalization ability of lang
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+**Title**: The Platonic Representation Hypothesis [[paper link]](https://arxiv.org/abs/2405.07987v1) 2024-05-13  
+**Authors**: Minyoung Huh; Brian Cheung; Tongzhou Wang; Phillip Isola
+
+
+
 **Title**: Algorithmic progress in language models [[paper link]](http://arxiv.org/abs/2403.05812) 2024-03-09  
 **Authors**: Anson Ho; Tamay Besiroglu; Ege Erdil; David Owen; Robi Rahman; Zifan Carl Guo; David Atkinson; Neil Thompson; Jaime Sevilla
 
@@ -661,6 +671,11 @@ This section includes positive results on the representational capacity and prop
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+**Title**: ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models [[paper link]](http://arxiv.org/abs/2405.09220) 2024-05-15  
+**Authors**:  Siwei Wang; Yifei Shen; Shi Feng; Haoran Sun; Shang-Hua Teng; Wei Chen
+
+
 
 **Title**: What Formal Languages Can Transformers Express? A Survey [[paper link]](http://arxiv.org/abs/2311.00208) 2024-05-06  
 **Authors**: Lena Strobl; William Merrill; Gail Weiss; David Chiang; Dana Angluin
@@ -1026,6 +1041,16 @@ This section includes papers that mainly investigate the mechanisms of language 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+**Title**: Dynamic Activation Pitfalls in LLaMA Models: An Empirical Study [[paper link]](http://arxiv.org/abs/2405.09274) 2024-05-15  
+**Authors**: Chi Ma; Mincong Huang; Chao Wang; Yujie Wang; Lei Yu
+
+
+
+**Title**: Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis [[paper link]](http://arxiv.org/abs/2405.08944) 2024-05-14  
+**Authors**: Yao Fu
+
+
 
 **Title**: Understand LLMs Requires More Than Statistical Generalization [[paper link]](http://arxiv.org/abs/2405.01964) 2024-05-03  
 **Authors**: Patrik Reizinger; Szilvia Ujváry; Anna Mészáros; Anna Kerekes; Wieland Brendel; Ferenc Huszár
