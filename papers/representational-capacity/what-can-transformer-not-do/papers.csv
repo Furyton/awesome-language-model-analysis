@@ -10,3 +10,4 @@ Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially wi
 Limits for Learning with Language Models,2023-06-21,http://arxiv.org/abs/2306.12213,Nicholas Asher; Swarnadeep Bhar; Akshay Chaturvedi; Julie Hunter; Soumya Paul
 Your Transformer May Not be as Powerful as You Expect,2022-10-31,https://openreview.net/forum?id=NQFFNdsOGD,Shengjie Luo; Shanda Li; Shuxin Zheng; Tie-Yan Liu; Liwei Wang; Di He
 The Devil in Linear Transformer,2022-10-19,http://arxiv.org/abs/2210.10340,Zhen Qin; XiaoDong Han; Weixuan Sun; Dongxu Li; Lingpeng Kong; Nick Barnes; Yiran Zhong
+Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers,2024-05-22,http://arxiv.org/abs/2405.13536,Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci

@@ -9,3 +9,6 @@ Transformers are uninterpretable with myopic methods: a case study with bounded 
 White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?,2023-11-22,https://arxiv.org/abs/2311.13110v2,Yaodong Yu; Sam Buchanan; Druv Pai; Tianzhe Chu; Ziyang Wu; Shengbang Tong; Hao Bai; Yuexiang Zhai; Benjamin D. Haeffele; Yi Ma
 A Primer on the Inner Workings of Transformer-based Language Models,2024-05-02,https://arxiv.org/abs/2405.00208,Javier Ferrando; Gabriele Sarti; Arianna Bisazza; Marta R. Costa-jussà
 Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions,2024-05-06,https://arxiv.org/abs/2405.03205,Ruizhe Li; Yanjun Gao
+Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers,2024-05-22,http://arxiv.org/abs/2405.13536,Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci
+Not All Language Model Features Are Linear,2024-05-23,http://arxiv.org/abs/2405.14860,Joshua Engels; Isaac Liao; Eric J. Michaud; Wes Gurnee; Max Tegmark
+Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models,2024-05-21,http://arxiv.org/abs/2405.12522,Charles O'Neill; Thang Bui

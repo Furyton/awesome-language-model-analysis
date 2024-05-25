@@ -4,3 +4,6 @@ Memorization Capacity of Multi-Head Attention in Transformers,2024-03-02,http://
 Birth of a Transformer: A Memory Viewpoint,2023-11-06,http://arxiv.org/abs/2306.00802,Alberto Bietti; Vivien Cabannes; Diane Bouchacourt; Herve Jegou; Leon Bottou
 "Physics of Language Models: Part 3.2, Knowledge Manipulation",2023-09-25,http://arxiv.org/abs/2309.14402,Zeyuan Allen-Zhu; Yuanzhi Li
 Can Neural Network Memorization Be Localized?,2023-07-18,http://arxiv.org/abs/2307.09542,Pratyush Maini; Michael C. Mozer; Hanie Sedghi; Zachary C. Lipton; J. Zico Kolter; Chiyuan Zhang
+A Multi-Perspective Analysis of Memorization in Large Language Models,2024-05-19,http://arxiv.org/abs/2405.11577,Bowen Chen; Namgi Han; Yusuke Miyao
+Upper and lower memory capacity bounds of transformers for next-token prediction,2024-05-22,http://arxiv.org/abs/2405.13718,Liam Madden; Curtis Fox; Christos Thrampoulidis
+Quantifying Memorization Across Neural Language Models,2022-02-15,http://arxiv.org/abs/2202.07646,Nicholas Carlini; Daphne Ippolito; Matthew Jagielski; Katherine Lee; Florian Tramer; Chiyuan Zhang

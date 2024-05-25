@@ -15,3 +15,6 @@ Understand LLMs Requires More Than Statistical Generalization,2024-05-03,http://
 What's In My Big Data?,2024-03-05,http://arxiv.org/abs/2310.20707,Yanai Elazar; Akshita Bhagia; Ian Magnusson; Abhilasha Ravichander; Dustin Schwenk; Alane Suhr; Pete Walsh; Dirk Groeneveld; Luca Soldaini; Sameer Singh; Hanna Hajishirzi; Noah A. Smith; Jesse Dodge
 Dynamic Activation Pitfalls in LLaMA Models: An Empirical Study,2024-05-15,http://arxiv.org/abs/2405.09274,Chi Ma; Mincong Huang; Chao Wang; Yujie Wang; Lei Yu
 Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performance Analysis,2024-05-14,http://arxiv.org/abs/2405.08944,Yao Fu
+Surgical Feature-Space Decomposition of LLMs: Why, When and How?,2024-05-17,http://arxiv.org/abs/2405.13039,Arnav Chavan; Nahush Lele; Deepak Gupta
+Attention as an RNN,2024-05-22,http://arxiv.org/abs/2405.13956,Leo Feng; Frederick Tung; Hossein Hajimirsadeghi; Mohamed Osama Ahmed; Yoshua Bengio; Greg Mori
+Provably learning a multi-head attention layer,2024-02-06,http://arxiv.org/abs/2402.04084,Sitan Chen; Yuanzhi Li
