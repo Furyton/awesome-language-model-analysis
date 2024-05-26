@@ -87,6 +87,11 @@ Jie Ren; Qipeng Guo; Hang Yan; Dongrui Liu; Xipeng Qiu; Dahua Lin
 
 
 
+- **An Information-Theoretic Analysis of In-Context Learning** [[paper link]](http://arxiv.org/abs/2401.15530) 2024-01-28  
+Hong Jun Jeon; Jason D. Lee; Qi Lei; Benjamin Van Roy
+
+
+
 - **The Transient Nature of Emergent In-Context Learning in Transformers** [[paper link]](http://arxiv.org/abs/2311.08360) 2023-12-11  
 Aaditya K. Singh; Stephanie C. Y. Chan; Ted Moskovitz; Erin Grant; Andrew M. Saxe; Felix Hill
 
@@ -550,6 +555,11 @@ Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
 
 - **How Transformers Learn Causal Structure with Gradient Descent** [[paper link]](http://arxiv.org/abs/2402.14735) 2024-02-22  
 Eshaan Nichani; Alex Damian; Jason D. Lee
+
+
+
+- **LoRA Training in the NTK Regime has No Spurious Local Minima** [[paper link]](http://arxiv.org/abs/2402.11867) 2024-02-19  
+Uijeong Jang; Jason D. Lee; Ernest K. Ryu
 
 
 
@@ -1144,6 +1154,11 @@ Wilson Wu; John X. Morris; Lionel Levine
 
 - **What's In My Big Data?** [[paper link]](http://arxiv.org/abs/2310.20707) 2024-03-05  
 Yanai Elazar; Akshita Bhagia; Ian Magnusson; Abhilasha Ravichander; Dustin Schwenk; Alane Suhr; Pete Walsh; Dirk Groeneveld; Luca Soldaini; Sameer Singh; Hanna Hajishirzi; Noah A. Smith; Jesse Dodge
+
+
+
+- **Do Efficient Transformers Really Save Computation?** [[paper link]](http://arxiv.org/abs/2402.13934) 2024-02-21  
+Kai Yang; Jan Ackermann; Zhenyu He; Guhao Feng; Bohang Zhang; Yunzhen Feng; Qiwei Ye; Di He; Liwei Wang
 
 
 
