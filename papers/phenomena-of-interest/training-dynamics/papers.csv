@@ -18,3 +18,4 @@ A Kernel-Based View of Language Model Fine-Tuning,2023-06-15,https://openreview.
 A Stability Analysis of Fine-Tuning a Pre-Trained Model,2023-01-24,https://arxiv.org/abs/2301.09820v2,Zihao Fu; Anthony Man-Cho So; Nigel Collier
 Linear Attention is (Maybe) All You Need (to Understand Transformer Optimization),2024-03-13,http://arxiv.org/abs/2310.01082,Kwangjun Ahn; Xiang Cheng; Minhak Song; Chulhee Yun; Ali Jadbabaie; Suvrit Sra
 Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,Hanlin Zhu; Baihe Huang; Shaolun Zhang; Michael Jordan; Jiantao Jiao; Yuandong Tian; Stuart Russell
+LoRA Training in the NTK Regime has No Spurious Local Minima,2024-02-19,http://arxiv.org/abs/2402.11867,Uijeong Jang; Jason D. Lee; Ernest K. Ryu
