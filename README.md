@@ -337,6 +337,16 @@ This section includes papers that investigate how the performance of language mo
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Slaves to the Law of Large Numbers: An Asymptotic Equipartition Property for Perplexity in Generative Language Models** [[paper link]](http://arxiv.org/abs/2405.13798) 2024-05-22  
+Raghu Mudumbai; Tyler Bell
+
+
+
+- **Quantifying Emergence in Large Language Models** [[paper link]](http://arxiv.org/abs/2405.12617) 2024-05-21  
+Hang Chen; Xinyu Yang; Jiaying Zhu; Wenya Wang
+
+
+
 - **Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory** [[paper link]](http://arxiv.org/abs/2405.08707) 2024-05-14  
 Xueyan Niu; Bo Bai; Lei Deng; Wei Han
 
@@ -429,6 +439,16 @@ Jared Kaplan; Sam McCandlish; Tom Henighan; Tom B. Brown; Benjamin Chess; Rewon 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Upper and lower memory capacity bounds of transformers for next-token prediction** [[paper link]](http://arxiv.org/abs/2405.13718) 2024-05-22  
+Liam Madden; Curtis Fox; Christos Thrampoulidis
+
+
+
+- **A Multi-Perspective Analysis of Memorization in Large Language Models** [[paper link]](http://arxiv.org/abs/2405.11577) 2024-05-19  
+Bowen Chen; Namgi Han; Yusuke Miyao
+
+
+
 - **Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws** [[paper link]](http://arxiv.org/abs/2404.05405) 2024-04-08  
 Zeyuan Allen-Zhu; Yuanzhi Li
 
@@ -451,6 +471,11 @@ Zeyuan Allen-Zhu; Yuanzhi Li
 
 - **Can Neural Network Memorization Be Localized?** [[paper link]](http://arxiv.org/abs/2307.09542) 2023-07-18  
 Pratyush Maini; Michael C. Mozer; Hanie Sedghi; Zachary C. Lipton; J. Zico Kolter; Chiyuan Zhang
+
+
+
+- **Quantifying Memorization Across Neural Language Models** [[paper link]](http://arxiv.org/abs/2202.07646) 2022-02-15  
+Nicholas Carlini; Daphne Ippolito; Matthew Jagielski; Katherine Lee; Florian Tramer; Chiyuan Zhang
 
 
 </details>
@@ -572,6 +597,11 @@ Zhongwang Zhang; Pengxiao Lin; Zhiwei Wang; Yaoyu Zhang; Zhi-Qin John Xu
 
 
 
+- **Provably learning a multi-head attention layer** [[paper link]](http://arxiv.org/abs/2402.04084) 2024-02-06  
+Sitan Chen; Yuanzhi Li
+
+
+
 - **Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks** [[paper link]](http://arxiv.org/abs/2311.12786) 2023-11-21  
 Samyak Jain; Robert Kirk; Ekdeep Singh Lubana; Robert P. Dick; Hidenori Tanaka; Edward Grefenstette; Tim Rocktäschel; David Scott Krueger
 
@@ -579,6 +609,11 @@ Samyak Jain; Robert Kirk; Ekdeep Singh Lubana; Robert P. Dick; Hidenori Tanaka; 
 
 - **The Impact of Depth and Width on Transformer Language Model Generalization** [[paper link]](http://arxiv.org/abs/2310.19956) 2023-10-30  
 Jackson Petty; Sjoerd van Steenkiste; Ishita Dasgupta; Fei Sha; Dan Garrette; Tal Linzen
+
+
+
+- **On the Optimization and Generalization of Multi-head Attention** [[paper link]](http://arxiv.org/abs/2310.12680) 2023-10-19  
+Puneesh Deora; Rouzbeh Ghaderi; Hossein Taheri; Christos Thrampoulidis
 
 
 
@@ -638,6 +673,11 @@ Evani Radiya-Dixit; Xin Wang
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Your Transformer is Secretly Linear** [[paper link]](https://arxiv.org/abs/2405.12250) 2024-05-19  
+Anton Razzhigaev; Matvey Mikhalchuk; Elizaveta Goncharova; Nikolai Gerasimenko; Ivan Oseledets; Denis Dimitrov; Andrey Kuznetsov
+
+
 
 - **The Platonic Representation Hypothesis** [[paper link]](https://arxiv.org/abs/2405.07987v1) 2024-05-13  
 Minyoung Huh; Brian Cheung; Tongzhou Wang; Phillip Isola
@@ -851,6 +891,11 @@ The papers in this section investigate the limitations of transformer-based mode
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers** [[paper link]](http://arxiv.org/abs/2405.13536) 2024-05-22  
+Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci
+
+
+
 - **Collapse of Self-trained Language Models** [[paper link]](http://arxiv.org/abs/2404.02305) 2024-04-02  
 David Herel; Tomas Mikolov
 
@@ -985,6 +1030,21 @@ This section includes papers that mainly investigate the mechanisms of language 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Not All Language Model Features Are Linear** [[paper link]](http://arxiv.org/abs/2405.14860) 2024-05-23  
+Joshua Engels; Isaac Liao; Eric J. Michaud; Wes Gurnee; Max Tegmark
+
+
+
+- **Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers** [[paper link]](http://arxiv.org/abs/2405.13536) 2024-05-22  
+Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci
+
+
+
+- **Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models** [[paper link]](http://arxiv.org/abs/2405.12522) 2024-05-21  
+Charles O'Neill; Thang Bui
+
+
+
 - **Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions** [[paper link]](https://arxiv.org/abs/2405.03205) 2024-05-06  
 Ruizhe Li; Yanjun Gao
 
@@ -1042,6 +1102,16 @@ Till Speicher; Aflah Mohammad Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwam
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Attention as an RNN** [[paper link]](http://arxiv.org/abs/2405.13956) 2024-05-22  
+Leo Feng; Frederick Tung; Hossein Hajimirsadeghi; Mohamed Osama Ahmed; Yoshua Bengio; Greg Mori
+
+
+
+- **Surgical Feature-Space Decomposition of LLMs: Why, When and How?** [[paper link]](http://arxiv.org/abs/2405.13039) 2024-05-17  
+Arnav Chavan; Nahush Lele; Deepak Gupta
+
+
+
 - **Dynamic Activation Pitfalls in LLaMA Models: An Empirical Study** [[paper link]](http://arxiv.org/abs/2405.09274) 2024-05-15  
 Chi Ma; Mincong Huang; Chao Wang; Yujie Wang; Lei Yu
 
@@ -1074,6 +1144,11 @@ Wilson Wu; John X. Morris; Lionel Levine
 
 - **What's In My Big Data?** [[paper link]](http://arxiv.org/abs/2310.20707) 2024-03-05  
 Yanai Elazar; Akshita Bhagia; Ian Magnusson; Abhilasha Ravichander; Dustin Schwenk; Alane Suhr; Pete Walsh; Dirk Groeneveld; Luca Soldaini; Sameer Singh; Hanna Hajishirzi; Noah A. Smith; Jesse Dodge
+
+
+
+- **Provably learning a multi-head attention layer** [[paper link]](http://arxiv.org/abs/2402.04084) 2024-02-06  
+Sitan Chen; Yuanzhi Li
 
 
 
