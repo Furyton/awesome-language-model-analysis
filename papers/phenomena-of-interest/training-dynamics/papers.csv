@@ -19,3 +19,5 @@ A Stability Analysis of Fine-Tuning a Pre-Trained Model,2023-01-24,https://arxiv
 Linear Attention is (Maybe) All You Need (to Understand Transformer Optimization),2024-03-13,http://arxiv.org/abs/2310.01082,Kwangjun Ahn; Xiang Cheng; Minhak Song; Chulhee Yun; Ali Jadbabaie; Suvrit Sra
 Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics,2024-05-07,http://arxiv.org/abs/2405.04669,Hanlin Zhu; Baihe Huang; Shaolun Zhang; Michael Jordan; Jiantao Jiao; Yuandong Tian; Stuart Russell
 LoRA Training in the NTK Regime has No Spurious Local Minima,2024-02-19,http://arxiv.org/abs/2402.11867,Uijeong Jang; Jason D. Lee; Ernest K. Ryu
+Infinite Limits of Multi-head Transformer Dynamics,2024-05-24,http://arxiv.org/abs/2405.15712,Blake Bordelon; Hamza Tahir Chaudhry; Cengiz Pehlevan
+Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective,2024-05-27,http://arxiv.org/abs/2405.16747,Akiyoshi Tomihari; Issei Sato

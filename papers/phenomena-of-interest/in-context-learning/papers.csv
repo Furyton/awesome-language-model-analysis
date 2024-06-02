@@ -35,3 +35,16 @@ Transformers generalize differently from information stored in context vs in wei
 Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models,2023-10-26,https://arxiv.org/abs/2310.17086v1,Deqing Fu; Tian-Qi Chen; Robin Jia; Vatsal Sharan
 In-Context Learning with Long-Context Models: An In-Depth Exploration,2024-04-30,http://arxiv.org/abs/2405.00200,Amanda Bertsch; Maor Ivgi; Uri Alon; Jonathan Berant; Matthew R. Gormley; Graham Neubig
 An Information-Theoretic Analysis of In-Context Learning,2024-01-28,http://arxiv.org/abs/2401.15530,Hong Jun Jeon; Jason D. Lee; Qi Lei; Benjamin Van Roy
+Trained Transformers Learn Linear Models In-Context,2023-10-19,http://arxiv.org/abs/2306.09927,Ruiqi Zhang; Spencer Frei; Peter L. Bartlett
+MLPs Learn In-Context,2024-05-24,http://arxiv.org/abs/2405.15618,William L. Tong; Cengiz Pehlevan
+Towards Better Understanding of In-Context Learning Ability from In-Context Uncertainty Quantification,2024-05-24,http://arxiv.org/abs/2405.15115,Shang Liu; Zhongze Cai; Guanting Chen; Xiaocheng Li
+In-Context Learning and Induction Heads,2022-09-24,http://arxiv.org/abs/2209.11895,Catherine Olsson; Nelson Elhage; Neel Nanda; Nicholas Joseph; Nova DasSarma; Tom Henighan; Ben Mann; Amanda Askell; Yuntao Bai; Anna Chen; Tom Conerly; Dawn Drain; Deep Ganguli; Zac Hatfield-Dodds; Danny Hernandez; Scott Johnston; Andy Jones; Jackson Kernion; Liane Lovitt; Kamal Ndousse; Dario Amodei; Tom Brown; Jack Clark; Jared Kaplan; Sam McCandlish; Chris Olah
+On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability,2024-05-27,http://arxiv.org/abs/2405.16845,Chenyu Zheng; Wei Huang; Rongzhen Wang; Guoqiang Wu; Jun Zhu; Chongxuan Li
+Transformer In-Context Learning for Categorical Data,2024-05-27,http://arxiv.org/abs/2405.17248,Aaron T. Wang; Ricardo Henao; Lawrence Carin
+Automatic Domain Adaptation by Transformers in In-Context Learning,2024-05-27,http://arxiv.org/abs/2405.16819,Ryuichiro Hataya; Kota Matsui; Masaaki Imaizumi
+Unifying Demonstration Selection and Compression for In-Context Learning,2024-05-27,http://arxiv.org/abs/2405.17062,Jun Gao
+On the Noise Robustness of In-Context Learning for Text Generation,2024-05-27,http://arxiv.org/abs/2405.17264,Hongfu Gao; Feipeng Zhang; Wenyu Jiang; Jun Shu; Feng Zheng; Hongxin Wei
+Why Larger Language Models Do In-context Learning Differently?,2024-05-30,http://arxiv.org/abs/2405.19592,Zhenmei Shi; Junyi Wei; Zhuoyan Xu; Yingyu Liang
+Is In-Context Learning Sufficient for Instruction Following in LLMs?,2024-05-30,http://arxiv.org/abs/2405.19874,Hao Zhao; Maksym Andriushchenko; Francesco Croce; Nicolas Flammarion
+Does learning the right latent variables necessarily improve in-context learning?,2024-05-29,http://arxiv.org/abs/2405.19162,Sarthak Mittal; Eric Elmoznino; Leo Gagnon; Sangnie Bhardwaj; Dhanya Sridhar; Guillaume Lajoie
+A Theory of In-Context Learning in Transformers,2024-05-29,http://arxiv.org/abs/2405.18634,Yifei Wang; Yuyang Wu; Zeming Wei; Stefanie Jegelka; Yisen Wang

@@ -30,7 +30,7 @@ Table of Content
     - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
     - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
     - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
-    - [Learning / Generalization](#learning--generalization)
+    - [Learning / Generalization / Reasoning / Weak to Strong Generalization](#learning--generalization)
     - [Other Phenomena](#other-phenomena)
   - [Representational Capacity](#representational-capacity)
     - [What Can Transformer Do? / Properties of Transformer](#what-can-transformer-do--properties-of-transformer)
@@ -113,7 +113,7 @@ This section focuses on the training dynamics of language models, including the 
 
 </details>
 
-### Learning / Generalization
+### Learning / Generalization / Reasoning / Weak to Strong Generalization
 
 This section includes papers that investigate the generalization ability of language models, and the general learning behavior of language models.
 

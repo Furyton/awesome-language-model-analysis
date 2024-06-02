@@ -14,3 +14,13 @@ How fine can fine-tuning be? Learning efficient language models,2020-06-03,https
 Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,2024-05-08,http://arxiv.org/abs/2405.05409,Zhongwang Zhang; Pengxiao Lin; Zhiwei Wang; Yaoyu Zhang; Zhi-Qin John Xu
 Provably learning a multi-head attention layer,2024-02-06,http://arxiv.org/abs/2402.04084,Sitan Chen; Yuanzhi Li
 On the Optimization and Generalization of Multi-head Attention,2023-10-19,http://arxiv.org/abs/2310.12680,Puneesh Deora; Rouzbeh Ghaderi; Hossein Taheri; Christos Thrampoulidis
+Quantifying the Gain in Weak-to-Strong Generalization,2024-05-24,http://arxiv.org/abs/2405.15116,Moses Charikar; Chirag Pabbaraju; Kirankumar Shiragur
+Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation,2024-05-24,http://arxiv.org/abs/2405.15302,Zhiwei Wang; Yunji Wang; Zhongwang Zhang; Zhangchen Zhou; Hui Jin; Tianyang Hu; Jiacheng Sun; Zhenguo Li; Yaoyu Zhang; Zhi-Qin John Xu
+When can transformers reason with abstract symbols?,2024-04-16,http://arxiv.org/abs/2310.09753,Enric Boix-Adsera; Omid Saremi; Emmanuel Abbe; Samy Bengio; Etai Littwin; Joshua Susskind
+Large Language Models Cannot Self-Correct Reasoning Yet,2023-10-13,https://openreview.net/forum?id=IkmD3fKBPQ,Jie Huang; Xinyun Chen; Swaroop Mishra; Huaixiu Steven Zheng; Adams Wei Yu; Xinying Song; Denny Zhou
+A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task,2024-02-19,http://arxiv.org/abs/2402.11917,Jannik Brinkmann; Abhay Sheshadri; Victor Levoso; Paul Swoboda; Christian Bartelt
+A statistical framework for weak-to-strong generalization,2024-05-25,http://arxiv.org/abs/2405.16236,Seamus Somerstep; Felipe Maia Polo; Moulinath Banerjee; Ya'acov Ritov; Mikhail Yurochkin; Yuekai Sun
+Reality Only Happens Once: Single-Path Generalization Bounds for Transformers,2024-05-26,http://arxiv.org/abs/2405.16563,Yannick Limmer; Anastasis Kratsios; Xuwei Yang; Raeid Saqur; Blanka Horvath
+Theoretical Analysis of Weak-to-Strong Generalization,2024-05-25,http://arxiv.org/abs/2405.16043,Hunter Lang; David Sontag; Aravindan Vijayaraghavan
+Understanding Transformer Reasoning Capabilities via Graph Algorithms,2024-05-28,http://arxiv.org/abs/2405.18512,Clayton Sanford; Bahare Fatemi; Ethan Hall; Anton Tsitsulin; Mehran Kazemi; Jonathan Halcrow; Bryan Perozzi; Vahab Mirrokni
+Linguistic Collapse: Neural Collapse in (Large) Language Models,2024-05-28,https://arxiv.org/abs/2405.17767,Robert Wu; Vardan Papyan

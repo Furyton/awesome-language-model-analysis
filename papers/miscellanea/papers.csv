@@ -19,3 +19,11 @@ Challenges in Deploying Long-Context Transformers: A Theoretical Peak Performanc
 Attention as an RNN,2024-05-22,http://arxiv.org/abs/2405.13956,Leo Feng; Frederick Tung; Hossein Hajimirsadeghi; Mohamed Osama Ahmed; Yoshua Bengio; Greg Mori
 Provably learning a multi-head attention layer,2024-02-06,http://arxiv.org/abs/2402.04084,Sitan Chen; Yuanzhi Li
 Do Efficient Transformers Really Save Computation?,2024-02-21,http://arxiv.org/abs/2402.13934,Kai Yang; Jan Ackermann; Zhenyu He; Guhao Feng; Bohang Zhang; Yunzhen Feng; Qiwei Ye; Di He; Liwei Wang
+Towards Understanding How Transformer Perform Multi-step Reasoning with Matching Operation,2024-05-24,http://arxiv.org/abs/2405.15302,Zhiwei Wang; Yunji Wang; Zhongwang Zhang; Zhangchen Zhou; Hui Jin; Tianyang Hu; Jiacheng Sun; Zhenguo Li; Yaoyu Zhang; Zhi-Qin John Xu
+Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning,2024-02-07,http://arxiv.org/abs/2402.04833,Hao Zhao; Maksym Andriushchenko; Francesco Croce; Nicolas Flammarion
+Dissecting the Interplay of Attention Paths in a Statistical Mechanics Theory of Transformers,2024-05-24,http://arxiv.org/abs/2405.15926,Lorenzo Tiberi; Francesca Mignacco; Kazuki Irie; Haim Sompolinsky
+Demystifying amortized causal discovery with transformers,2024-05-27,http://arxiv.org/abs/2405.16924,Francesco Montagna; Max Cairney-Leeming; Dhanya Sridhar; Francesco Locatello
+Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective,2024-05-27,http://arxiv.org/abs/2405.17383,Zhen Qin; Xuyang Shen; Dong Li; Weigao Sun; Stan Birchfield; Richard Hartley; Yiran Zhong
+Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words?,2024-05-27,http://arxiv.org/abs/2405.16908,Gal Yona; Roee Aharoni; Mor Geva
+A Theory of In-Context Learning in Transformers,2024-05-29,http://arxiv.org/abs/2405.18634,Yifei Wang; Yuyang Wu; Zeming Wei; Stefanie Jegelka; Yisen Wang
+Lower Bounds on the Expressivity of Recurrent Neural Language Models,2024-05-29,http://arxiv.org/abs/2405.19222,Anej Svete; Franz Nowak; Anisha Mohamed Sahabdeen; Ryan Cotterell

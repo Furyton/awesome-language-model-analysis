@@ -33,3 +33,7 @@ The Lipschitz Constant of Self-Attention,2021-06-09,http://arxiv.org/abs/2006.04
 On Identifiability in Transformers,2020-02-07,http://arxiv.org/abs/1908.04211,Gino Brunner; Yang Liu; Damián Pascual; Oliver Richter; Massimiliano Ciaramita; Roger Wattenhofer
 What Formal Languages Can Transformers Express? A Survey,2024-05-06,http://arxiv.org/abs/2311.00208,Lena Strobl; William Merrill; Gail Weiss; David Chiang; Dana Angluin
 ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models,2024-05-15,http://arxiv.org/abs/2405.09220, Siwei Wang; Yifei Shen; Shi Feng; Haoran Sun; Shang-Hua Teng; Wei Chen
+Transformers represent belief state geometry in their residual stream,2024-05-24,http://arxiv.org/abs/2405.15943,Adam S. Shai; Sarah E. Marzen; Lucas Teixeira; Alexander Gietelink Oldenziel; Paul M. Riechers
+Transformers Can Do Arithmetic with the Right Embeddings,2024-05-27,http://arxiv.org/abs/2405.17399,Sean McLeish; Arpit Bansal; Alex Stein; Neel Jain; John Kirchenbauer; Brian R. Bartoldson; Bhavya Kailkhura; Abhinav Bhatele; Jonas Geiping; Avi Schwarzschild; Tom Goldstein
+The Power of Hard Attention Transformers on Data Sequences: A Formal Language Theoretic Perspective,2024-05-25,http://arxiv.org/abs/2405.16166,Pascal Bergsträßer; Chris Köcher; Anthony Widjaja Lin; Georg Zetzsche
+A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness,2024-05-27,http://arxiv.org/abs/2405.17361,Yuhao Zhang; Aws Albarghouthi; Loris D'Antoni

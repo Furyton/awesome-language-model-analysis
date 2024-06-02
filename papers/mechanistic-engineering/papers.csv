@@ -12,3 +12,6 @@ Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questio
 Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers,2024-05-22,http://arxiv.org/abs/2405.13536,Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci
 Not All Language Model Features Are Linear,2024-05-23,http://arxiv.org/abs/2405.14860,Joshua Engels; Isaac Liao; Eric J. Michaud; Wes Gurnee; Max Tegmark
 Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models,2024-05-21,http://arxiv.org/abs/2405.12522,Charles O'Neill; Thang Bui
+From Neurons to Neutrons: A Case Study in Interpretability,2024-05-27,http://arxiv.org/abs/2405.17425,Ouail Kitouni; Niklas Nolte; Víctor Samuel Pérez-Díaz; Sokratis Trifinopoulos; Mike Williams
+Mechanistic Interpretability of Binary and Ternary Transformers,2024-05-27,http://arxiv.org/abs/2405.17703,Jason Li
+InversionView: A General-Purpose Method for Reading Information from Neural Activations,2024-05-27,http://arxiv.org/abs/2405.17653,Xinting Huang; Madhur Panwar; Navin Goyal; Michael Hahn

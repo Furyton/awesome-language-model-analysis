@@ -3,3 +3,4 @@ The Expressive Power of Tuning Only the Normalization Layers,2023-07-12,https://
 ResiDual: Transformer with Dual Residual Connections,2023-04-28,http://arxiv.org/abs/2304.14802,Shufang Xie; Huishuai Zhang; Junliang Guo; Xu Tan; Jiang Bian; Hany Hassan Awadalla; Arul Menezes; Tao Qin; Rui Yan
 "DeepNet: Scaling Transformers to 1,000 Layers",2022-03-01,http://arxiv.org/abs/2203.00555,Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei
 On Layer Normalization in the Transformer Architecture,2020-06-29,http://arxiv.org/abs/2002.04745,Ruibin Xiong; Yunchang Yang; Di He; Kai Zheng; Shuxin Zheng; Chen Xing; Huishuai Zhang; Yanyan Lan; Liwei Wang; Tie-Yan Liu
+On the Role of Attention Masks and LayerNorm in Transformers,2024-05-29,http://arxiv.org/abs/2405.18781,Xinyi Wu; Amir Ajorlou; Yifei Wang; Stefanie Jegelka; Ali Jadbabaie
