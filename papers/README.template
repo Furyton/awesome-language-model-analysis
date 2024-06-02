@@ -12,6 +12,11 @@ Limitations of this list:
 - This list is not well-organized yet, and we may need to reorganize the list in the future.
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
+Statistics of This paper list:
+- Total number of different papers: **{n_papers}**
+- For more detailed statistics, please refer to the end of this page.
+
+
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
 
 For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
@@ -20,6 +25,7 @@ You can also share your thoughts and discuss with others in the [Discussions](ht
 
 Table of Content
 ====================
+<!--ts-->
 - [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)
 - [Table of Content](#table-of-content)
   - [Phenomena of Interest](#phenomena-of-interest)
@@ -30,7 +36,7 @@ Table of Content
     - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
     - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
     - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
-    - [Learning / Generalization / Reasoning / Weak to Strong Generalization](#learning--generalization)
+    - [Learning / Generalization / Reasoning / Weak to Strong Generalization](#learning--generalization--reasoning--weak-to-strong-generalization)
     - [Other Phenomena](#other-phenomena)
   - [Representational Capacity](#representational-capacity)
     - [What Can Transformer Do? / Properties of Transformer](#what-can-transformer-do--properties-of-transformer)
@@ -41,6 +47,7 @@ Table of Content
   - [Training Paradigms](#training-paradigms)
   - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
   - [Miscellanea](#miscellanea)
+<!--te-->
 
 ## Phenomena of Interest
 
@@ -212,6 +219,51 @@ This section includes papers that mainly investigate the mechanisms of language 
 
 ---
 
-Contact:
+**Detailed Statistics**
 
-- [Shiguang Wu](https://github.com/Furyton), furyton AT outlook.com / shiguang.wu AT mail.sdu.edu.cn
+- Phenomena of Interest:
+
+  - In-Context Learning: *{n_phenomena-of-interest/in-context-learning}*
+
+  - Chain-of-Thought: *{n_phenomena-of-interest/chain-of-thought}*
+
+  - Hallucination: *{n_phenomena-of-interest/hallucination}*
+
+  - Reversal Curse: *{n_phenomena-of-interest/reversal-curse}*
+
+  - Scaling Laws / Emergent Abilities / Grokking / etc.: *{n_phenomena-of-interest/scaling-laws}*
+  
+  - Knowledge / Memory mechanisms: *{n_phenomena-of-interest/knowledge}*
+
+  - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *{n_phenomena-of-interest/training-dynamics}*
+
+  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *{n_phenomena-of-interest/learning}*
+
+  - Other Phenomena: *{n_phenomena-of-interest/other-phenomena}*
+
+
+- Representational Capacity:
+
+  - What Can Transformer Do? / Properties of Transformer: *{n_representational-capacity/what-can-transformer-do}*
+
+  - What Can Transformer Not Do? / Limitation of Transformer: *{n_representational-capacity/what-can-transformer-not-do}*
+
+
+- Architectural Effectivity:
+
+  - Layer-normalization: *{n_architectural-effectivity/layer-normalization}*
+
+  - Tokenization: *{n_architectural-effectivity/tokenization}*
+
+
+- Training Paradigms: *{n_training-paradigms}*
+
+- Mechanistic Engineering / Probing / Interpretability: *{n_mechanistic-engineering}*
+
+- Miscellanea: *{n_miscellanea}*
+
+---
+
+**Contact**
+
+- [Shiguang Wu](https://furyton.github.io), furyton AT outlook.com / shiguang.wu AT mail.sdu.edu.cn
