@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **249**
+- Total number of different papers: **274**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -44,6 +44,7 @@ Table of Content
   - [Architectural Effectivity](#architectural-effectivity)
     - [Layer-normalization](#layer-normalization)
     - [Tokenization](#tokenization)
+    - [Linear Attention / State Space Models / etc.](#linear-attention--state-space-models--etc)
   - [Training Paradigms](#training-paradigms)
   - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
   - [Miscellanea](#miscellanea)
@@ -58,6 +59,31 @@ Here are some phenomena that are interesting to investigate in language models.
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **BERTs are Generative In-Context Learners** [[paper link]](http://arxiv.org/abs/2406.04823) 2024-06-07  
+David Samuel
+
+
+
+- **Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective** [[paper link]](http://arxiv.org/abs/2406.03768) 2024-06-06  
+Xinhao Yao; Xiaolin Hu; Shenzhi Yang; Yong Liu
+
+
+
+- **What Do Language Models Learn in Context? The Structured Task Hypothesis** [[paper link]](http://arxiv.org/abs/2406.04216) 2024-06-06  
+Jiaoda Li; Yifan Hou; Mrinmaya Sachan; Ryan Cotterell
+
+
+
+- **Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers** [[paper link]](http://arxiv.org/abs/2406.02847) 2024-06-05  
+Brian K Chen; Tianyang Hu; Hui Jin; Hwee Kuan Lee; Kenji Kawaguchi
+
+
+
+- **Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks** [[paper link]](http://arxiv.org/abs/2406.02550) 2024-06-04  
+Tianyu He; Darshil Doshi; Aritra Das; Andrey Gromov
+
+
 
 - **Why Larger Language Models Do In-context Learning Differently?** [[paper link]](http://arxiv.org/abs/2405.19592) 2024-05-30  
 Zhenmei Shi; Junyi Wei; Zhuoyan Xu; Yingyu Liang
@@ -311,6 +337,11 @@ Catherine Olsson; Nelson Elhage; Neel Nanda; Nicholas Joseph; Nova DasSarma; Tom
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[paper link]](http://arxiv.org/abs/2406.02128) 2024-06-04  
+Vivien Cabannes; Charles Arnal; Wassim Bouaziz; Alice Yang; Francois Charton; Julia Kempe
+
+
+
 - **Let's Think Dot by Dot: Hidden Computation in Transformer Language Models** [[paper link]](http://arxiv.org/abs/2404.15758) 2024-04-24  
 Jacob Pfau; William Merrill; Samuel R. Bowman
 
@@ -402,6 +433,11 @@ Chengwen Qi; Bowen Li; Binyuan Hui; Bailin Wang; Jinyang Li; Jinwang Wu; Yuanjun
 
 - **Physics of Language Models: Part 3.2, Knowledge Manipulation** [[paper link]](http://arxiv.org/abs/2309.14402) 2023-09-25  
 Zeyuan Allen-Zhu; Yuanzhi Li
+
+
+
+- **The Reversal Curse: Which Tokens You Predict Underlie the Factorization Curse and More** [[paper link]](http://arxiv.org/abs/2306.05183) 2023-06-07  
+Ouail Kitouni; Niklas Nolte; Diane Bouchacourt; Adina Williams; Mike Rabbat; Mark Ibrahim
 
 
 </details>
@@ -734,6 +770,11 @@ This section includes papers that investigate the generalization ability of lang
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **How Truncating Weights Improves Reasoning in Language Models** [[paper link]](http://arxiv.org/abs/2406.03068) 2024-06-05  
+Lei Chen; Joan Bruna; Alberto Bietti
+
+
+
 - **Understanding Transformer Reasoning Capabilities via Graph Algorithms** [[paper link]](http://arxiv.org/abs/2405.18512) 2024-05-28  
 Clayton Sanford; Bahare Fatemi; Ethan Hall; Anton Tsitsulin; Mehran Kazemi; Jonathan Halcrow; Bryan Perozzi; Vahab Mirrokni
 
@@ -918,6 +959,11 @@ This section includes positive results on the representational capacity and prop
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages** [[paper link]](http://arxiv.org/abs/2406.04289) 2024-06-07  
+Nadav Borenstein; Anej Svete; Robin Chan; Josef Valvoda; Franz Nowak; Isabelle Augenstein; Eleanor Chodroff; Ryan Cotterell
+
+
 
 - **Transformers Can Do Arithmetic with the Right Embeddings** [[paper link]](http://arxiv.org/abs/2405.17399) 2024-05-27  
 Sean McLeish; Arpit Bansal; Alex Stein; Neel Jain; John Kirchenbauer; Brian R. Bartoldson; Bhavya Kailkhura; Abhinav Bhatele; Jonas Geiping; Avi Schwarzschild; Tom Goldstein
@@ -1118,6 +1164,21 @@ The papers in this section investigate the limitations of transformer-based mode
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad** [[paper link]](http://arxiv.org/abs/2406.06467) 2024-06-10  
+Emmanuel Abbe; Samy Bengio; Aryo Lotfi; Colin Sandon; Omid Saremi
+
+
+
+- **Transformers Need Glasses! Information Over-squashing in Language Tasks** [[paper link]](http://arxiv.org/abs/2406.04267) 2024-06-06  
+Federico Barbero; Andrea Banino; Steven Kapturowski; Dharshan Kumaran; João G.M. Araújo; Alex Vitvitskyi; Razvan Pascanu; Petar Veličković
+
+
+
+- **On Limitation of Transformer for Learning HMMs** [[paper link]](http://arxiv.org/abs/2406.04089) 2024-06-06  
+Jiachen Hu; Qinghua Liu; Chi Jin
+
+
+
 - **Language Models Need Inductive Biases to Count Inductively** [[paper link]](http://arxiv.org/abs/2405.20131) 2024-05-30  
 Yingshan Chang; Yonatan Bisk
 
@@ -1247,6 +1308,26 @@ Craig W. Schmidt; Varshini Reddy; Haoran Zhang; Alec Alameddine; Omri Uzan; Yuva
 
 </details>
 
+### Linear Attention / State Space Models / etc.
+
+The section includes papers that investigate the effectiveness of linear attention, state space models, and other prevelant architectures in language models.
+
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
+
+- **Parallelizing Linear Transformers with the Delta Rule over Sequence Length** [[paper link]](http://arxiv.org/abs/2406.06484) 2024-06-10  
+Songlin Yang; Bailin Wang; Yu Zhang; Yikang Shen; Yoon Kim
+
+
+
+- **Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality** [[paper link]](http://arxiv.org/abs/2405.21060) 2024-05-31  
+Tri Dao; Albert Gu
+
+
+</details>
+
+
 ## Training Paradigms
 
 <details open>
@@ -1271,6 +1352,11 @@ This section includes papers that mainly investigate the mechanisms of language 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Scaling and evaluating sparse autoencoders** [[paper link]](http://arxiv.org/abs/2406.04093) 2024-06-06  
+Leo Gao; Tom Dupré la Tour; Henk Tillman; Gabriel Goh; Rajan Troll; Alec Radford; Ilya Sutskever; Jan Leike; Jeffrey Wu
+
+
 
 - **From Neurons to Neutrons: A Case Study in Interpretability** [[paper link]](http://arxiv.org/abs/2405.17425) 2024-05-27  
 Ouail Kitouni; Niklas Nolte; Víctor Samuel Pérez-Díaz; Sokratis Trifinopoulos; Mike Williams
@@ -1358,6 +1444,56 @@ Till Speicher; Aflah Mohammad Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwam
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Interpretability of Language Models via Task Spaces** [[paper link]](http://arxiv.org/abs/2406.06441) 2024-06-10  
+Lucas Weber; Jaap Jumelet; Elia Bruni; Dieuwke Hupkes
+
+
+
+- **How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States** [[paper link]](http://arxiv.org/abs/2406.05644) 2024-06-09  
+Zhenhong Zhou; Haiyang Yu; Xinghua Zhang; Rongwu Xu; Fei Huang; Yongbin Li
+
+
+
+- **Attention as a Hypernetwork** [[paper link]](http://arxiv.org/abs/2406.05816) 2024-06-09  
+Simon Schug; Seijin Kobayashi; Yassir Akram; João Sacramento; Razvan Pascanu
+
+
+
+- **Verbalized Machine Learning: Revisiting Machine Learning with Language Models** [[paper link]](http://arxiv.org/abs/2406.04344) 2024-06-06  
+Tim Z. Xiao; Robert Bamler; Bernhard Schölkopf; Weiyang Liu
+
+
+
+- **Local to Global: Learning Dynamics and Effect of Initialization for Transformers** [[paper link]](http://arxiv.org/abs/2406.03072) 2024-06-05  
+Ashok Vardhan Makkuva; Marco Bondaschi; Chanakya Ekbote; Adway Girish; Alliot Nagle; Hyeji Kim; Michael Gastpar
+
+
+
+- **Pre-trained Large Language Models Use Fourier Features to Compute Addition** [[paper link]](http://arxiv.org/abs/2406.03445) 2024-06-05  
+Tianyi Zhou; Deqing Fu; Vatsal Sharan; Robin Jia
+
+
+
+- **Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models** [[paper link]](http://arxiv.org/abs/2406.03136) 2024-06-05  
+Jerry Yao-Chieh Hu; Maojiang Su; En-Jui Kuo; Zhao Song; Han Liu
+
+
+
+- **Rethinking Spiking Neural Networks as State Space Models** [[paper link]](http://arxiv.org/abs/2406.02923) 2024-06-05  
+Malyaban Bal; Abhronil Sengupta
+
+
+
+- **LongSSM: On the Length Extension of State-space Models in Language Modelling** [[paper link]](http://arxiv.org/abs/2406.02080) 2024-06-04  
+Shida Wang
+
+
+
+- **On Affine Homotopy between Language Encoders** [[paper link]](http://arxiv.org/abs/2406.02329) 2024-06-04  
+Robin SM Chan; Reda Boumasmoud; Anej Svete; Yuxin Ren; Qipeng Guo; Zhijing Jin; Shauli Ravfogel; Mrinmaya Sachan; Bernhard Schölkopf; Mennatallah El-Assady; Ryan Cotterell
+
+
 
 - **A Theory of In-Context Learning in Transformers** [[paper link]](http://arxiv.org/abs/2405.18634) 2024-05-29  
 Yifei Wang; Yuyang Wu; Zeming Wei; Stefanie Jegelka; Yisen Wang
@@ -1506,13 +1642,13 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *49*
+  - In-Context Learning: *54*
 
-  - Chain-of-Thought: *6*
+  - Chain-of-Thought: *7*
 
   - Hallucination: *6*
 
-  - Reversal Curse: *4*
+  - Reversal Curse: *5*
 
   - Scaling Laws / Emergent Abilities / Grokking / etc.: *28*
   
@@ -1520,16 +1656,16 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *22*
 
-  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *25*
+  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *26*
 
   - Other Phenomena: *8*
 
 
 - Representational Capacity:
 
-  - What Can Transformer Do? / Properties of Transformer: *38*
+  - What Can Transformer Do? / Properties of Transformer: *39*
 
-  - What Can Transformer Not Do? / Limitation of Transformer: *14*
+  - What Can Transformer Not Do? / Limitation of Transformer: *17*
 
 
 - Architectural Effectivity:
@@ -1537,13 +1673,15 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
   - Layer-normalization: *5*
 
   - Tokenization: *3*
+  
+  - Linear Attention / State Space Models / etc.: *2*
 
 
 - Training Paradigms: *2*
 
-- Mechanistic Engineering / Probing / Interpretability: *16*
+- Mechanistic Engineering / Probing / Interpretability: *17*
 
-- Miscellanea: *28*
+- Miscellanea: *38*
 
 ---
 
