@@ -27,3 +27,13 @@ Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspec
 Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words?,2024-05-27,http://arxiv.org/abs/2405.16908,Gal Yona; Roee Aharoni; Mor Geva
 A Theory of In-Context Learning in Transformers,2024-05-29,http://arxiv.org/abs/2405.18634,Yifei Wang; Yuyang Wu; Zeming Wei; Stefanie Jegelka; Yisen Wang
 Lower Bounds on the Expressivity of Recurrent Neural Language Models,2024-05-29,http://arxiv.org/abs/2405.19222,Anej Svete; Franz Nowak; Anisha Mohamed Sahabdeen; Ryan Cotterell
+Interpretability of Language Models via Task Spaces,2024-06-10,http://arxiv.org/abs/2406.06441,Lucas Weber; Jaap Jumelet; Elia Bruni; Dieuwke Hupkes
+How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States,2024-06-09,http://arxiv.org/abs/2406.05644,Zhenhong Zhou; Haiyang Yu; Xinghua Zhang; Rongwu Xu; Fei Huang; Yongbin Li
+Attention as a Hypernetwork,2024-06-09,http://arxiv.org/abs/2406.05816,Simon Schug; Seijin Kobayashi; Yassir Akram; João Sacramento; Razvan Pascanu
+Verbalized Machine Learning: Revisiting Machine Learning with Language Models,2024-06-06,http://arxiv.org/abs/2406.04344,Tim Z. Xiao; Robert Bamler; Bernhard Schölkopf; Weiyang Liu
+Local to Global: Learning Dynamics and Effect of Initialization for Transformers,2024-06-05,http://arxiv.org/abs/2406.03072,Ashok Vardhan Makkuva; Marco Bondaschi; Chanakya Ekbote; Adway Girish; Alliot Nagle; Hyeji Kim; Michael Gastpar
+Pre-trained Large Language Models Use Fourier Features to Compute Addition,2024-06-05,http://arxiv.org/abs/2406.03445,Tianyi Zhou; Deqing Fu; Vatsal Sharan; Robin Jia
+LongSSM: On the Length Extension of State-space Models in Language Modelling,2024-06-04,http://arxiv.org/abs/2406.02080,Shida Wang
+Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models,2024-06-05,http://arxiv.org/abs/2406.03136,Jerry Yao-Chieh Hu; Maojiang Su; En-Jui Kuo; Zhao Song; Han Liu
+On Affine Homotopy between Language Encoders,2024-06-04,http://arxiv.org/abs/2406.02329,Robin SM Chan; Reda Boumasmoud; Anej Svete; Yuxin Ren; Qipeng Guo; Zhijing Jin; Shauli Ravfogel; Mrinmaya Sachan; Bernhard Schölkopf; Mennatallah El-Assady; Ryan Cotterell
+Rethinking Spiking Neural Networks as State Space Models,2024-06-05,http://arxiv.org/abs/2406.02923,Malyaban Bal; Abhronil Sengupta

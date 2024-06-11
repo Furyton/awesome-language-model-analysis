@@ -13,3 +13,6 @@ The Devil in Linear Transformer,2022-10-19,http://arxiv.org/abs/2210.10340,Zhen 
 Attention Mechanisms Don't Learn Additive Models: Rethinking Feature Importance for Transformers,2024-05-22,http://arxiv.org/abs/2405.13536,Tobias Leemann; Alina Fastowski; Felix Pfeiffer; Gjergji Kasneci
 Limits of Deep Learning: Sequence Modeling through the Lens of Complexity Theory,2024-05-26,http://arxiv.org/abs/2405.16674,Nikola Zubić; Federico Soldá; Aurelio Sulser; Davide Scaramuzza
 Language Models Need Inductive Biases to Count Inductively,2024-05-30,http://arxiv.org/abs/2405.20131,Yingshan Chang; Yonatan Bisk
+How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad,2024-06-10,http://arxiv.org/abs/2406.06467,Emmanuel Abbe; Samy Bengio; Aryo Lotfi; Colin Sandon; Omid Saremi
+Transformers Need Glasses! Information Over-squashing in Language Tasks,2024-06-06,http://arxiv.org/abs/2406.04267,Federico Barbero; Andrea Banino; Steven Kapturowski; Dharshan Kumaran; João G.M. Araújo; Alex Vitvitskyi; Razvan Pascanu; Petar Veličković
+On Limitation of Transformer for Learning HMMs,2024-06-06,http://arxiv.org/abs/2406.04089,Jiachen Hu; Qinghua Liu; Chi Jin

@@ -19,6 +19,7 @@ directory = [
     "representational-capacity/what-can-transformer-not-do",
     "architectural-effectivity/layer-normalization",
     "architectural-effectivity/tokenization",
+    "architectural-effectivity/linear-attention",
     "training-paradigms",
     "mechanistic-engineering",
     "miscellanea",
@@ -50,10 +51,15 @@ def get_section_list(topic):
                     "Url",
                     "Author",
                 ], f"topic: {topic}, key: {key}, row: {row}"
-        paper_list = [
-            TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"])
-            for row in reader
-        ]
+        
+        paper_list = []
+
+        # add each row to the list and check for duplicates
+
+        for row in reader:
+            paper = TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"])
+            if paper not in paper_list:
+                paper_list.append(paper)
 
     return paper_list
 

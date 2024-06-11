@@ -3,3 +3,4 @@ Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamic
 "The Reversal Curse: LLMs trained on ""A is B"" fail to learn ""B is A""",2024-04-04,http://arxiv.org/abs/2309.12288,Lukas Berglund; Meg Tong; Max Kaufmann; Mikita Balesni; Asa Cooper Stickland; Tomasz Korbak; Owain Evans
 An Investigation of LLMs' Inefficacy in Understanding Converse Relations,2023-12-01,https://aclanthology.org/2023.emnlp-main.429,Chengwen Qi; Bowen Li; Binyuan Hui; Bailin Wang; Jinyang Li; Jinwang Wu; Yuanjun Laili
 "Physics of Language Models: Part 3.2, Knowledge Manipulation",2023-09-25,http://arxiv.org/abs/2309.14402,Zeyuan Allen-Zhu; Yuanzhi Li
+The Reversal Curse: Which Tokens You Predict Underlie the Factorization Curse and More,2023-06-07,http://arxiv.org/abs/2306.05183,Ouail Kitouni; Niklas Nolte; Diane Bouchacourt; Adina Williams; Mike Rabbat; Mark Ibrahim

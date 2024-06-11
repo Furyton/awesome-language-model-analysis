@@ -44,6 +44,7 @@ Table of Content
   - [Architectural Effectivity](#architectural-effectivity)
     - [Layer-normalization](#layer-normalization)
     - [Tokenization](#tokenization)
+    - [Linear Attention / State Space Models / etc.](#linear-attention--state-space-models--etc)
   - [Training Paradigms](#training-paradigms)
   - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
   - [Miscellanea](#miscellanea)
@@ -188,6 +189,18 @@ discussion of the effectiveness of different architectures in terms of learning 
 
 </details>
 
+### Linear Attention / State Space Models / etc.
+
+The section includes papers that investigate the effectiveness of linear attention, state space models, and other prevelant architectures in language models.
+
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
+{architectural-effectivity/linear-attention}
+
+</details>
+
+
 ## Training Paradigms
 
 <details open>
@@ -254,6 +267,8 @@ This section includes papers that mainly investigate the mechanisms of language 
   - Layer-normalization: *{n_architectural-effectivity/layer-normalization}*
 
   - Tokenization: *{n_architectural-effectivity/tokenization}*
+  
+  - Linear Attention / State Space Models / etc.: *{n_architectural-effectivity/linear-attention}*
 
 
 - Training Paradigms: *{n_training-paradigms}*

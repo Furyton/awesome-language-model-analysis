@@ -24,7 +24,8 @@ papers
 │   └── what-can-transformer-not-do
 ├── architectural-effectivity
 │   ├── layer-normalization
-│   └── tokenization
+│   ├── tokenization
+│   └── linear-attention
 ├── training-paradigms
 ├── mechanistic-engineering
 ├── miscellanea
@@ -65,6 +66,12 @@ Initialization is Critical to Whether Transformers Fit Composite Functions by In
 ```
 
 4. Pull request to the `main` branch.
+
+You can run the generation script locally to check if the README file is generated correctly:
+
+```bash
+python generate_readme.py
+```
 
 ---
 

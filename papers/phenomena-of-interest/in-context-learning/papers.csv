@@ -48,3 +48,8 @@ Why Larger Language Models Do In-context Learning Differently?,2024-05-30,http:/
 Is In-Context Learning Sufficient for Instruction Following in LLMs?,2024-05-30,http://arxiv.org/abs/2405.19874,Hao Zhao; Maksym Andriushchenko; Francesco Croce; Nicolas Flammarion
 Does learning the right latent variables necessarily improve in-context learning?,2024-05-29,http://arxiv.org/abs/2405.19162,Sarthak Mittal; Eric Elmoznino; Leo Gagnon; Sangnie Bhardwaj; Dhanya Sridhar; Guillaume Lajoie
 A Theory of In-Context Learning in Transformers,2024-05-29,http://arxiv.org/abs/2405.18634,Yifei Wang; Yuyang Wu; Zeming Wei; Stefanie Jegelka; Yisen Wang
+BERTs are Generative In-Context Learners,2024-06-07,http://arxiv.org/abs/2406.04823,David Samuel
+Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective,2024-06-06,http://arxiv.org/abs/2406.03768,Xinhao Yao; Xiaolin Hu; Shenzhi Yang; Yong Liu
+What Do Language Models Learn in Context? The Structured Task Hypothesis,2024-06-06,http://arxiv.org/abs/2406.04216,Jiaoda Li; Yifan Hou; Mrinmaya Sachan; Ryan Cotterell
+Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks,2024-06-04,http://arxiv.org/abs/2406.02550,Tianyu He; Darshil Doshi; Aritra Das; Andrey Gromov
+Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers,2024-06-05,http://arxiv.org/abs/2406.02847,Brian K Chen; Tianyang Hu; Hui Jin; Hwee Kuan Lee; Kenji Kawaguchi
