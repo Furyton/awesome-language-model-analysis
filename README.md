@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **274**
+- Total number of different papers: **279**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -59,6 +59,16 @@ Here are some phenomena that are interesting to investigate in language models.
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **State Soup: In-Context Skill Learning, Retrieval and Mixing** [[paper link]](http://arxiv.org/abs/2406.08423) 2024-06-12  
+Maciej Pióro; Maciej Wołczyk; Razvan Pascanu; Johannes von Oswald; João Sacramento
+
+
+
+- **Estimating the Hallucination Rate of Generative AI** [[paper link]](http://arxiv.org/abs/2406.07457) 2024-06-11  
+Andrew Jesson; Nicolas Beltran-Velez; Quentin Chu; Sweta Karlekar; Jannik Kossen; Yarin Gal; John P. Cunningham; David Blei
+
+
 
 - **BERTs are Generative In-Context Learners** [[paper link]](http://arxiv.org/abs/2406.04823) 2024-06-07  
 David Samuel
@@ -378,6 +388,11 @@ William Merrill; Ashish Sabharwal
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Estimating the Hallucination Rate of Generative AI** [[paper link]](http://arxiv.org/abs/2406.07457) 2024-06-11  
+Andrew Jesson; Nicolas Beltran-Velez; Quentin Chu; Sweta Karlekar; Jannik Kossen; Yarin Gal; John P. Cunningham; David Blei
+
+
 
 - **Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?** [[paper link]](http://arxiv.org/abs/2405.05904) 2024-05-09  
 Zorik Gekhman; Gal Yona; Roee Aharoni; Matan Eyal; Amir Feder; Roi Reichart; Jonathan Herzig
@@ -960,6 +975,16 @@ This section includes positive results on the representational capacity and prop
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Seperations in the Representational Capabilities of Transformers and Recurrent Architectures** [[paper link]](http://arxiv.org/abs/2406.09347) 2024-06-13  
+Satwik Bhattamishra; Michael Hahn; Phil Blunsom; Varun Kanade
+
+
+
+- **Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot** [[paper link]](http://arxiv.org/abs/2406.06893) 2024-06-11  
+Zixuan Wang; Stanley Wei; Daniel Hsu; Jason D. Lee
+
+
+
 - **What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages** [[paper link]](http://arxiv.org/abs/2406.04289) 2024-06-07  
 Nadav Borenstein; Anej Svete; Robin Chan; Josef Valvoda; Franz Nowak; Isabelle Augenstein; Eleanor Chodroff; Ryan Cotterell
 
@@ -1445,6 +1470,11 @@ Till Speicher; Aflah Mohammad Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwam
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models** [[paper link]](http://arxiv.org/abs/2406.09289) 2024-06-13  
+Sarah Ball; Frauke Kreuter; Nina Rimsky
+
+
+
 - **Interpretability of Language Models via Task Spaces** [[paper link]](http://arxiv.org/abs/2406.06441) 2024-06-10  
 Lucas Weber; Jaap Jumelet; Elia Bruni; Dieuwke Hupkes
 
@@ -1642,11 +1672,11 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *54*
+  - In-Context Learning: *56*
 
   - Chain-of-Thought: *7*
 
-  - Hallucination: *6*
+  - Hallucination: *7*
 
   - Reversal Curse: *5*
 
@@ -1663,7 +1693,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Representational Capacity:
 
-  - What Can Transformer Do? / Properties of Transformer: *39*
+  - What Can Transformer Do? / Properties of Transformer: *41*
 
   - What Can Transformer Not Do? / Limitation of Transformer: *17*
 
@@ -1681,7 +1711,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Mechanistic Engineering / Probing / Interpretability: *17*
 
-- Miscellanea: *38*
+- Miscellanea: *39*
 
 ---
 
