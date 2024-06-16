@@ -5,3 +5,4 @@ In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucin
 Calibrated Language Models Must Hallucinate,2023-11-24,http://arxiv.org/abs/2311.14648,Adam Tauman Kalai; Santosh S. Vempala
 The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models,2023-10-18,http://arxiv.org/abs/2310.11877,Aviv Slobodkin; Omer Goldman; Avi Caciularu; Ido Dagan; Shauli Ravfogel
 Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?,2024-05-09,http://arxiv.org/abs/2405.05904,Zorik Gekhman; Gal Yona; Roee Aharoni; Matan Eyal; Amir Feder; Roi Reichart; Jonathan Herzig
+Estimating the Hallucination Rate of Generative AI,2024-06-11,http://arxiv.org/abs/2406.07457,Andrew Jesson; Nicolas Beltran-Velez; Quentin Chu; Sweta Karlekar; Jannik Kossen; Yarin Gal; John P. Cunningham; David Blei
