@@ -55,3 +55,5 @@ Learning to grok: Emergence of in-context learning and skill composition in modu
 Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers,2024-06-05,http://arxiv.org/abs/2406.02847,Brian K Chen; Tianyang Hu; Hui Jin; Hwee Kuan Lee; Kenji Kawaguchi
 Estimating the Hallucination Rate of Generative AI,2024-06-11,http://arxiv.org/abs/2406.07457,Andrew Jesson; Nicolas Beltran-Velez; Quentin Chu; Sweta Karlekar; Jannik Kossen; Yarin Gal; John P. Cunningham; David Blei
 "State Soup: In-Context Skill Learning, Retrieval and Mixing",2024-06-12,http://arxiv.org/abs/2406.08423,Maciej Pióro; Maciej Wołczyk; Razvan Pascanu; Johannes von Oswald; João Sacramento
+In-Context In-Context Learning with Transformer Neural Processes,2024-06-19,http://arxiv.org/abs/2406.13493,Matthew Ashman; Cristiana Diaconu; Adrian Weller; Richard E. Turner
+Probing the Decision Boundaries of In-context Learning in Large Language Models,2024-06-17,http://arxiv.org/abs/2406.11233,Siyan Zhao; Tung Nguyen; Aditya Grover

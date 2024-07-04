@@ -1,5 +1,6 @@
 import os
 import csv
+import argparse
 
 ROOT = "papers"
 FILE_NAME = "papers.csv"
@@ -64,18 +65,24 @@ def get_section_list(topic):
     return paper_list
 
 
-def fill_readme_template(output_path, content_dict):
+def fill_readme_template(output_path, content_dict, dry_run=False):
     template_path = os.path.join(ROOT, TEMPLATE_NAME)
     with open(template_path, "r") as file:
         template_content = file.read()
 
     filled_content = template_content.format(**content_dict)
 
-    with open(output_path, "w") as file:
-        file.write(filled_content)
+    if not dry_run:
+        with open(output_path, "w") as file:
+            file.write(filled_content)
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dry-run", action="store_true")
+
+    args = parser.parse_args()
+
     content_dict = {}
 
     all_papers = []
@@ -91,4 +98,4 @@ if __name__ == "__main__":
 
     content_dict["n_papers"] = n_unique
 
-    fill_readme_template("README.md", content_dict)
+    fill_readme_template("README.md", content_dict, dry_run=args.dry_run)

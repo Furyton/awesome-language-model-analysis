@@ -16,3 +16,11 @@ From Neurons to Neutrons: A Case Study in Interpretability,2024-05-27,http://arx
 Mechanistic Interpretability of Binary and Ternary Transformers,2024-05-27,http://arxiv.org/abs/2405.17703,Jason Li
 InversionView: A General-Purpose Method for Reading Information from Neural Activations,2024-05-27,http://arxiv.org/abs/2405.17653,Xinting Huang; Madhur Panwar; Navin Goyal; Michael Hahn
 Scaling and evaluating sparse autoencoders,2024-06-06,http://arxiv.org/abs/2406.04093,Leo Gao; Tom Dupré la Tour; Henk Tillman; Gabriel Goh; Rajan Troll; Alec Radford; Ilya Sutskever; Jan Leike; Jeffrey Wu
+Interpreting Attention Layer Outputs with Sparse Autoencoders,2024-06-25,http://arxiv.org/abs/2406.17759,Connor Kissane; Robert Krzyzanowski; Joseph Isaac Bloom; Arthur Conmy; Neel Nanda
+Talking Heads: Understanding Inter-layer Communication in Transformer Language Models,2024-06-13,http://arxiv.org/abs/2406.09519,Jack Merullo; Carsten Eickhoff; Ellie Pavlick
+From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries,2024-06-18,http://arxiv.org/abs/2406.12824,Hitesh Wadhwa; Rahul Seetharaman; Somyaa Aggarwal; Reshmi Ghosh; Samyadeep Basu; Soundararajan Srinivasan; Wenlong Zhao; Shreyas Chaudhari; Ehsan Aghazadeh
+Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell,2024-06-20,http://arxiv.org/abs/2406.14673,Taiming Lu; Muhan Gao; Kuai Yu; Adam Byerly; Daniel Khashabi
+Confidence Regulation Neurons in Language Models,2024-06-24,http://arxiv.org/abs/2406.16254,Alessandro Stolfo; Ben Wu; Wes Gurnee; Yonatan Belinkov; Xingyi Song; Mrinmaya Sachan; Neel Nanda
+Finding Transformer Circuits with Edge Pruning,2024-06-24,http://arxiv.org/abs/2406.16778,Adithya Bhaskar; Alexander Wettig; Dan Friedman; Danqi Chen
+Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models,2024-06-23,http://arxiv.org/abs/2406.16033,Tianyi Men; Pengfei Cao; Zhuoran Jin; Yubo Chen; Kang Liu; Jun Zhao
+Large Language Models are Interpretable Learners,2024-06-25,http://arxiv.org/abs/2406.17224,Ruochen Wang; Si Si; Felix Yu; Dorothea Wiesmann; Cho-Jui Hsieh; Inderjit Dhillon

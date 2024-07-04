@@ -2,3 +2,5 @@ Title,Date,Url,Author
 Toward a Theory of Tokenization in LLMs,2024-04-12,http://arxiv.org/abs/2404.08335,Nived Rajaraman; Jiantao Jiao; Kannan Ramchandran
 On the Effect of (Near) Duplicate Subwords in Language Modelling,2024-04-09,http://arxiv.org/abs/2404.06508,Anton Schäfer; Thomas Hofmann; Imanol Schlag; Tiago Pimentel
 Tokenization Is More Than Compression,2024-02-28,http://arxiv.org/abs/2402.18376,Craig W. Schmidt; Varshini Reddy; Haoran Zhang; Alec Alameddine; Omri Uzan; Yuval Pinter; Chris Tanner
+Understanding and Mitigating Tokenization Bias in Language Models,2024-06-24,http://arxiv.org/abs/2406.16829,Buu Phan; Marton Havasi; Matthew Muckley; Karen Ullrich
+Large Vocabulary Size Improves Large Language Models,2024-06-24,http://arxiv.org/abs/2406.16508,Sho Takase; Ryokan Ri; Shun Kiyono; Takuya Kato

@@ -7,3 +7,10 @@ Your Transformer is Secretly Linear,2024-05-19,https://arxiv.org/abs/2405.12250,
 Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs,2024-05-26,https://arxiv.org/abs/2405.16700,Mustafa Shukor; Matthieu Cord
 Linguistic Collapse: Neural Collapse in (Large) Language Models,2024-05-28,https://arxiv.org/abs/2405.17767,Robert Wu; Vardan Papyan
 Exploring Activation Patterns of Parameters in Language Models,2024-05-28,https://arxiv.org/abs/2405.17799,Yudong Wang; Damai Dai; Zhifang Sui
+Anisotropy is Not Inherent to Transformers,2024-06,https://aclanthology.org/2024.naacl-long.274,Anemily Machina; Robert Mercer
+Anisotropy Is Inherent to Self-Attention in Transformers,2024-01-24,http://arxiv.org/abs/2406.12143,Nathan Godey; Éric de la Clergerie; Benoît Sagot
+Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data,2024-06-20,http://arxiv.org/abs/2406.14546,Johannes Treutlein; Dami Choi; Jan Betley; Cem Anil; Samuel Marks; Roger Baker Grosse; Owain Evans
+Large Vocabulary Size Improves Large Language Models,2024-06-24,http://arxiv.org/abs/2406.16508,Sho Takase; Ryokan Ri; Shun Kiyono; Takuya Kato
+Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning,2024-06-19,http://arxiv.org/abs/2406.13858,Yuval Shalev; Amir Feder; Ariel Goldstein
+Transcendence: Generative Models Can Outperform The Experts That Train Them,2024-06-17,http://arxiv.org/abs/2406.11741,Edwin Zhang; Vincent Zhu; Naomi Saphra; Anat Kleiman; Benjamin L. Edelman; Milind Tambe; Sham M. Kakade; Eran Malach
+Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens,2024-06-16,http://arxiv.org/abs/2406.10985,Weiyao Luo; Suncong Zheng; Heming Xia; Weikang Wang; Yan Lei; Tianyu Liu; Shuang Chen; Zhifang Sui

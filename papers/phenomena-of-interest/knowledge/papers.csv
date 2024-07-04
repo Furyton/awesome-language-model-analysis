@@ -8,3 +8,9 @@ A Multi-Perspective Analysis of Memorization in Large Language Models,2024-05-19
 Upper and lower memory capacity bounds of transformers for next-token prediction,2024-05-22,http://arxiv.org/abs/2405.13718,Liam Madden; Curtis Fox; Christos Thrampoulidis
 Quantifying Memorization Across Neural Language Models,2022-02-15,http://arxiv.org/abs/2202.07646,Nicholas Carlini; Daphne Ippolito; Matthew Jagielski; Katherine Lee; Florian Tramer; Chiyuan Zhang
 Knowledge Circuits in Pretrained Transformers,2024-05-28,http://arxiv.org/abs/2405.17969,Yunzhi Yao; Ningyu Zhang; Zekun Xi; Mengru Wang; Ziwen Xu; Shumin Deng; Huajun Chen
+"Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs",2024-06-14,http://arxiv.org/abs/2406.10209,Abhimanyu Hans; Yuxin Wen; Neel Jain; John Kirchenbauer; Hamid Kazemi; Prajwal Singhania; Siddharth Singh; Gowthami Somepalli; Jonas Geiping; Abhinav Bhatele; Tom Goldstein
+Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data,2024-06-20,http://arxiv.org/abs/2406.14546,Johannes Treutlein; Dami Choi; Jan Betley; Cem Anil; Samuel Marks; Roger Baker Grosse; Owain Evans
+Scaling Laws for Fact Memorization of Large Language Models,2024-06-22,http://arxiv.org/abs/2406.15720,Xingyu Lu; Xiaonan Li; Qinyuan Cheng; Kai Ding; Xuanjing Huang; Xipeng Qiu
+How Do Large Language Models Acquire Factual Knowledge During Pretraining?,2024-06-17,http://arxiv.org/abs/2406.11813,Hoyeon Chang; Jinho Park; Seonghyeon Ye; Sohee Yang; Youngkyung Seo; Du-Seong Chang; Minjoon Seo
+Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models,2024-06-20,http://arxiv.org/abs/2406.14549,Sunny Duan; Mikail Khona; Abhiram Iyer; Rylan Schaeffer; Ila R Fiete
+Estimating Knowledge in Large Language Models Without Generating a Single Token,2024-06-18,http://arxiv.org/abs/2406.12673,Daniela Gottesman; Mor Geva

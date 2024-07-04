@@ -73,6 +73,12 @@ You can run the generation script locally to check if the README file is generat
 python generate_readme.py
 ```
 
+or dry-run the script locally:
+
+```bash
+python generate_readme.py --dry-run
+```
+
 ---
 
 If you have any questions, feel free to open an issue or reach out to the maintainers.

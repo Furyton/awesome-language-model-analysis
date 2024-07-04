@@ -21,3 +21,4 @@ Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamic
 LoRA Training in the NTK Regime has No Spurious Local Minima,2024-02-19,http://arxiv.org/abs/2402.11867,Uijeong Jang; Jason D. Lee; Ernest K. Ryu
 Infinite Limits of Multi-head Transformer Dynamics,2024-05-24,http://arxiv.org/abs/2405.15712,Blake Bordelon; Hamza Tahir Chaudhry; Cengiz Pehlevan
 Understanding Linear Probing then Fine-tuning Language Models from NTK Perspective,2024-05-27,http://arxiv.org/abs/2405.16747,Akiyoshi Tomihari; Issei Sato
+Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and Granularity,2024-06-17,http://arxiv.org/abs/2406.11721,Bingxiang He; Ning Ding; Cheng Qian; Jia Deng; Ganqu Cui; Lifan Yuan; Huan-ang Gao; Huimin Chen; Zhiyuan Liu; Maosong Sun

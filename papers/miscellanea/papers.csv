@@ -38,3 +38,16 @@ Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models,
 On Affine Homotopy between Language Encoders,2024-06-04,http://arxiv.org/abs/2406.02329,Robin SM Chan; Reda Boumasmoud; Anej Svete; Yuxin Ren; Qipeng Guo; Zhijing Jin; Shauli Ravfogel; Mrinmaya Sachan; Bernhard Schölkopf; Mennatallah El-Assady; Ryan Cotterell
 Rethinking Spiking Neural Networks as State Space Models,2024-06-05,http://arxiv.org/abs/2406.02923,Malyaban Bal; Abhronil Sengupta
 Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models,2024-06-13,http://arxiv.org/abs/2406.09289,Sarah Ball; Frauke Kreuter; Nina Rimsky
+Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data,2024-06-20,http://arxiv.org/abs/2406.14546,Johannes Treutlein; Dami Choi; Jan Betley; Cem Anil; Samuel Marks; Roger Baker Grosse; Owain Evans
+Demystifying Forgetting in Language Model Fine-Tuning with Statistical Analysis of Example Associations,2024-06-20,http://arxiv.org/abs/2406.14026,Xisen Jin; Xiang Ren
+On Layer-wise Representation Similarity: Application for Multi-Exit Models with a Single Classifier,2024-06-20,http://arxiv.org/abs/2406.14479,Jiachen Jiang; Jinxin Zhou; Zhihui Zhu
+Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis,2024-06-19,http://arxiv.org/abs/2406.13762,Rachel S.Y. Teo; Tan M. Nguyen
+Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG,2024-06-25,http://arxiv.org/abs/2406.13069,William Merrill; Noah A. Smith; Yanai Elazar
+A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens,2024-06-25,http://arxiv.org/abs/2406.17378,Zhijie Nie; Richong Zhang; Zhanyu Wu
+How to Compute the Probability of a Word,2024-06-20,http://arxiv.org/abs/2406.14561,Tiago Pimentel; Clara Meister
+Anisotropy is Not Inherent to Transformers,2024-06,https://aclanthology.org/2024.naacl-long.274,Anemily Machina; Robert Mercer
+Anisotropy Is Inherent to Self-Attention in Transformers,2024-01-24,http://arxiv.org/abs/2406.12143,Nathan Godey; Éric de la Clergerie; Benoît Sagot
+Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters,2024-06-18,http://arxiv.org/abs/2406.12335,Zhiyu Guo; Hidetaka Kamigaito; Taro Watanabe
+Exploring the Impact of a Transformer's Latent Space Geometry on Downstream Task Performance,2024-06-18,http://arxiv.org/abs/2406.12159,Anna C. Marbut; John W. Chandler; Travis J. Wheeler
+Toward Infinite-Long Prefix in Transformer,2024-06-20,http://arxiv.org/abs/2406.14036,Jiuxiang Gu; Yingyu Liang; Zhenmei Shi; Zhao Song; Chiwun Yang
+Textual Unlearning Gives a False Sense of Unlearning,2024-06-19,http://arxiv.org/abs/2406.13348,Jiacheng Du; Zhibo Wang; Kui Ren

@@ -16,3 +16,4 @@ Language Models Need Inductive Biases to Count Inductively,2024-05-30,http://arx
 How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad,2024-06-10,http://arxiv.org/abs/2406.06467,Emmanuel Abbe; Samy Bengio; Aryo Lotfi; Colin Sandon; Omid Saremi
 Transformers Need Glasses! Information Over-squashing in Language Tasks,2024-06-06,http://arxiv.org/abs/2406.04267,Federico Barbero; Andrea Banino; Steven Kapturowski; Dharshan Kumaran; João G.M. Araújo; Alex Vitvitskyi; Razvan Pascanu; Petar Veličković
 On Limitation of Transformer for Learning HMMs,2024-06-06,http://arxiv.org/abs/2406.04089,Jiachen Hu; Qinghua Liu; Chi Jin
+Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries,2024-06-18,http://arxiv.org/abs/2406.12775,Eden Biran; Daniela Gottesman; Sohee Yang

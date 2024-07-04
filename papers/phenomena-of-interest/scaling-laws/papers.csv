@@ -27,3 +27,6 @@ Deep Grokking: Would Deep Neural Networks Generalize Better?,2024-05-29,http://a
 Linguistic Collapse: Neural Collapse in (Large) Language Models,2024-05-28,https://arxiv.org/abs/2405.17767,Robert Wu; Vardan Papyan
 A rationale from frequency perspective for grokking in training neural network,2024-05-24,http://arxiv.org/abs/2405.17479,Zhangchen Zhou; Yaoyu Zhang; Zhi-Qin John Xu
 Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations,2024-05-28,http://arxiv.org/abs/2405.18392,Alexander Hägele; Elie Bakouch; Atli Kosson; Loubna Ben Allal; Leandro Von Werra; Martin Jaggi
+Scaling Laws for Linear Complexity Language Models,2024-06-24,http://arxiv.org/abs/2406.16690,Xuyang Shen; Dong Li; Ruitao Leng; Zhen Qin; Weigao Sun; Yiran Zhong
+Scaling Laws for Fact Memorization of Large Language Models,2024-06-22,http://arxiv.org/abs/2406.15720,Xingyu Lu; Xiaonan Li; Qinyuan Cheng; Kai Ding; Xuanjing Huang; Xipeng Qiu
+Reconciling Kaplan and Chinchilla Scaling Laws,2024-06-12,http://arxiv.org/abs/2406.12907,Tim Pearce; Jinyeop Song
