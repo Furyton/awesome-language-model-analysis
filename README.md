@@ -16,6 +16,7 @@ Statistics of This paper list:
 - Total number of different papers: **360**
 - For more detailed statistics, please refer to the end of this page.
 
+For uncategorized version, please refer to [here](papers/README.uncategorized.md).
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
 
@@ -28,33 +29,33 @@ Table of Content
 <!--ts-->
 - [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)
 - [Table of Content](#table-of-content)
-  - [Phenomena of Interest](#phenomena-of-interest)
-    - [In-Context Learning](#in-context-learning)
-    - [Chain-of-Thought](#chain-of-thought)
-    - [Hallucination](#hallucination)
-    - [Reversal Curse](#reversal-curse)
-    - [Scaling Laws / Emergent Abilities / Grokking / etc.](#scaling-laws--emergent-abilities--grokking--etc)
-    - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
-    - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
-    - [Learning / Generalization / Reasoning / Weak to Strong Generalization](#learning--generalization--reasoning--weak-to-strong-generalization)
-    - [Other Phenomena / Discoveries](#other-phenomena--discoveries)
-  - [Representational Capacity](#representational-capacity)
-    - [What Can Transformer Do? / Properties of Transformer](#what-can-transformer-do--properties-of-transformer)
-    - [What Can Transformer Not Do? / Limitation of Transformer](#what-can-transformer-not-do--limitation-of-transformer)
-  - [Architectural Effectivity](#architectural-effectivity)
-    - [Layer-normalization](#layer-normalization)
-    - [Tokenization / Embedding](#tokenization--embedding)
-    - [Linear Attention / State Space Models / Recurrent Language Models / etc.](#linear-attention--state-space-models--recurrent-language-models--etc)
-  - [Training Paradigms](#training-paradigms)
-  - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
-  - [Miscellanea](#miscellanea)
+  - [**Phenomena of Interest**](#phenomena-of-interest)
+    - [**In-Context Learning**](#in-context-learning)
+    - [**Chain-of-Thought**](#chain-of-thought)
+    - [**Hallucination**](#hallucination)
+    - [**Reversal Curse**](#reversal-curse)
+    - [**Scaling Laws / Emergent Abilities / Grokking / etc.**](#scaling-laws--emergent-abilities--grokking--etc)
+    - [**Knowledge / Memory mechanisms**](#knowledge--memory-mechanisms)
+    - [**Training Dynamics / Landscape / Optimization / Fine-tuning / etc.**](#training-dynamics--landscape--optimization--fine-tuning--etc)
+    - [**Learning / Generalization / Reasoning / Weak to Strong Generalization**](#learning--generalization--reasoning--weak-to-strong-generalization)
+    - [**Other Phenomena / Discoveries**](#other-phenomena--discoveries)
+  - [**Representational Capacity**](#representational-capacity)
+    - [**What Can Transformer Do? / Properties of Transformer**](#what-can-transformer-do--properties-of-transformer)
+    - [**What Can Transformer Not Do? / Limitation of Transformer**](#what-can-transformer-not-do--limitation-of-transformer)
+  - [**Architectural Effectivity**](#architectural-effectivity)
+    - [**Layer-normalization**](#layer-normalization)
+    - [**Tokenization / Embedding**](#tokenization--embedding)
+    - [**Linear Attention / State Space Models / Recurrent Language Models / etc.**](#linear-attention--state-space-models--recurrent-language-models--etc)
+  - [**Training Paradigms**](#training-paradigms)
+  - [**Mechanistic Engineering / Probing / Interpretability**](#mechanistic-engineering--probing--interpretability)
+  - [**Miscellanea**](#miscellanea)
 <!--te-->
 
-## Phenomena of Interest
+## **Phenomena of Interest**
 
 Here are some phenomena that are interesting to investigate in language models.
 
-### In-Context Learning
+### **In-Context Learning**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -376,7 +377,7 @@ Catherine Olsson; Nelson Elhage; Neel Nanda; Nicholas Joseph; Nova DasSarma; Tom
 
 </details>
 
-### Chain-of-Thought
+### **Chain-of-Thought**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -423,7 +424,7 @@ William Merrill; Ashish Sabharwal
 
 </details>
 
-### Hallucination
+### **Hallucination**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -465,7 +466,7 @@ Aviv Slobodkin; Omer Goldman; Avi Caciularu; Ido Dagan; Shauli Ravfogel
 
 </details>
 
-### Reversal Curse
+### **Reversal Curse**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -497,7 +498,7 @@ Ouail Kitouni; Niklas Nolte; Diane Bouchacourt; Adina Williams; Mike Rabbat; Mar
 
 </details>
 
-### Scaling Laws / Emergent Abilities / Grokking / etc.
+### **Scaling Laws / Emergent Abilities / Grokking / etc.**
 
 This section includes papers that investigate how the performance of language models scales with model size, data size, or compute, and how emergent abilities arise in language models.
 
@@ -686,7 +687,7 @@ Jared Kaplan; Sam McCandlish; Tom Henighan; Tom B. Brown; Benjamin Chess; Rewon 
 
 </details>
 
-### Knowledge / Memory mechanisms
+### **Knowledge / Memory mechanisms**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -788,7 +789,7 @@ Nicholas Carlini; Daphne Ippolito; Matthew Jagielski; Katherine Lee; Florian Tra
 
 </details>
 
-### Training Dynamics / Landscape / Optimization / Fine-tuning / etc.
+### **Training Dynamics / Landscape / Optimization / Fine-tuning / etc.**
 
 This section focuses on the training dynamics of language models, including the optimization landscape, fine-tuning, and transfer learning.
 
@@ -922,7 +923,7 @@ Zihao Fu; Anthony Man-Cho So; Nigel Collier
 
 </details>
 
-### Learning / Generalization / Reasoning / Weak to Strong Generalization
+### **Learning / Generalization / Reasoning / Weak to Strong Generalization**
 
 This section includes papers that investigate the generalization ability of language models, and the general learning behavior of language models.
 
@@ -1086,7 +1087,7 @@ Evani Radiya-Dixit; Xin Wang
 
 </details>
 
-### Other Phenomena / Discoveries
+### **Other Phenomena / Discoveries**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1203,11 +1204,11 @@ Zonglin Li; Chong You; Srinadh Bhojanapalli; Daliang Li; Ankit Singh Rawat; Sash
 
 </details>
 
-## Representational Capacity
+## **Representational Capacity**
 
 Investigate the expressiveness of transformer-based models about what they can do and what they can't do.
 
-### What Can Transformer Do? / Properties of Transformer
+### **What Can Transformer Do? / Properties of Transformer**
 
 This section includes positive results on the representational capacity and properties of transformer-based models.
 
@@ -1436,7 +1437,7 @@ Gino Brunner; Yang Liu; Damián Pascual; Oliver Richter; Massimiliano Ciaramita;
 
 </details>
 
-### What Can Transformer Not Do? / Limitation of Transformer
+### **What Can Transformer Not Do? / Limitation of Transformer**
 
 The papers in this section investigate the limitations of transformer-based models, including the limitations of their expressiveness and learning abilities.
 
@@ -1545,11 +1546,11 @@ Zhen Qin; XiaoDong Han; Weixuan Sun; Dongxu Li; Lingpeng Kong; Nick Barnes; Yira
 
 </details>
 
-## Architectural Effectivity
+## **Architectural Effectivity**
 
 discussion of the effectiveness of different architectures in terms of learning and generalization
 
-### Layer-normalization
+### **Layer-normalization**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1581,7 +1582,7 @@ Ruibin Xiong; Yunchang Yang; Di He; Kai Zheng; Shuxin Zheng; Chen Xing; Huishuai
 
 </details>
 
-### Tokenization / Embedding
+### **Tokenization / Embedding**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1638,7 +1639,7 @@ Anastasis Kratsios; Valentin Debarnot; Ivan Dokmanić
 
 </details>
 
-### Linear Attention / State Space Models / Recurrent Language Models / etc.
+### **Linear Attention / State Space Models / Recurrent Language Models / etc.**
 
 The section includes papers that investigate the effectiveness of linear attention, state space models, and other prevelant architectures in language models.
 
@@ -1663,7 +1664,7 @@ Tri Dao; Albert Gu
 </details>
 
 
-## Training Paradigms
+## **Training Paradigms**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1680,7 +1681,7 @@ Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J
 
 </details>
 
-## Mechanistic Engineering / Probing / Interpretability
+## **Mechanistic Engineering / Probing / Interpretability**
 
 This section includes papers that mainly investigate the mechanisms of language models through probing, mechanistic engineering, and other papers generally related to interpretability.
 
@@ -1854,7 +1855,7 @@ Till Speicher; Aflah Mohammad Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwam
 
 </details>
 
-## Miscellanea
+## **Miscellanea**
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
