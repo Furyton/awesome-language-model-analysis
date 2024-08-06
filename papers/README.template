@@ -16,13 +16,14 @@ Statistics of This paper list:
 - Total number of different papers: **{n_papers}**
 - For more detailed statistics, please refer to the end of this page.
 
-For uncategorized version, please refer to [here](papers/README.uncategorized.md).
-
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
 
 For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
 
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-transformers-LM-analytics/discussions).
+
+> [!NOTE]  
+> For uncategorized version, please refer to [here](README.uncategorized.md).
 
 Table of Content
 ====================
