@@ -4,7 +4,8 @@ import argparse
 
 ROOT = "papers"
 FILE_NAME = "papers.csv"
-TEMPLATE_NAME = "README.template"
+TEMPLATE_FILE = "README.template"
+UNCATEGORIZED_TEMPLATE_FILE = "README.uncategorized.template"
 
 directory = [
     "phenomena-of-interest/in-context-learning",
@@ -52,21 +53,23 @@ def get_section_list(topic):
                     "Url",
                     "Author",
                 ], f"topic: {topic}, key: {key}, row: {row}"
-        
+
         paper_list = []
 
         # add each row to the list and check for duplicates
 
         for row in reader:
-            paper = TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"])
+            paper = TEMPLATE.format(
+                row["Title"], row["Url"], row["Date"], row["Author"]
+            )
             if paper not in paper_list:
                 paper_list.append(paper)
 
-    return paper_list
+    return paper_list, reader
 
 
-def fill_readme_template(output_path, content_dict, dry_run=False):
-    template_path = os.path.join(ROOT, TEMPLATE_NAME)
+def fill_readme_template(output_path, content_dict, template_file, dry_run=False):
+    template_path = os.path.join(ROOT, template_file)
     with open(template_path, "r") as file:
         template_content = file.read()
 
@@ -86,11 +89,14 @@ if __name__ == "__main__":
     content_dict = {}
 
     all_papers = []
+    all_paper_data = []
     for d in directory:
-        paper_list = get_section_list(d)
+        paper_list, paper_data_reader = get_section_list(d)
         content_dict[d] = "\n\n".join(paper_list)
         all_papers.extend(paper_list)
         content_dict["n_" + d] = len(paper_list)
+
+        all_paper_data.extend(paper_data_reader)
 
     # remove duplicates
 
@@ -98,4 +104,27 @@ if __name__ == "__main__":
 
     content_dict["n_papers"] = n_unique
 
-    fill_readme_template("README.md", content_dict, dry_run=args.dry_run)
+    fill_readme_template("README.md", content_dict, TEMPLATE_FILE, dry_run=args.dry_run)
+
+    # remove duplicate in all_paper_data by Title
+
+    all_paper_data = [dict(t) for t in {tuple(d.items()) for d in all_paper_data}]
+
+    all_paper_data = sorted(all_paper_data, key=lambda x: x["Date"], reverse=True)
+
+    all_papers_data = [
+        TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"])
+        for row in all_paper_data
+    ]
+
+    uncategorized_all_papers = {
+        "paper-list": "\n\n".join(all_papers_data),
+        "n_papers": n_unique,
+    }
+
+    fill_readme_template(
+        "README.uncategorized.md",
+        uncategorized_all_papers,
+        UNCATEGORIZED_TEMPLATE_FILE,
+        dry_run=args.dry_run,
+    )
