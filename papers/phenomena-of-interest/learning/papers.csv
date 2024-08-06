@@ -26,3 +26,7 @@ Understanding Transformer Reasoning Capabilities via Graph Algorithms,2024-05-28
 Linguistic Collapse: Neural Collapse in (Large) Language Models,2024-05-28,https://arxiv.org/abs/2405.17767,Robert Wu; Vardan Papyan
 How Truncating Weights Improves Reasoning in Language Models,2024-06-05,http://arxiv.org/abs/2406.03068,Lei Chen; Joan Bruna; Alberto Bietti
 Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis,2024-06-24,http://arxiv.org/abs/2406.17167,Hongkang Li; Meng Wang; Shuai Zhang; Sijia Liu; Pin-Yu Chen
+Implicit meta-learning may lead language models to trust more reliable sources,2023-10-23,http://arxiv.org/abs/2310.15047,Dmitrii Krasheninnikov; Egor Krasheninnikov; Bruno Mlodozeniec; Tegan Maharaj; David Krueger
+On Initialization of Transformers with Pre-trained Embeddings,2024-07-17,http://arxiv.org/abs/2407.12514,Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
+Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models,2024-07-25,http://arxiv.org/abs/2407.18158,Sanae Lotfi; Yilun Kuang; Brandon Amos; Micah Goldblum; Marc Finzi; Andrew Gordon Wilson
+When can transformers compositionally generalize in-context?,2024-07-17,http://arxiv.org/abs/2407.12275,Seijin Kobayashi; Simon Schug; Yassir Akram; Florian Redhardt; Johannes von Oswald; Razvan Pascanu; Guillaume Lajoie; João Sacramento

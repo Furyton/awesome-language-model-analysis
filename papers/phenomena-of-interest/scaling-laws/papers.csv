@@ -30,3 +30,8 @@ Scaling Laws and Compute-Optimal Training Beyond Fixed Training Durations,2024-0
 Scaling Laws for Linear Complexity Language Models,2024-06-24,http://arxiv.org/abs/2406.16690,Xuyang Shen; Dong Li; Ruitao Leng; Zhen Qin; Weigao Sun; Yiran Zhong
 Scaling Laws for Fact Memorization of Large Language Models,2024-06-22,http://arxiv.org/abs/2406.15720,Xingyu Lu; Xiaonan Li; Qinyuan Cheng; Kai Ding; Xuanjing Huang; Xipeng Qiu
 Reconciling Kaplan and Chinchilla Scaling Laws,2024-06-12,http://arxiv.org/abs/2406.12907,Tim Pearce; Jinyeop Song
+Resolving Discrepancies in Compute-Optimal Scaling of Language Models,2024-06-25,http://arxiv.org/abs/2406.19146,Tomer Porian; Mitchell Wortsman; Jenia Jitsev; Ludwig Schmidt; Yair Carmon
+Exploring Scaling Trends in LLM Robustness,2024-07-25,http://arxiv.org/abs/2407.18213,Nikolaus Howe; Michał Zajac; Ian McKenzie; Oskar Hollinsworth; Tom Tseng; Pierre-Luc Bacon; Adam Gleave
+Emergence in non-neural models: grokking modular arithmetic via average gradient outer product,2024-07-29,http://arxiv.org/abs/2407.20199,Neil Mallinar; Daniel Beaglehole; Libin Zhu; Adityanarayanan Radhakrishnan; Parthe Pandit; Mikhail Belkin
+Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies,2024-07-18,http://arxiv.org/abs/2407.13623,Chaofan Tao; Qian Liu; Longxu Dou; Niklas Muennighoff; Zhongwei Wan; Ping Luo; Min Lin; Ngai Wong
+Why Do You Grok? A Theoretical Analysis of Grokking Modular Addition,2024-07-17,http://arxiv.org/abs/2407.12332,Mohamad Amin Mohamadi; Zhiyuan Li; Lei Wu; Danica J. Sutherland

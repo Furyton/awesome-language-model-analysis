@@ -40,3 +40,6 @@ A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to 
 What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages,2024-06-07,http://arxiv.org/abs/2406.04289,Nadav Borenstein; Anej Svete; Robin Chan; Josef Valvoda; Franz Nowak; Isabelle Augenstein; Eleanor Chodroff; Ryan Cotterell
 Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot,2024-06-11,http://arxiv.org/abs/2406.06893,Zixuan Wang; Stanley Wei; Daniel Hsu; Jason D. Lee
 Seperations in the Representational Capabilities of Transformers and Recurrent Architectures,2024-06-13,http://arxiv.org/abs/2406.09347,Satwik Bhattamishra; Michael Hahn; Phil Blunsom; Varun Kanade
+Universal Approximation Theory: The basic theory for large language models,2024-07-01,http://arxiv.org/abs/2407.00958,Wei Wang; Qing Li
+Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability,2024-07-22,http://arxiv.org/abs/2407.15720,Zhuoyan Xu; Zhenmei Shi; Yingyu Liang
+Transformers on Markov Data: Constant Depth Suffices,2024-07-25,http://arxiv.org/abs/2407.17686,Nived Rajaraman; Marco Bondaschi; Kannan Ramchandran; Michael Gastpar; Ashok Vardhan Makkuva

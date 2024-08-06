@@ -24,3 +24,11 @@ Confidence Regulation Neurons in Language Models,2024-06-24,http://arxiv.org/abs
 Finding Transformer Circuits with Edge Pruning,2024-06-24,http://arxiv.org/abs/2406.16778,Adithya Bhaskar; Alexander Wettig; Dan Friedman; Danqi Chen
 Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models,2024-06-23,http://arxiv.org/abs/2406.16033,Tianyi Men; Pengfei Cao; Zhuoran Jin; Yubo Chen; Kang Liu; Jun Zhao
 Large Language Models are Interpretable Learners,2024-06-25,http://arxiv.org/abs/2406.17224,Ruochen Wang; Si Si; Felix Yu; Dorothea Wiesmann; Cho-Jui Hsieh; Inderjit Dhillon
+Transformer Normalisation Layers and the Independence of Semantic Subspaces,2024-06-25,http://arxiv.org/abs/2406.17837,Stephen Menary; Samuel Kaski; Andre Freitas
+Refusal in Language Models Is Mediated by a Single Direction,2024-06-17,http://arxiv.org/abs/2406.11717,Andy Arditi; Oscar Obeso; Aaquib Syed; Daniel Paleka; Nina Panickssery; Wes Gurnee; Neel Nanda
+Clustering in pure-attention hardmax transformers and its role in sentiment analysis,2024-06-26,http://arxiv.org/abs/2407.01602,Albert Alcalde; Giovanni Fantuzzi; Enrique Zuazua
+Observable Propagation: Uncovering Feature Vectors in Transformers,2024-06-04,http://arxiv.org/abs/2406.16291,Jacob Dunefsky; Arman Cohan
+"Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions",2024-07-21,http://arxiv.org/abs/2407.15018,Sarah Wiegreffe; Oyvind Tafjord; Yonatan Belinkov; Hannaneh Hajishirzi; Ashish Sabharwal
+Transformer Layers as Painters,2024-07-12,http://arxiv.org/abs/2407.09298,Qi Sun; Marc Pickett; Aakash Kumar Nain; Llion Jones
+Monitoring Latent World States in Language Models with Propositional Probes,2024-06-27,http://arxiv.org/abs/2406.19501,Jiahai Feng; Stuart Russell; Jacob Steinhardt
+GiLOT: Interpreting Generative Language Models via Optimal Transport,2024-05-02,https://openreview.net/pdf?id=qKL25sGjxL,Xuhong Li; Jiamin Chen; Yekun Chai; Haoyi Xiong

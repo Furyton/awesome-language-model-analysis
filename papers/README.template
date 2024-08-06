@@ -37,14 +37,14 @@ Table of Content
     - [Knowledge / Memory mechanisms](#knowledge--memory-mechanisms)
     - [Training Dynamics / Landscape / Optimization / Fine-tuning / etc.](#training-dynamics--landscape--optimization--fine-tuning--etc)
     - [Learning / Generalization / Reasoning / Weak to Strong Generalization](#learning--generalization--reasoning--weak-to-strong-generalization)
-    - [Other Phenomena](#other-phenomena)
+    - [Other Phenomena / Discoveries](#other-phenomena--discoveries)
   - [Representational Capacity](#representational-capacity)
     - [What Can Transformer Do? / Properties of Transformer](#what-can-transformer-do--properties-of-transformer)
     - [What Can Transformer Not Do? / Limitation of Transformer](#what-can-transformer-not-do--limitation-of-transformer)
   - [Architectural Effectivity](#architectural-effectivity)
     - [Layer-normalization](#layer-normalization)
-    - [Tokenization](#tokenization)
-    - [Linear Attention / State Space Models / etc.](#linear-attention--state-space-models--etc)
+    - [Tokenization / Embedding](#tokenization--embedding)
+    - [Linear Attention / State Space Models / Recurrent Language Models / etc.](#linear-attention--state-space-models--recurrent-language-models--etc)
   - [Training Paradigms](#training-paradigms)
   - [Mechanistic Engineering / Probing / Interpretability](#mechanistic-engineering--probing--interpretability)
   - [Miscellanea](#miscellanea)
@@ -132,7 +132,7 @@ This section includes papers that investigate the generalization ability of lang
 
 </details>
 
-### Other Phenomena
+### Other Phenomena / Discoveries
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -180,7 +180,7 @@ discussion of the effectiveness of different architectures in terms of learning 
 
 </details>
 
-### Tokenization
+### Tokenization / Embedding
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -189,7 +189,7 @@ discussion of the effectiveness of different architectures in terms of learning 
 
 </details>
 
-### Linear Attention / State Space Models / etc.
+### Linear Attention / State Space Models / Recurrent Language Models / etc.
 
 The section includes papers that investigate the effectiveness of linear attention, state space models, and other prevelant architectures in language models.
 
@@ -252,7 +252,7 @@ This section includes papers that mainly investigate the mechanisms of language 
 
   - Learning / Generalization / Reasoning / Weak to Strong Generalization: *{n_phenomena-of-interest/learning}*
 
-  - Other Phenomena: *{n_phenomena-of-interest/other-phenomena}*
+  - Other Phenomena / Discoveries: *{n_phenomena-of-interest/other-phenomena}*
 
 
 - Representational Capacity:
@@ -266,7 +266,7 @@ This section includes papers that mainly investigate the mechanisms of language 
 
   - Layer-normalization: *{n_architectural-effectivity/layer-normalization}*
 
-  - Tokenization: *{n_architectural-effectivity/tokenization}*
+  - Tokenization / Embedding: *{n_architectural-effectivity/tokenization}*
   
   - Linear Attention / State Space Models / etc.: *{n_architectural-effectivity/linear-attention}*
 

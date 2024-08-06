@@ -14,3 +14,7 @@ Scaling Laws for Fact Memorization of Large Language Models,2024-06-22,http://ar
 How Do Large Language Models Acquire Factual Knowledge During Pretraining?,2024-06-17,http://arxiv.org/abs/2406.11813,Hoyeon Chang; Jinho Park; Seonghyeon Ye; Sohee Yang; Youngkyung Seo; Du-Seong Chang; Minjoon Seo
 Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models,2024-06-20,http://arxiv.org/abs/2406.14549,Sunny Duan; Mikail Khona; Abhiram Iyer; Rylan Schaeffer; Ila R Fiete
 Estimating Knowledge in Large Language Models Without Generating a Single Token,2024-06-18,http://arxiv.org/abs/2406.12673,Daniela Gottesman; Mor Geva
+Understanding Finetuning for Factual Knowledge Extraction,2024-06-20,http://arxiv.org/abs/2406.14785,Gaurav Ghosal; Tatsunori Hashimoto; Aditi Raghunathan
+Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers,2024-06-26,http://arxiv.org/abs/2406.18400,Yibo Jiang; Goutham Rajendran; Pradeep Ravikumar; Bryon Aragam
+Demystifying Verbatim Memorization in Large Language Models,2024-07-25,http://arxiv.org/abs/2407.17817,Jing Huang; Diyi Yang; Christopher Potts
+From Internal Conflict to Contextual Adaptation of Language Models,2024-07-24,http://arxiv.org/abs/2407.17023,Sara Vera Marjanović; Haeun Yu; Pepa Atanasova; Maria Maistro; Christina Lioma; Isabelle Augenstein

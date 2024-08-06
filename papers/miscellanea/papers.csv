@@ -51,3 +51,13 @@ Attention Score is not All You Need for Token Importance Indicator in KV Cache R
 Exploring the Impact of a Transformer's Latent Space Geometry on Downstream Task Performance,2024-06-18,http://arxiv.org/abs/2406.12159,Anna C. Marbut; John W. Chandler; Travis J. Wheeler
 Toward Infinite-Long Prefix in Transformer,2024-06-20,http://arxiv.org/abs/2406.14036,Jiuxiang Gu; Yingyu Liang; Zhenmei Shi; Zhao Song; Chiwun Yang
 Textual Unlearning Gives a False Sense of Unlearning,2024-06-19,http://arxiv.org/abs/2406.13348,Jiacheng Du; Zhibo Wang; Kui Ren
+Universal Length Generalization with Turing Programs,2024-07-03,http://arxiv.org/abs/2407.03310,Kaiying Hou; David Brandfonbrener; Sham Kakade; Samy Jelassi; Eran Malach
+Toward Infinite-Long Prefix in Transformer,2024-06-20,http://arxiv.org/abs/2406.14036,Jiuxiang Gu; Yingyu Liang; Zhenmei Shi; Zhao Song; Chiwun Yang
+Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models,2024-06-05,http://arxiv.org/abs/2406.03136,Jerry Yao-Chieh Hu; Maojiang Su; En-Jui Kuo; Zhao Song; Han Liu
+Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models,2024-07-22,http://arxiv.org/abs/2407.15504,Adway Girish; Alliot Nagle; Marco Bondaschi; Michael Gastpar; Ashok Vardhan Makkuva; Hyeji Kim
+In-Context Probing Approximates Influence Function for Data Valuation,2024-07-17,http://arxiv.org/abs/2407.12259,Cathy Jiao; Gary Gao; Chenyan Xiong
+On Initialization of Transformers with Pre-trained Embeddings,2024-07-17,http://arxiv.org/abs/2407.12514,Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
+On Exact Bit-level Reversible Transformers Without Changing Architectures,2024-07-12,http://arxiv.org/abs/2407.09093,Guoqiang Zhang; J.P. Lewis; W. B. Kleijn
+Understanding Transformers via N-gram Statistics,2024-06-30,http://arxiv.org/abs/2407.12034,Timothy Nguyen
+Efficient Training of Language Models with Compact and Consistent Next Token Distributions,2024-07-03,http://arxiv.org/abs/2407.02819,Ashutosh Sathe; Sunita Sarawagi
+On the Benefits of Rank in Attention Layers,2024-07-23,http://arxiv.org/abs/2407.16153,Noah Amsel; Gilad Yehudai; Joan Bruna

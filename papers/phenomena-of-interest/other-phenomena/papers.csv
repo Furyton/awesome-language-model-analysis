@@ -14,3 +14,10 @@ Large Vocabulary Size Improves Large Language Models,2024-06-24,http://arxiv.org
 Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning,2024-06-19,http://arxiv.org/abs/2406.13858,Yuval Shalev; Amir Feder; Ariel Goldstein
 Transcendence: Generative Models Can Outperform The Experts That Train Them,2024-06-17,http://arxiv.org/abs/2406.11741,Edwin Zhang; Vincent Zhu; Naomi Saphra; Anat Kleiman; Benjamin L. Edelman; Milind Tambe; Sham M. Kakade; Eran Malach
 Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens,2024-06-16,http://arxiv.org/abs/2406.10985,Weiyao Luo; Suncong Zheng; Heming Xia; Weikang Wang; Yan Lei; Tianyu Liu; Shuang Chen; Zhifang Sui
+Transformer Alignment in Large Language Models,2024-07-10,http://arxiv.org/abs/2407.07810,Murdock Aubry; Haoming Meng; Anton Sugolov; Vardan Papyan
+Understanding Transformers via N-gram Statistics,2024-06-30,http://arxiv.org/abs/2407.12034,Timothy Nguyen
+On the Benefits of Rank in Attention Layers,2024-07-23,http://arxiv.org/abs/2407.16153,Noah Amsel; Gilad Yehudai; Joan Bruna
+Transformers on Markov Data: Constant Depth Suffices,2024-07-25,http://arxiv.org/abs/2407.17686,Nived Rajaraman; Marco Bondaschi; Kannan Ramchandran; Michael Gastpar; Ashok Vardhan Makkuva
+By Tying Embeddings You Are Assuming the Distributional Hypothesis,2024-05-02,https://openreview.net/pdf?id=yyYMAprcAR,Francesco Bertolotti; Walter Cazzola
+Emergent Representations of Program Semantics in Language Models Trained on Programs,2024-05-02,https://openreview.net/pdf?id=8PTx4CpNoT,Charles Jin; Martin Rinard
+On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm,2024-02-06,http://arxiv.org/abs/2402.03660,Zhanpeng Zhou; Zijun Chen; Yilan Chen; Bo Zhang; Junchi Yan

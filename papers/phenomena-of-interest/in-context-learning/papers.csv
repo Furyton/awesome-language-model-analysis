@@ -57,3 +57,9 @@ Estimating the Hallucination Rate of Generative AI,2024-06-11,http://arxiv.org/a
 "State Soup: In-Context Skill Learning, Retrieval and Mixing",2024-06-12,http://arxiv.org/abs/2406.08423,Maciej Pióro; Maciej Wołczyk; Razvan Pascanu; Johannes von Oswald; João Sacramento
 In-Context In-Context Learning with Transformer Neural Processes,2024-06-19,http://arxiv.org/abs/2406.13493,Matthew Ashman; Cristiana Diaconu; Adrian Weller; Richard E. Turner
 Probing the Decision Boundaries of In-context Learning in Large Language Models,2024-06-17,http://arxiv.org/abs/2406.11233,Siyan Zhao; Tung Nguyen; Aditya Grover
+When can transformers compositionally generalize in-context?,2024-07-17,http://arxiv.org/abs/2407.12275,Seijin Kobayashi; Simon Schug; Yassir Akram; Florian Redhardt; Johannes von Oswald; Razvan Pascanu; Guillaume Lajoie; João Sacramento
+Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?,2024-05-02,https://openreview.net/pdf?id=o8AaRKbP9K,Khashayar Gatmiry; Nikunj Saunshi; Sashank J. Reddi; Stefanie Jegelka; Sanjiv Kumar
+Transformers learn to implement preconditioned gradient descent for in-context learning,2023-11-09,http://arxiv.org/abs/2306.00297,Kwangjun Ahn; Xiang Cheng; Hadi Daneshmand; Suvrit Sra
+How do Transformers perform In-Context Autoregressive Learning?,2024-02-08,http://arxiv.org/abs/2402.05787,Michael E. Sander; Raja Giryes; Taiji Suzuki; Mathieu Blondel; Gabriel Peyré
+In-context Learning on Function Classes Unveiled for Transformers,2024-05-02,https://openreview.net/pdf?id=rJkGOARXns,Zhijie Wang; Bo Jiang; Shuai Li
+Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks,2024-02-06,http://arxiv.org/abs/2402.04248,Jongho Park; Jaeseung Park; Zheyang Xiong; Nayoung Lee; Jaewoong Cho; Samet Oymak; Kangwook Lee; Dimitris Papailiopoulos

@@ -4,3 +4,8 @@ On the Effect of (Near) Duplicate Subwords in Language Modelling,2024-04-09,http
 Tokenization Is More Than Compression,2024-02-28,http://arxiv.org/abs/2402.18376,Craig W. Schmidt; Varshini Reddy; Haoran Zhang; Alec Alameddine; Omri Uzan; Yuval Pinter; Chris Tanner
 Understanding and Mitigating Tokenization Bias in Language Models,2024-06-24,http://arxiv.org/abs/2406.16829,Buu Phan; Marton Havasi; Matthew Muckley; Karen Ullrich
 Large Vocabulary Size Improves Large Language Models,2024-06-24,http://arxiv.org/abs/2406.16508,Sho Takase; Ryokan Ri; Shun Kiyono; Takuya Kato
+Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies,2024-07-18,http://arxiv.org/abs/2407.13623,Chaofan Tao; Qian Liu; Longxu Dou; Niklas Muennighoff; Zhongwei Wan; Ping Luo; Min Lin; Ngai Wong
+By Tying Embeddings You Are Assuming the Distributional Hypothesis,2024-05-02,https://openreview.net/pdf?id=yyYMAprcAR,Francesco Bertolotti; Walter Cazzola
+Transformers Can Do Arithmetic with the Right Embeddings,2024-05-27,http://arxiv.org/abs/2405.17399,Sean McLeish; Arpit Bansal; Alex Stein; Neel Jain; John Kirchenbauer; Brian R. Bartoldson; Bhavya Kailkhura; Abhinav Bhatele; Jonas Geiping; Avi Schwarzschild; Tom Goldstein
+Small Transformers Compute Universal Metric Embeddings,2022-10-18,http://arxiv.org/abs/2209.06788,Anastasis Kratsios; Valentin Debarnot; Ivan Dokmanić
+On Initialization of Transformers with Pre-trained Embeddings,2024-07-17,http://arxiv.org/abs/2407.12514,Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
