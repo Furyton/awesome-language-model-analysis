@@ -21,3 +21,6 @@ Transformers on Markov Data: Constant Depth Suffices,2024-07-25,http://arxiv.org
 By Tying Embeddings You Are Assuming the Distributional Hypothesis,2024-05-02,https://openreview.net/pdf?id=yyYMAprcAR,Francesco Bertolotti; Walter Cazzola
 Emergent Representations of Program Semantics in Language Models Trained on Programs,2024-05-02,https://openreview.net/pdf?id=8PTx4CpNoT,Charles Jin; Martin Rinard
 On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm,2024-02-06,http://arxiv.org/abs/2402.03660,Zhanpeng Zhou; Zijun Chen; Yilan Chen; Bo Zhang; Junchi Yan
+Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models,2024-08-12,http://arxiv.org/abs/2408.06518,Hila Gonen; Terra Blevins; Alisa Liu; Luke Zettlemoyer; Noah A. Smith
+Large Language Monkeys: Scaling Inference Compute with Repeated Sampling,2024-07-31,http://arxiv.org/abs/2407.21787,Bradley Brown; Jordan Juravsky; Ryan Ehrlich; Ronald Clark; Quoc V. Le; Christopher Ré; Azalia Mirhoseini
+Monotonic Representation of Numeric Properties in Language Models,2024-08-15,http://arxiv.org/abs/2408.10381,Benjamin Heinzerling; Kentaro Inui

@@ -43,3 +43,7 @@ Seperations in the Representational Capabilities of Transformers and Recurrent A
 Universal Approximation Theory: The basic theory for large language models,2024-07-01,http://arxiv.org/abs/2407.00958,Wei Wang; Qing Li
 Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability,2024-07-22,http://arxiv.org/abs/2407.15720,Zhuoyan Xu; Zhenmei Shi; Yingyu Liang
 Transformers on Markov Data: Constant Depth Suffices,2024-07-25,http://arxiv.org/abs/2407.17686,Nived Rajaraman; Marco Bondaschi; Kannan Ramchandran; Michael Gastpar; Ashok Vardhan Makkuva
+Can LLMs predict the convergence of Stochastic Gradient Descent?,2024-08-03,http://arxiv.org/abs/2408.01736,Oussama Zekri; Abdelhakim Benechehab; Ievgen Redko
+Why Transformers are Obviously Good Models of Language,2024-08-07,http://arxiv.org/abs/2408.03855,Felix Hill
+Attention is a smoothed cubic spline,2024-08-19,http://arxiv.org/abs/2408.09624,Zehua Lai; Lek-Heng Lim; Yucong Liu
+Transformers As Approximations of Solomonoff Induction,2024-08-22,http://arxiv.org/abs/2408.12065,Nathan Young; Michael Witbrock

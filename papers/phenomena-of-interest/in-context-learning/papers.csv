@@ -63,3 +63,8 @@ Transformers learn to implement preconditioned gradient descent for in-context l
 How do Transformers perform In-Context Autoregressive Learning?,2024-02-08,http://arxiv.org/abs/2402.05787,Michael E. Sander; Raja Giryes; Taiji Suzuki; Mathieu Blondel; Gabriel Peyré
 In-context Learning on Function Classes Unveiled for Transformers,2024-05-02,https://openreview.net/pdf?id=rJkGOARXns,Zhijie Wang; Bo Jiang; Shuai Li
 Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks,2024-02-06,http://arxiv.org/abs/2402.04248,Jongho Park; Jaeseung Park; Zheyang Xiong; Nayoung Lee; Jaewoong Cho; Samet Oymak; Kangwook Lee; Dimitris Papailiopoulos
+In-Context Learning with Representations: Contextual Generalization of Trained Transformers,2024-08-19,http://arxiv.org/abs/2408.10147,Tong Yang; Yu Huang; Yingbin Liang; Yuejie Chi
+How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression,2024-08-08,http://arxiv.org/abs/2408.04532,Xingwu Chen; Lei Zhao; Difan Zou
+Transformers are Universal In-context Learners,2024-08-02,http://arxiv.org/abs/2408.01367,Takashi Furuya; Maarten V. de Hoop; Gabriel Peyré
+Transformers are Minimax Optimal Nonparametric In-Context Learners,2024-08-22,http://arxiv.org/abs/2408.12186,Juno Kim; Tai Nakamaki; Taiji Suzuki
+Fast Training Dataset Attribution via In-Context Learning,2024-08-14,http://arxiv.org/abs/2408.11852,Milad Fotouhi; Mohammad Taha Bahadori; Oluwaseyi Feyisetan; Payman Arabshahi; David Heckerman

@@ -9,3 +9,6 @@ By Tying Embeddings You Are Assuming the Distributional Hypothesis,2024-05-02,ht
 Transformers Can Do Arithmetic with the Right Embeddings,2024-05-27,http://arxiv.org/abs/2405.17399,Sean McLeish; Arpit Bansal; Alex Stein; Neel Jain; John Kirchenbauer; Brian R. Bartoldson; Bhavya Kailkhura; Abhinav Bhatele; Jonas Geiping; Avi Schwarzschild; Tom Goldstein
 Small Transformers Compute Universal Metric Embeddings,2022-10-18,http://arxiv.org/abs/2209.06788,Anastasis Kratsios; Valentin Debarnot; Ivan Dokmanić
 On Initialization of Transformers with Pre-trained Embeddings,2024-07-17,http://arxiv.org/abs/2407.12514,Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
+Where is the signal in tokenization space?,2024-08-16,http://arxiv.org/abs/2408.08541,Renato Lui Geh; Honghua Zhang; Kareem Ahmed; Benjie Wang; Guy Van den Broeck
+Reconsidering Token Embeddings with the Definitions for Pre-trained Language Models,2024-08-02,http://arxiv.org/abs/2408.01308,Ying Zhang; Dongyuan Li; Manabu Okumura
+Monotonic Representation of Numeric Properties in Language Models,2024-08-15,http://arxiv.org/abs/2408.10381,Benjamin Heinzerling; Kentaro Inui

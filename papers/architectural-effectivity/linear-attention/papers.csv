@@ -2,3 +2,5 @@ Title,Date,Url,Author
 Parallelizing Linear Transformers with the Delta Rule over Sequence Length,2024-06-10,http://arxiv.org/abs/2406.06484,Songlin Yang; Bailin Wang; Yu Zhang; Yikang Shen; Yoon Kim
 Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality,2024-05-31,http://arxiv.org/abs/2405.21060,Tri Dao; Albert Gu
 Just read twice: closing the recall gap for recurrent language models,2024-07-07,http://arxiv.org/abs/2407.05483,Simran Arora; Aman Timalsina; Aaryan Singhal; Benjamin Spector; Sabri Eyuboglu; Xinyi Zhao; Ashish Rao; Atri Rudra; Christopher Ré
+Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models,2024-08-19,http://arxiv.org/abs/2408.10189,Aviv Bick; Kevin Y. Li; Eric P. Xing; J. Zico Kolter; Albert Gu
+Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations,2024-08-20,http://arxiv.org/abs/2408.10920,Róbert Csordás; Christopher Potts; Christopher D. Manning; Atticus Geiger

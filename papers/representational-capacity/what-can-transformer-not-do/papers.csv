@@ -19,3 +19,4 @@ On Limitation of Transformer for Learning HMMs,2024-06-06,http://arxiv.org/abs/2
 Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries,2024-06-18,http://arxiv.org/abs/2406.12775,Eden Biran; Daniela Gottesman; Sohee Yang
 When can transformers compositionally generalize in-context?,2024-07-17,http://arxiv.org/abs/2407.12275,Seijin Kobayashi; Simon Schug; Yassir Akram; Florian Redhardt; Johannes von Oswald; Razvan Pascanu; Guillaume Lajoie; João Sacramento
 When Can Transformers Count to n?,2024-07-21,http://arxiv.org/abs/2407.15160,Gilad Yehudai; Haim Kaplan; Asma Ghandeharioun; Mor Geva; Amir Globerson
+Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers,2024-08-10,http://arxiv.org/abs/2408.05506,MohammadReza Ebrahimi; Sunny Panchal; Roland Memisevic

@@ -61,3 +61,7 @@ On Exact Bit-level Reversible Transformers Without Changing Architectures,2024-0
 Understanding Transformers via N-gram Statistics,2024-06-30,http://arxiv.org/abs/2407.12034,Timothy Nguyen
 Efficient Training of Language Models with Compact and Consistent Next Token Distributions,2024-07-03,http://arxiv.org/abs/2407.02819,Ashutosh Sathe; Sunita Sarawagi
 On the Benefits of Rank in Attention Layers,2024-07-23,http://arxiv.org/abs/2407.16153,Noah Amsel; Gilad Yehudai; Joan Bruna
+Data Debugging is NP-hard for Classifiers Trained with SGD,2024-08-02,http://arxiv.org/abs/2408.01365,Zizheng Guo; Pengyu Chen; Yanzhang Fu; Dongjing Miao
+Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models,2024-07-31,http://arxiv.org/abs/2407.21417,Zhengxuan Wu; Yuhao Zhang; Peng Qi; Yumo Xu; Rujun Han; Yian Zhang; Jifan Chen; Bonan Min; Zhiheng Huang
+Language Models as Models of Language,2024-08-13,http://arxiv.org/abs/2408.07144,Raphaël Millière
+Learning Randomized Algorithms with Transformers,2024-08-20,http://arxiv.org/abs/2408.10818,Johannes von Oswald; Seijin Kobayashi; Yassir Akram; Angelika Steger

@@ -35,3 +35,8 @@ Exploring Scaling Trends in LLM Robustness,2024-07-25,http://arxiv.org/abs/2407.
 Emergence in non-neural models: grokking modular arithmetic via average gradient outer product,2024-07-29,http://arxiv.org/abs/2407.20199,Neil Mallinar; Daniel Beaglehole; Libin Zhu; Adityanarayanan Radhakrishnan; Parthe Pandit; Mikhail Belkin
 Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies,2024-07-18,http://arxiv.org/abs/2407.13623,Chaofan Tao; Qian Liu; Longxu Dou; Niklas Muennighoff; Zhongwei Wan; Ping Luo; Min Lin; Ngai Wong
 Why Do You Grok? A Theoretical Analysis of Grokking Modular Addition,2024-07-17,http://arxiv.org/abs/2407.12332,Mohamad Amin Mohamadi; Zhiyuan Li; Lei Wu; Danica J. Sutherland
+"Understanding the Interplay of Scale, Data, and Bias in Language Models: A Case Study with BERT",2024-07-25,http://arxiv.org/abs/2407.21058,Muhammad Ali; Swetasudha Panda; Qinlan Shen; Michael Wick; Ari Kobren
+Large Language Monkeys: Scaling Inference Compute with Repeated Sampling,2024-07-31,http://arxiv.org/abs/2407.21787,Bradley Brown; Jordan Juravsky; Ryan Ehrlich; Ronald Clark; Quoc V. Le; Christopher Ré; Azalia Mirhoseini
+Scaling Law with Learning Rate Annealing,2024-08-20,http://arxiv.org/abs/2408.11029,Howe Tissue; Venus Wang; Lu Wang
+Information-Theoretic Progress Measures reveal Grokking is an Emergent Phase Transition,2024-08-16,http://arxiv.org/abs/2408.08944,Kenzo Clauw; Sebastiano Stramaglia; Daniele Marinazzo
+Performance Law of Large Language Models,2024-08-19,http://arxiv.org/abs/2408.09895,Chuhan Wu; Ruiming Tang

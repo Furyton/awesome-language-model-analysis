@@ -30,3 +30,7 @@ Implicit meta-learning may lead language models to trust more reliable sources,2
 On Initialization of Transformers with Pre-trained Embeddings,2024-07-17,http://arxiv.org/abs/2407.12514,Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
 Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models,2024-07-25,http://arxiv.org/abs/2407.18158,Sanae Lotfi; Yilun Kuang; Brandon Amos; Micah Goldblum; Marc Finzi; Andrew Gordon Wilson
 When can transformers compositionally generalize in-context?,2024-07-17,http://arxiv.org/abs/2407.12275,Seijin Kobayashi; Simon Schug; Yassir Akram; Florian Redhardt; Johannes von Oswald; Razvan Pascanu; Guillaume Lajoie; João Sacramento
+Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs,2024-07-31,http://arxiv.org/abs/2408.00114,Kewei Cheng; Jingfeng Yang; Haoming Jiang; Zhengyang Wang; Binxuan Huang; Ruirui Li; Shiyang Li; Zheng Li; Yifan Gao; Xian Li; Bing Yin; Yizhou Sun
+Out-of-distribution generalization via composition: a lens through induction heads in Transformers,2024-08-18,http://arxiv.org/abs/2408.09503,Jiajun Song; Zhuoyan Xu; Yiqiao Zhong
+On the Generalization of Preference Learning with DPO,2024-08-06,http://arxiv.org/abs/2408.03459,Shawn Im; Yixuan Li
+"Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process",2024-07-29,http://arxiv.org/abs/2407.13123,Tian Ye; Zicheng Xu; Yuanzhi Li; Zeyuan Allen-Zhu
