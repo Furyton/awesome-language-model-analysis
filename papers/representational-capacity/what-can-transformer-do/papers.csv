@@ -47,3 +47,9 @@ Can LLMs predict the convergence of Stochastic Gradient Descent?,2024-08-03,http
 Why Transformers are Obviously Good Models of Language,2024-08-07,http://arxiv.org/abs/2408.03855,Felix Hill
 Attention is a smoothed cubic spline,2024-08-19,http://arxiv.org/abs/2408.09624,Zehua Lai; Lek-Heng Lim; Yucong Liu
 Transformers As Approximations of Solomonoff Induction,2024-08-22,http://arxiv.org/abs/2408.12065,Nathan Young; Michael Witbrock
+How Transformers Learn Structured Data: Insights from Hierarchical Filtering,2024-08-27,http://arxiv.org/abs/2408.15138,Jerome Garnier-Brun; Marc Mézard; Emanuele Moscato; Luca Saglietti
+Learning Randomized Algorithms with Transformers,2024-08-20,http://arxiv.org/abs/2408.10818,Johannes von Oswald; Seijin Kobayashi; Yassir Akram; Angelika Steger
+Attention is a smoothed cubic spline,2024-08-19,http://arxiv.org/abs/2408.09624,Zehua Lai; Lek-Heng Lim; Yucong Liu
+Transformers As Approximations of Solomonoff Induction,2024-08-22,http://arxiv.org/abs/2408.12065,Nathan Young; Michael Witbrock
+Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations,2024-08-27,http://arxiv.org/abs/2408.15417,Yize Zhao; Tina Behnia; Vala Vakilian; Christos Thrampoulidis
+A Law of Next-Token Prediction in Large Language Models,2024-08-24,http://arxiv.org/abs/2408.13442,Hangfeng He; Weijie J. Su

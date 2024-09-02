@@ -68,3 +68,5 @@ How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Stu
 Transformers are Universal In-context Learners,2024-08-02,http://arxiv.org/abs/2408.01367,Takashi Furuya; Maarten V. de Hoop; Gabriel Peyré
 Transformers are Minimax Optimal Nonparametric In-Context Learners,2024-08-22,http://arxiv.org/abs/2408.12186,Juno Kim; Tai Nakamaki; Taiji Suzuki
 Fast Training Dataset Attribution via In-Context Learning,2024-08-14,http://arxiv.org/abs/2408.11852,Milad Fotouhi; Mohammad Taha Bahadori; Oluwaseyi Feyisetan; Payman Arabshahi; David Heckerman
+Memorisation In In-Context Learning,2024-08-21,http://arxiv.org/abs/2408.11546,Shahriar Golchin; Mihai Surdeanu; Steven Bethard; Eduardo Blanco; Ellen Riloff
+In-Context Learning with Representations: Contextual Generalization of Trained Transformers,2024-08-19,http://arxiv.org/abs/2408.10147,Tong Yang; Yu Huang; Yingbin Liang; Yuejie Chi

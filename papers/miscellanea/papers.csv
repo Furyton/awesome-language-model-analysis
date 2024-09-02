@@ -65,3 +65,7 @@ Data Debugging is NP-hard for Classifiers Trained with SGD,2024-08-02,http://arx
 Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models,2024-07-31,http://arxiv.org/abs/2407.21417,Zhengxuan Wu; Yuhao Zhang; Peng Qi; Yumo Xu; Rujun Han; Yian Zhang; Jifan Chen; Bonan Min; Zhiheng Huang
 Language Models as Models of Language,2024-08-13,http://arxiv.org/abs/2408.07144,Raphaël Millière
 Learning Randomized Algorithms with Transformers,2024-08-20,http://arxiv.org/abs/2408.10818,Johannes von Oswald; Seijin Kobayashi; Yassir Akram; Angelika Steger
+Enhancing Exploratory Learning through Exploratory Search with the Emergence of Large Language Models,2024-08-09,http://arxiv.org/abs/2408.08894,Yiming Luo; Patrick Cheong-Iao; Shanton Chang
+"Great Memory, Shallow Reasoning: Limits of kNN-LMs",2024-08-21,http://arxiv.org/abs/2408.11815,Shangyi Geng; Wenting Zhao; Alexander M Rush
+A Tighter Complexity Analysis of SparseGPT,2024-08-22,http://arxiv.org/abs/2408.12151,Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song
+Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time,2024-08-23,http://arxiv.org/abs/2408.13233,Yingyu Liang; Zhizhou Sha; Zhenmei Shi; Zhao Song; Yufa Zhou

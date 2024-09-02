@@ -20,3 +20,4 @@ Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Ho
 When can transformers compositionally generalize in-context?,2024-07-17,http://arxiv.org/abs/2407.12275,Seijin Kobayashi; Simon Schug; Yassir Akram; Florian Redhardt; Johannes von Oswald; Razvan Pascanu; Guillaume Lajoie; João Sacramento
 When Can Transformers Count to n?,2024-07-21,http://arxiv.org/abs/2407.15160,Gilad Yehudai; Haim Kaplan; Asma Ghandeharioun; Mor Geva; Amir Globerson
 Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers,2024-08-10,http://arxiv.org/abs/2408.05506,MohammadReza Ebrahimi; Sunny Panchal; Roland Memisevic
+One-layer transformers fail to solve the induction heads task,2024-08-26,http://arxiv.org/abs/2408.14332,Clayton Sanford; Daniel Hsu; Matus Telgarsky
