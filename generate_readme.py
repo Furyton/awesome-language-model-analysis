@@ -52,7 +52,9 @@ def get_section_list(topic):
                     "Date",
                     "Url",
                     "Author",
-                ], f"topic: {topic}, key: {key}, row: {row}"
+                ], f"topic: {topic}, key: {key}, row: {row}, unexpected key"
+
+                assert row[key], f"topic: {topic}, key: {key}, row: {row}, empty value"
 
         paper_list = []
 
