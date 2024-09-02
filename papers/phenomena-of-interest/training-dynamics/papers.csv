@@ -25,4 +25,5 @@ Zero-Shot Generalization during Instruction Tuning: Insights from Similarity and
 Deconstructing What Makes a Good Optimizer for Language Models,2024-07-10,http://arxiv.org/abs/2407.07972,Rosie Zhao; Depen Morwani; David Brandfonbrener; Nikhil Vyas; Sham Kakade
 On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm,2024-02-06,http://arxiv.org/abs/2402.03660,Zhanpeng Zhou; Zijun Chen; Yilan Chen; Bo Zhang; Junchi Yan
 Clustering and Alignment: Understanding the Training Dynamics in Modular Addition,2024-08-18,http://arxiv.org/abs/2408.09414,Tiberiu Musat
-Clustering and Alignment: Understanding the Training Dynamics in Modular Addition,2024-08-18,http://arxiv.org/abs/2408.09414,Tiberiu Musat
+Learning Dynamics of LLM Finetuning,2024-07-15,http://arxiv.org/abs/2407.10490,Yi Ren; Danica J. Sutherland
+Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective,2024-07-24,http://arxiv.org/abs/2407.17120,Jingren Liu; Zhong Ji; YunLong Yu; Jiale Cao; Yanwei Pang; Jungong Han; Xuelong Li

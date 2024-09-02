@@ -21,3 +21,6 @@ From Internal Conflict to Contextual Adaptation of Language Models,2024-07-24,ht
 "Generalisation First, Memorisation Second? Memorisation Localisation for Natural Language Classification Tasks",2024-08-09,http://arxiv.org/abs/2408.04965,Verna Dankers; Ivan Titov
 "Great Memory, Shallow Reasoning: Limits of kNN-LMs",2024-08-21,http://arxiv.org/abs/2408.11815,Shangyi Geng; Wenting Zhao; Alexander M Rush
 Memorisation In In-Context Learning,2024-08-21,http://arxiv.org/abs/2408.11546,Shahriar Golchin; Mihai Surdeanu; Steven Bethard; Eduardo Blanco; Ellen Riloff
+"Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications",2024-07-27,http://arxiv.org/abs/2407.19262,Till Speicher; Mohammad Aflah Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwamittra Ghosh; Krishna P. Gummadi; Evimaria Terzi
+Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data,2024-07-20,http://arxiv.org/abs/2407.14985,Antonis Antoniades; Xinyi Wang; Yanai Elazar; Alfonso Amayuelas; Alon Albalak; Kexun Zhang; William Yang Wang
+Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning,2024-07-09,http://arxiv.org/abs/2407.07011,J. Crosbie; E. Shutova
