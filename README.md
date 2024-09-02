@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **421**
+- Total number of different papers: **420**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -561,11 +561,6 @@ This section includes papers that investigate how the performance of language mo
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
-
-- **Scaling Law with Learning Rate Annealing** [[paper link]](Howe Tissue; Venus Wang; Lu Wang) http://arxiv.org/abs/2408.11029  
-None
-
-
 
 - **A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language** [[paper link]](http://arxiv.org/abs/2408.12578) 2024-08-22  
 Ekdeep Singh Lubana; Kyogo Kawaguchi; Robert P. Dick; Hidenori Tanaka
@@ -2512,7 +2507,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Reversal Curse: *5*
 
-  - Scaling Laws / Emergent Abilities / Grokking / etc.: *43*
+  - Scaling Laws / Emergent Abilities / Grokking / etc.: *42*
   
   - Knowledge / Memory mechanisms: *25*
 
