@@ -1,0 +1,140 @@
+{
+  "phenomena-of-interest": {
+    "name": "Phenomena of Interest",
+    "description": "Categories focusing on different phenomena, properties, and behaviors observed in large language models (LLMs) and transformer-based models.",
+    "subcategories": [
+      {
+        "code": "01",
+        "name": "In-Context Learning",
+        "directory": "phenomena-of-interest/in-context-learning",
+        "description": "Papers focusing on the theoretical and empirical analysis of in-context learning in large language models."
+      },
+      {
+        "code": "02",
+        "name": "Chain-of-Thought",
+        "directory": "phenomena-of-interest/chain-of-thought",
+        "description": "Papers analyzing the chain-of-thought phenomenon in large language models, exploring theoretical and empirical perspectives."
+      },
+      {
+        "code": "03",
+        "name": "Hallucination",
+        "directory": "phenomena-of-interest/hallucination",
+        "description": "Papers examining the hallucination phenomenon in language models, including both theoretical and empirical analysis."
+      },
+      {
+        "code": "04",
+        "name": "Reversal Curse",
+        "directory": "phenomena-of-interest/reversal-curse",
+        "description": "Papers that analyze the reversal curse phenomenon in large language models."
+      },
+      {
+        "code": "05",
+        "name": "Scaling Laws / Emergent Abilities / Grokking / etc.",
+        "directory": "phenomena-of-interest/scaling-laws",
+        "description": "Papers exploring how model performance scales with model size, data size, or computational resources, and the emergence of unexpected abilities."
+      },
+      {
+        "code": "06",
+        "name": "Knowledge / Memory Mechanisms",
+        "directory": "phenomena-of-interest/knowledge",
+        "description": "Papers focusing on how large language models store, retrieve, and utilize knowledge, analyzing the memory mechanisms involved."
+      },
+      {
+        "code": "07",
+        "name": "Training Dynamics / Landscape / Optimization / Fine-tuning / etc.",
+        "directory": "phenomena-of-interest/training-dynamics",
+        "description": "Papers discussing various aspects of the training process, including optimization, fine-tuning, and the training landscape of large language models."
+      },
+      {
+        "code": "08",
+        "name": "Learning / Generalization / Reasoning / Weak to Strong Generalization",
+        "directory": "phenomena-of-interest/learning",
+        "description": "Papers analyzing the learning capabilities and generalization performance of language models, from weak to strong generalization."
+      },
+      {
+        "code": "09",
+        "name": "Other Phenomena / Discoveries",
+        "directory": "phenomena-of-interest/other-phenomena",
+        "description": "Papers discussing other interesting phenomena or discoveries related to the behavior and properties of language models."
+      }
+    ]
+  },
+  "representational-capacity": {
+    "name": "Representational Capacity",
+    "description": "Categories focused on the representational capacities and limitations of transformers and language models.",
+    "subcategories": [
+      {
+        "code": "10",
+        "name": "What Can Transformer Do? / Properties of Transformer",
+        "directory": "representational-capacity/what-can-transformer-do",
+        "description": "Papers providing positive results and insights into the capabilities and properties of transformer-based models."
+      },
+      {
+        "code": "11",
+        "name": "What Can Transformer Not Do? / Limitation of Transformer",
+        "directory": "representational-capacity/what-can-transformer-not-do",
+        "description": "Papers investigating the limitations of transformer-based models, including expressiveness and learning constraints."
+      }
+    ]
+  },
+  "architectural-effectivity": {
+    "name": "Architectural Effectivity",
+    "description": "Categories analyzing different architectural components and their effects in transformer models.",
+    "subcategories": [
+      {
+        "code": "12",
+        "name": "Layer-normalization",
+        "directory": "architectural-effectivity/layer-normalization",
+        "description": "Papers discussing the role, effects, and optimization of layer normalization in transformer models."
+      },
+      {
+        "code": "13",
+        "name": "Tokenization / Embedding",
+        "directory": "architectural-effectivity/tokenization",
+        "description": "Papers focused on tokenization, embedding strategies, and input representations in language models."
+      },
+      {
+        "code": "14",
+        "name": "Linear Attention / State Space Models / Recurrent Language Models / etc.",
+        "directory": "architectural-effectivity/linear-attention",
+        "description": "Papers analyzing alternative architectures to the standard transformer models, such as linear attention and state space models."
+      }
+    ]
+  },
+  "training-paradigms": {
+    "name": "Training Paradigms",
+    "description": "Categories discussing various training methodologies and paradigms for language models.",
+    "subcategories": [
+      {
+        "code": "15",
+        "name": "Training Paradigms",
+        "directory": "training-paradigms",
+        "description": "Papers discussing different training approaches or paradigms for language models, including methods like distillation."
+      }
+    ]
+  },
+  "mechanistic-engineering": {
+    "name": "Mechanistic Engineering / Probing / Interpretability",
+    "description": "Categories exploring the internal mechanisms and interpretability of language models.",
+    "subcategories": [
+      {
+        "code": "16",
+        "name": "Mechanistic Engineering / Probing / Interpretability",
+        "directory": "mechanistic-engineering",
+        "description": "Papers investigating the inner workings, mechanisms, and interpretability of language models through methods like probing or mechanistic analysis."
+      }
+    ]
+  },
+  "miscellanea": {
+    "name": "Miscellanea",
+    "description": "Categories for papers that do not fit neatly into other classifications but discuss theoretical or empirical aspects of language models.",
+    "subcategories": [
+      {
+        "code": "17",
+        "name": "Miscellanea",
+        "directory": "miscellanea",
+        "description": "Papers that do not fit neatly into other categories but still discuss some theoretical or empirical aspects of language models."
+      }
+    ]
+  }
+}

@@ -1,5 +1,6 @@
 import os
 import csv
+import json
 import argparse
 
 ROOT = "papers"
@@ -7,31 +8,129 @@ FILE_NAME = "papers.csv"
 TEMPLATE_FILE = "README.template"
 UNCATEGORIZED_TEMPLATE_FILE = "README.uncategorized.template"
 
-directory = [
-    "phenomena-of-interest/in-context-learning",
-    "phenomena-of-interest/chain-of-thought",
-    "phenomena-of-interest/hallucination",
-    "phenomena-of-interest/reversal-curse",
-    "phenomena-of-interest/scaling-laws",
-    "phenomena-of-interest/knowledge",
-    "phenomena-of-interest/training-dynamics",
-    "phenomena-of-interest/learning",
-    "phenomena-of-interest/other-phenomena",
-    "representational-capacity/what-can-transformer-do",
-    "representational-capacity/what-can-transformer-not-do",
-    "architectural-effectivity/layer-normalization",
-    "architectural-effectivity/tokenization",
-    "architectural-effectivity/linear-attention",
-    "training-paradigms",
-    "mechanistic-engineering",
-    "miscellanea",
-]
+# get the category_info.json
+with open("category_info.json", "r") as f:
+    category_info = json.load(f)
+
+flatten_category_info = sum([v["subcategories"] for v in category_info.values()], [])
+directory = [v["directory"] for v in flatten_category_info]
 
 
 TEMPLATE = """
 - **{}** [[paper link]]({}) {}  
 {}
 """
+
+
+def generate_table_of_content(category_info):
+    header = "Table of Content\n====================\n<!--ts-->\n"
+    header += (
+        "- [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)\n"
+        "- [Table of Content](#table-of-content)\n"
+    )
+    footer = "<!--te-->\n"
+
+    first_level_indent = "  "
+    second_level_indent = "    "
+
+    body = ""
+
+    def gen_entry(name):
+        return f"- [**{name}**](#{name.lower().replace(' ', '-').replace('/', '').replace('.', '').replace('?','').replace(',','')})"
+
+    for category, category_info in category_info.items():
+        subcategories = category_info["subcategories"]
+
+        if len(subcategories) > 1:
+            entry = gen_entry(category_info["name"])
+            body += first_level_indent + entry + "\n"
+
+        adjust_indent = (
+            first_level_indent if len(subcategories) == 1 else second_level_indent
+        )
+        for subcategory in subcategories:
+            entry = gen_entry(subcategory["name"])
+            body += adjust_indent + entry + "\n"
+
+    return header + body + footer
+
+
+def generate_section_template(category_info):
+    header_template = "## **{}**\n\n{}"
+    body_template = """
+<details open>
+<summary><em>paper list (click to fold / unfold)</em></summary>
+<br>
+{{{}}}
+</details>
+"""
+
+    template = ""
+    for category, category_info in category_info.items():
+        template += (
+            header_template.format(category_info["name"], category_info["description"])
+            + "\n\n"
+        )
+        no_sub_header = len(category_info["subcategories"]) == 1
+        for subcategory in category_info["subcategories"]:
+            if not no_sub_header:
+                template += (
+                    "#"
+                    + header_template.format(
+                        subcategory["name"], subcategory["description"]
+                    )
+                    + "\n\n"
+                )
+            template += body_template.format(subcategory["directory"]) + "\n\n"
+
+    return template
+
+
+def generate_statistics_template(category_info):
+    header = "**Detailed Statistics**\n\n"
+    first_level_indent = ""
+    second_level_indent = "  "
+    body = ""
+
+    for category, category_info in category_info.items():
+        subcategories = category_info["subcategories"]
+
+        if len(subcategories) > 1:
+            body += first_level_indent + "- " + category_info["name"] + ":\n\n"
+
+        adjust_indent = (
+            first_level_indent if len(subcategories) == 1 else second_level_indent
+        )
+        for subcategory in subcategories:
+            body += (
+                adjust_indent
+                + "- "
+                + subcategory["name"]
+                + ": *{n_"
+                + subcategory["directory"]
+                + "}*\n\n"
+            )
+
+    return header + body
+
+
+def generate_full_template(category_info):
+    table_of_content = generate_table_of_content(category_info)
+    section_template = generate_section_template(category_info)
+    statistics_template = generate_statistics_template(category_info)
+
+    template_path = os.path.join(ROOT, TEMPLATE_FILE)
+    with open(template_path, "r") as file:
+        template_content = file.read()
+
+    filled_content = template_content.format(
+        n_papers="n_papers",
+        table_of_content=table_of_content,
+        section_template=section_template,
+        statistics_template=statistics_template,
+    )
+
+    return filled_content
 
 
 def get_section_list(topic):
@@ -70,11 +169,7 @@ def get_section_list(topic):
     return paper_list, reader
 
 
-def fill_readme_template(output_path, content_dict, template_file, dry_run=False):
-    template_path = os.path.join(ROOT, template_file)
-    with open(template_path, "r") as file:
-        template_content = file.read()
-
+def fill_readme_template(output_path, content_dict, template_content, dry_run=False):
     filled_content = template_content.format(**content_dict)
 
     if not dry_run:
@@ -106,13 +201,19 @@ if __name__ == "__main__":
 
     content_dict["n_papers"] = n_unique
 
-    fill_readme_template("README.md", content_dict, TEMPLATE_FILE, dry_run=args.dry_run)
+    template_content = generate_full_template(category_info)
+
+    fill_readme_template(
+        "README.md", content_dict, template_content, dry_run=args.dry_run
+    )
 
     # remove duplicate in all_paper_data by Title
 
     all_paper_data = [dict(t) for t in {tuple(d.items()) for d in all_paper_data}]
 
-    all_paper_data = sorted(all_paper_data, key=lambda x: x["Date"], reverse=True)
+    all_paper_data = sorted(
+        all_paper_data, key=lambda x: (x["Date"], x["Title"]), reverse=True
+    )
 
     all_papers_data = [
         TEMPLATE.format(row["Title"], row["Url"], row["Date"], row["Author"])
@@ -124,9 +225,13 @@ if __name__ == "__main__":
         "n_papers": n_unique,
     }
 
+    uncategorized_template_path = os.path.join(ROOT, UNCATEGORIZED_TEMPLATE_FILE)
+    with open(uncategorized_template_path, "r") as file:
+        uncategorized_template = file.read()
+
     fill_readme_template(
         "README.uncategorized.md",
         uncategorized_all_papers,
-        UNCATEGORIZED_TEMPLATE_FILE,
+        uncategorized_template,
         dry_run=args.dry_run,
     )
