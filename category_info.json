@@ -67,13 +67,13 @@
         "code": "10",
         "name": "What Can Transformer Do? / Properties of Transformer",
         "directory": "representational-capacity/what-can-transformer-do",
-        "description": "Papers providing positive results and insights into the capabilities and properties of transformer-based models."
+        "description": "Papers providing positive results into the capabilities and properties of transformer-based models, e.g., expressiveness and learning abilities."
       },
       {
         "code": "11",
         "name": "What Can Transformer Not Do? / Limitation of Transformer",
         "directory": "representational-capacity/what-can-transformer-not-do",
-        "description": "Papers investigating the limitations of transformer-based models, including expressiveness and learning constraints."
+        "description": "Papers investigating the limitations of transformer-based models, including expressiveness and learning constraints, e.g., limitations in reasoning."
       }
     ]
   },
