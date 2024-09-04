@@ -36,7 +36,7 @@ Table of Content
     - [**Hallucination**](#hallucination)
     - [**Reversal Curse**](#reversal-curse)
     - [**Scaling Laws / Emergent Abilities / Grokking / etc.**](#scaling-laws--emergent-abilities--grokking--etc)
-    - [**Knowledge / Memory mechanisms**](#knowledge--memory-mechanisms)
+    - [**Knowledge / Memory Mechanisms**](#knowledge--memory-mechanisms)
     - [**Training Dynamics / Landscape / Optimization / Fine-tuning / etc.**](#training-dynamics--landscape--optimization--fine-tuning--etc)
     - [**Learning / Generalization / Reasoning / Weak to Strong Generalization**](#learning--generalization--reasoning--weak-to-strong-generalization)
     - [**Other Phenomena / Discoveries**](#other-phenomena--discoveries)
@@ -52,11 +52,15 @@ Table of Content
   - [**Miscellanea**](#miscellanea)
 <!--te-->
 
+
 ## **Phenomena of Interest**
 
-Here are some phenomena that are interesting to investigate in language models.
+Categories focusing on different phenomena, properties, and behaviors observed in large language models (LLMs) and transformer-based models.
 
 ### **In-Context Learning**
+
+Papers focusing on the theoretical and empirical analysis of in-context learning in large language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -415,10 +419,13 @@ Stephanie C. Y. Chan; Ishita Dasgupta; Junkyung Kim; Dharshan Kumaran; Andrew K.
 - **In-Context Learning and Induction Heads** [[paper link]](http://arxiv.org/abs/2209.11895) 2022-09-24  
 Catherine Olsson; Nelson Elhage; Neel Nanda; Nicholas Joseph; Nova DasSarma; Tom Henighan; Ben Mann; Amanda Askell; Yuntao Bai; Anna Chen; Tom Conerly; Dawn Drain; Deep Ganguli; Zac Hatfield-Dodds; Danny Hernandez; Scott Johnston; Andy Jones; Jackson Kernion; Liane Lovitt; Kamal Ndousse; Dario Amodei; Tom Brown; Jack Clark; Jared Kaplan; Sam McCandlish; Chris Olah
 
-
 </details>
 
+
 ### **Chain-of-Thought**
+
+Papers analyzing the chain-of-thought phenomenon in large language models, exploring theoretical and empirical perspectives.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -472,10 +479,13 @@ Yiqun Wang; Sile Hu; Yonggang Zhang; Xiang Tian; Xuesong Liu; Yaowu Chen; Xu She
 - **The Expressive Power of Transformers with Chain of Thought** [[paper link]](https://openreview.net/forum?id=NjNGlPh8Wh) 2023-10-13  
 William Merrill; Ashish Sabharwal
 
-
 </details>
 
+
 ### **Hallucination**
+
+Papers examining the hallucination phenomenon in language models, including both theoretical and empirical analysis.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -519,10 +529,13 @@ Adam Tauman Kalai; Santosh S. Vempala
 - **The Curious Case of Hallucinatory Unanswerablity: Finding Truths in the Hidden States of Over-Confident Large Language Models** [[paper link]](http://arxiv.org/abs/2310.11877) 2023-10-18  
 Aviv Slobodkin; Omer Goldman; Avi Caciularu; Ido Dagan; Shauli Ravfogel
 
-
 </details>
 
+
 ### **Reversal Curse**
+
+Papers that analyze the reversal curse phenomenon in large language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -551,12 +564,13 @@ Zeyuan Allen-Zhu; Yuanzhi Li
 - **The Reversal Curse: Which Tokens You Predict Underlie the Factorization Curse and More** [[paper link]](http://arxiv.org/abs/2306.05183) 2023-06-07  
 Ouail Kitouni; Niklas Nolte; Diane Bouchacourt; Adina Williams; Mike Rabbat; Mark Ibrahim
 
-
 </details>
+
 
 ### **Scaling Laws / Emergent Abilities / Grokking / etc.**
 
-This section includes papers that investigate how the performance of language models scales with model size, data size, or compute, and how emergent abilities arise in language models.
+Papers exploring how model performance scales with model size, data size, or computational resources, and the emergence of unexpected abilities.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -770,10 +784,13 @@ Jordan Hoffmann; Sebastian Borgeaud; Arthur Mensch; Elena Buchatskaya; Trevor Ca
 - **Scaling Laws for Neural Language Models** [[paper link]](http://arxiv.org/abs/2001.08361) 2020-01-22  
 Jared Kaplan; Sam McCandlish; Tom Henighan; Tom B. Brown; Benjamin Chess; Rewon Child; Scott Gray; Alec Radford; Jeffrey Wu; Dario Amodei
 
-
 </details>
 
-### **Knowledge / Memory mechanisms**
+
+### **Knowledge / Memory Mechanisms**
+
+Papers focusing on how large language models store, retrieve, and utilize knowledge, analyzing the memory mechanisms involved.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -902,12 +919,13 @@ Pratyush Maini; Michael C. Mozer; Hanie Sedghi; Zachary C. Lipton; J. Zico Kolte
 - **Quantifying Memorization Across Neural Language Models** [[paper link]](http://arxiv.org/abs/2202.07646) 2022-02-15  
 Nicholas Carlini; Daphne Ippolito; Matthew Jagielski; Katherine Lee; Florian Tramer; Chiyuan Zhang
 
-
 </details>
+
 
 ### **Training Dynamics / Landscape / Optimization / Fine-tuning / etc.**
 
-This section focuses on the training dynamics of language models, including the optimization landscape, fine-tuning, and transfer learning.
+Papers discussing various aspects of the training process, including optimization, fine-tuning, and the training landscape of large language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1051,12 +1069,13 @@ Sadhika Malladi; Alexander Wettig; Dingli Yu; Danqi Chen; Sanjeev Arora
 - **A Stability Analysis of Fine-Tuning a Pre-Trained Model** [[paper link]](https://arxiv.org/abs/2301.09820v2) 2023-01-24  
 Zihao Fu; Anthony Man-Cho So; Nigel Collier
 
-
 </details>
+
 
 ### **Learning / Generalization / Reasoning / Weak to Strong Generalization**
 
-This section includes papers that investigate the generalization ability of language models, and the general learning behavior of language models.
+Papers analyzing the learning capabilities and generalization performance of language models, from weak to strong generalization.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1240,10 +1259,13 @@ Armen Aghajanyan; Luke Zettlemoyer; Sonal Gupta
 - **How fine can fine-tuning be? Learning efficient language models** [[paper link]](https://proceedings.mlr.press/v108/radiya-dixit20a.html) 2020-06-03  
 Evani Radiya-Dixit; Xin Wang
 
-
 </details>
 
+
 ### **Other Phenomena / Discoveries**
+
+Papers discussing other interesting phenomena or discoveries related to the behavior and properties of language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1372,16 +1394,17 @@ Nathan Godey; Éric de la Clergerie; Benoît Sagot
 - **The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers** [[paper link]](https://openreview.net/forum?id=TJ2nxciYCk-) 2023-02-01  
 Zonglin Li; Chong You; Srinadh Bhojanapalli; Daliang Li; Ankit Singh Rawat; Sashank J. Reddi; Ke Ye; Felix Chern; Felix Yu; Ruiqi Guo; Sanjiv Kumar
 
-
 </details>
+
 
 ## **Representational Capacity**
 
-Investigate the expressiveness of transformer-based models about what they can do and what they can't do.
+Categories focused on the representational capacities and limitations of transformers and language models.
 
 ### **What Can Transformer Do? / Properties of Transformer**
 
-This section includes positive results on the representational capacity and properties of transformer-based models.
+Papers providing positive results into the capabilities and properties of transformer-based models, e.g., expressiveness and learning abilities.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1645,12 +1668,13 @@ Hyunjik Kim; George Papamakarios; Andriy Mnih
 - **On Identifiability in Transformers** [[paper link]](http://arxiv.org/abs/1908.04211) 2020-02-07  
 Gino Brunner; Yang Liu; Damián Pascual; Oliver Richter; Massimiliano Ciaramita; Roger Wattenhofer
 
-
 </details>
+
 
 ### **What Can Transformer Not Do? / Limitation of Transformer**
 
-The papers in this section investigate the limitations of transformer-based models, including the limitations of their expressiveness and learning abilities.
+Papers investigating the limitations of transformer-based models, including expressiveness and learning constraints, e.g., limitations in reasoning.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1764,14 +1788,17 @@ Shengjie Luo; Shanda Li; Shuxin Zheng; Tie-Yan Liu; Liwei Wang; Di He
 - **The Devil in Linear Transformer** [[paper link]](http://arxiv.org/abs/2210.10340) 2022-10-19  
 Zhen Qin; XiaoDong Han; Weixuan Sun; Dongxu Li; Lingpeng Kong; Nick Barnes; Yiran Zhong
 
-
 </details>
+
 
 ## **Architectural Effectivity**
 
-discussion of the effectiveness of different architectures in terms of learning and generalization
+Categories analyzing different architectural components and their effects in transformer models.
 
 ### **Layer-normalization**
+
+Papers discussing the role, effects, and optimization of layer normalization in transformer models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1800,10 +1827,13 @@ Hongyu Wang; Shuming Ma; Li Dong; Shaohan Huang; Dongdong Zhang; Furu Wei
 - **On Layer Normalization in the Transformer Architecture** [[paper link]](http://arxiv.org/abs/2002.04745) 2020-06-29  
 Ruibin Xiong; Yunchang Yang; Di He; Kai Zheng; Shuxin Zheng; Chen Xing; Huishuai Zhang; Yanyan Lan; Liwei Wang; Tie-Yan Liu
 
-
 </details>
 
+
 ### **Tokenization / Embedding**
+
+Papers focused on tokenization, embedding strategies, and input representations in language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1882,12 +1912,13 @@ Craig W. Schmidt; Varshini Reddy; Haoran Zhang; Alec Alameddine; Omri Uzan; Yuva
 - **Small Transformers Compute Universal Metric Embeddings** [[paper link]](http://arxiv.org/abs/2209.06788) 2022-10-18  
 Anastasis Kratsios; Valentin Debarnot; Ivan Dokmanić
 
-
 </details>
+
 
 ### **Linear Attention / State Space Models / Recurrent Language Models / etc.**
 
-The section includes papers that investigate the effectiveness of linear attention, state space models, and other prevelant architectures in language models.
+Papers analyzing alternative architectures to the standard transformer models, such as linear attention and state space models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1916,11 +1947,13 @@ Songlin Yang; Bailin Wang; Yu Zhang; Yikang Shen; Yoon Kim
 - **Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality** [[paper link]](http://arxiv.org/abs/2405.21060) 2024-05-31  
 Tri Dao; Albert Gu
 
-
 </details>
 
 
 ## **Training Paradigms**
+
+Categories discussing various training methodologies and paradigms for language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -1934,12 +1967,13 @@ Minh Duc Bui; Fabian David Schmidt; Goran Glavaš; Katharina von der Wense
 - **Why are Adaptive Methods Good for Attention Models?** [[paper link]](http://arxiv.org/abs/1912.03194) 2020-10-23  
 Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J. Reddi; Sanjiv Kumar; Suvrit Sra
 
-
 </details>
+
 
 ## **Mechanistic Engineering / Probing / Interpretability**
 
-This section includes papers that mainly investigate the mechanisms of language models through probing, mechanistic engineering, and other papers generally related to interpretability.
+Categories exploring the internal mechanisms and interpretability of language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -2133,10 +2167,13 @@ Samyak Jain; Robert Kirk; Ekdeep Singh Lubana; Robert P. Dick; Hidenori Tanaka; 
 - **Understanding the Mechanics and Dynamics of Memorisation in Large Language Models: A Case Study with Random Strings** [[paper link]](https://openreview.net/forum?id=ILStlRb1Sp) 2023-10-13  
 Till Speicher; Aflah Mohammad Khan; Qinyuan Wu; Vedant Nanda; Soumi Das; Bishwamittra Ghosh; Krishna P. Gummadi; Evimaria Terzi
 
-
 </details>
 
+
 ## **Miscellanea**
+
+Categories for papers that do not fit neatly into other classifications but discuss theoretical or empirical aspects of language models.
+
 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -2490,8 +2527,10 @@ Robert Huben; Valerie Morris
 - **On the Role of Attention in Prompt-tuning** [[paper link]](https://openreview.net/forum?id=qorOnDor89) 2023-06-15  
 Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
-
 </details>
+
+
+
 
 ---
 
@@ -2508,8 +2547,8 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
   - Reversal Curse: *5*
 
   - Scaling Laws / Emergent Abilities / Grokking / etc.: *42*
-  
-  - Knowledge / Memory mechanisms: *25*
+
+  - Knowledge / Memory Mechanisms: *25*
 
   - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *28*
 
@@ -2517,28 +2556,27 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Other Phenomena / Discoveries: *25*
 
-
 - Representational Capacity:
 
   - What Can Transformer Do? / Properties of Transformer: *52*
 
   - What Can Transformer Not Do? / Limitation of Transformer: *22*
 
-
 - Architectural Effectivity:
 
   - Layer-normalization: *5*
 
   - Tokenization / Embedding: *15*
-  
-  - Linear Attention / State Space Models / etc.: *5*
 
+  - Linear Attention / State Space Models / Recurrent Language Models / etc.: *5*
 
 - Training Paradigms: *2*
 
 - Mechanistic Engineering / Probing / Interpretability: *38*
 
 - Miscellanea: *70*
+
+
 
 ---
 
