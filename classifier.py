@@ -13,10 +13,10 @@ PROMPT = """
 Given the title and abstract of an arXiv paper:
 Title: {}
 Abstract: {}
-Classify this paper into one or more of the following categories based on its focus on theoretical and empirical analysis of language models, especially large language models (LLMs) and transformer-based models. The categorization aims to understand different phenomena, properties, training dynamics, and representational capacities of these models.
+Classify this paper into one or more of the following categories based on its focus on theoretical and empirical analysis of language models, especially large language models (LLMs), attention mechanism, or transformer-based models, etc. The categorization aims to understand different phenomena, properties, training dynamics, and representational capacities of these models.
 
-Please ignore papers (return 'None') that focus on improving the performance of language models, such as those that propose new architectures, pretraining objectives, or fine-tuning strategies.
-Please select papers that mainly focus on analyzing the properties, training dynamics, or representational capacities of language models, especially large language models (LLMs) and transformer-based models.
+Please ignore papers (return 'None') that focus on improving the performance, such as those that propose new methods.
+Please select papers that mainly focus on analysing any **theoretical or empirical properties** of language model, attention mechanism, transformer, etc.
 
 Categories:
 """
@@ -24,7 +24,7 @@ Categories:
 for category in category_info:
     PROMPT += f"{category['code']}. **{category['name']}**: {category['description']}\n"
 
-PROMPT += "\nReturn the one or two category codes (e.g., '01., 02.') that best describe the paper. If the paper does not fall into any category, return 'None'.\nIf the paper is about improving the performance of language models or aiming at proposing new methods, please return 'None'.\n\n"
+PROMPT += "\nReturn the one or two category codes (e.g., '01., 02.') that best describe the paper. If the paper does not fall into any category, return 'None'.\nIf the paper is aiming at proposing new methods, please return 'None'.\nIf the paper is about analysing any **theoretical or empirical properties** of language model, attention mechanism, transformer, etc., please return the corresponding category code(s), or at least put them in the Miscellaneous category.\n\n"
 
 
 def categorize_paper(title, abstract):
