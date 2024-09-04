@@ -73,7 +73,7 @@ if __name__ == "__main__":
         for paper in category["papers"]:
             authors = paper["authors"]
             pull_request_body += (
-                f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\",{authors}\n\n"
+                f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\", {authors}\n\n"
             )
 
         pull_request_body += "\n"
@@ -86,7 +86,7 @@ if __name__ == "__main__":
     for paper in papers:
         authors = paper["authors"]
         # print_all_paper += f"- [{paper['title']}]({paper['url']}), {authors}\n\n"
-        print_all_paper += f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\",{authors}\n\n"
+        print_all_paper += f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\", {authors}\n\n"
 
     logging.info(print_all_paper)
 
