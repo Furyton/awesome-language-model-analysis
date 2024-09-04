@@ -1,3 +1,4 @@
 Title,Date,Url,Author
 Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget,2024-04-30,http://arxiv.org/abs/2404.19319,Minh Duc Bui; Fabian David Schmidt; Goran Glavaš; Katharina von der Wense
 Why are Adaptive Methods Good for Attention Models?,2020-10-23,http://arxiv.org/abs/1912.03194,Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J. Reddi; Sanjiv Kumar; Suvrit Sra
+"Efficient LLM Context Distillation",2024-09-03,https://arxiv.org/pdf/2409.01930,Rajesh Upadhayayaya, Zachary Smith, Chritopher Kottmyer, Manish Raj Osti
