@@ -4,6 +4,7 @@ on:
   schedule:
     # Run every day at 3 PM Beijing time (UTC+8)
     - cron: '0 7 * * 1-5'
+  workflow_dispatch:
 
 jobs:
   automate-and-pr:
