@@ -71,3 +71,4 @@ A Tighter Complexity Analysis of SparseGPT,2024-08-22,http://arxiv.org/abs/2408.
 Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time,2024-08-23,http://arxiv.org/abs/2408.13233,Yingyu Liang; Zhizhou Sha; Zhenmei Shi; Zhao Song; Yufa Zhou
 Viewing Transformers Through the Lens of Long Convolutions Layers,2024-05-02,http://openreview.net/pdf?id=nOyj26YdIQ,Itamar Zimerman; Lior Wolf
 Modeling Language Tokens as Functionals of Semantic Fields,2024-05-02,http://openreview.net/pdf?id=EEO4Iktfjp,Zhengqi Pei; Anran Zhang; Shuhui Wang; Qingming Huang
+"Alignment-Aware Model Extraction Attacks on Large Language Models",2024-09-04,https://arxiv.org/pdf/2409.02718,Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, Ronghua Li, Jianliang Xu, Haibo Hu
