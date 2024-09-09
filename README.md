@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **420**
+- Total number of different papers: **435**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -66,6 +66,11 @@ Papers focusing on the theoretical and empirical analysis of in-context learning
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs** [[paper link]](http://arxiv.org/abs/2409.04318) 2024-09-06  
+Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
+
+
+
 - **Transformers are Minimax Optimal Nonparametric In-Context Learners** [[paper link]](http://arxiv.org/abs/2408.12186) 2024-08-22  
 Juno Kim; Tai Nakamaki; Taiji Suzuki
 
@@ -103,6 +108,11 @@ Max Wilcoxson; Morten Svendgård; Ria Doshi; Dylan Davis; Reya Vir; Anant Sahai
 
 - **Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism** [[paper link]](http://arxiv.org/abs/2407.17011) 2024-07-24  
 Anhao Zhao; Fanghua Ye; Jinlan Fu; Xiaoyu Shen
+
+
+
+- **One-Layer Transformer Provably Learns One-Nearest Neighbor In Context** [[paper link]](https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/li2024one.pdf) 2024-07-24  
+Zihao Li; Yuan Cao; Cheng Gao; Yihan He; Han Liu; Jason M. Klusowski; Jianqing Fan; Mengdi Wang
 
 
 
@@ -576,6 +586,11 @@ Papers exploring how model performance scales with model size, data size, or com
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **An Empirical Study of Scaling Laws for Transfer** [[paper link]](https://arxiv.org/abs/2408.16947) 2024-08-30  
+Matthew Barnett
+
+
+
 - **A Percolation Model of Emergence: Analyzing Transformers Trained on a Formal Language** [[paper link]](http://arxiv.org/abs/2408.12578) 2024-08-22  
 Ekdeep Singh Lubana; Kyogo Kawaguchi; Robert P. Dick; Hidenori Tanaka
 
@@ -623,6 +638,11 @@ Chaofan Tao; Qian Liu; Longxu Dou; Niklas Muennighoff; Zhongwei Wan; Ping Luo; M
 
 - **Why Do You Grok? A Theoretical Analysis of Grokking Modular Addition** [[paper link]](http://arxiv.org/abs/2407.12332) 2024-07-17  
 Mohamad Amin Mohamadi; Zhiyuan Li; Lei Wu; Danica J. Sutherland
+
+
+
+- **Predicting Emergent Capabilities by Finetuning** [[paper link]](https://openreview.net/pdf?id=vL8BIGuFTF) 2024-07-10  
+Charlie Victor Snell; Eric Wallace; Dan Klein; Sergey Levine
 
 
 
@@ -931,8 +951,23 @@ Papers discussing various aspects of the training process, including optimizatio
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **The AdEMAMix Optimizer: Better, Faster, Older** [[paper link]](http://arxiv.org/abs/2409.03137) 2024-09-05  
+Matteo Pagliardini; Pierre Ablin; David Grangier
+
+
+
 - **Clustering and Alignment: Understanding the Training Dynamics in Modular Addition** [[paper link]](http://arxiv.org/abs/2408.09414) 2024-08-18  
 Tiberiu Musat
+
+
+
+- **Global Convergence in Training Large-Scale Transformers** [[paper link]](https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/gao2024global.pdf) 2024-08  
+Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason M. Klusowski; Jianqing Fan
+
+
+
+- **On the Convergence of Encoder-only Shallow Transformers** [[paper link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3cf318fbeec1126da21e9185ae9908c-Paper-Conference.pdf) 2024-08  
+Yongtao Wu; Fanghui Liu; Grigorios G Chrysos; Volkan Cevher
 
 
 
@@ -1080,6 +1115,16 @@ Papers analyzing the learning capabilities and generalization performance of lan
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Unforgettable Generalization in Language Models** [[paper link]](http://arxiv.org/abs/2409.02228) 2024-09-03  
+Eric Zhang; Leshem Chosen; Jacob Andreas
+
+
+
+- **The Many Faces of Optimal Weak-to-Strong Learning** [[paper link]](http://arxiv.org/abs/2408.17148) 2024-08-30  
+Mikael Møller Høgsgaard; Kasper Green Larsen; Markus Engelund Mathiasen
+
+
 
 - **Out-of-distribution generalization via composition: a lens through induction heads in Transformers** [[paper link]](http://arxiv.org/abs/2408.09503) 2024-08-18  
 Jiajun Song; Zhuoyan Xu; Yiqiao Zhong
@@ -1270,6 +1315,11 @@ Papers discussing other interesting phenomena or discoveries related to the beha
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Masked Mixers for Language Generation and Retrieval** [[paper link]](http://arxiv.org/abs/2409.01482) 2024-09-02  
+Benjamin L. Badger
+
+
 
 - **Monotonic Representation of Numeric Properties in Language Models** [[paper link]](http://arxiv.org/abs/2408.10381) 2024-08-15  
 Benjamin Heinzerling; Kentaro Inui
@@ -1924,6 +1974,11 @@ Papers analyzing alternative architectures to the standard transformer models, s
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Theory, Analysis, and Best Practices for Sigmoid Self-Attention** [[paper link]](http://arxiv.org/abs/2409.04431) 2024-09-06  
+Jason Ramapuram; Federico Danieli; Eeshan Dhekane; Floris Weers; Dan Busbridge; Pierre Ablin; Tatiana Likhomanenko; Jagrit Digani; Zijin Gu; Amitis Shidani; Russ Webb
+
+
+
 - **Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations** [[paper link]](http://arxiv.org/abs/2408.10920) 2024-08-20  
 Róbert Csordás; Christopher Potts; Christopher D. Manning; Atticus Geiger
 
@@ -1978,6 +2033,11 @@ Categories exploring the internal mechanisms and interpretability of language mo
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Modularity in Transformers: Investigating Neuron Separability & Specialization** [[paper link]](http://arxiv.org/abs/2408.17324) 2024-08-30  
+Nicholas Pochinkov; Thomas Jones; Mohammed Rashidur Rahman
+
+
 
 - **A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models** [[paper link]](http://arxiv.org/abs/2408.08590) 2024-08-16  
 Geonhee Kim; Marco Valentino; André Freitas
@@ -2179,6 +2239,16 @@ Categories for papers that do not fit neatly into other classifications but disc
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts** [[paper link]](http://arxiv.org/abs/2409.00879) 2024-09-02  
+Youngseog Chung; Dhruv Malik; Jeff Schneider; Yuanzhi Li; Aarti Singh
+
+
+
+- **Reframing Data Value for Large Language Models Through the Lens of Plausability** [[paper link]](http://arxiv.org/abs/2409.00284) 2024-08-30  
+Mohamad Rida Rammal; Ruida Zhou; Suhas Diggavi
+
+
+
 - **Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time** [[paper link]](http://arxiv.org/abs/2408.13233) 2024-08-23  
 Yingyu Liang; Zhizhou Sha; Zhenmei Shi; Zhao Song; Yufa Zhou
 
@@ -2241,6 +2311,11 @@ Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
 
 - **On Exact Bit-level Reversible Transformers Without Changing Architectures** [[paper link]](http://arxiv.org/abs/2407.09093) 2024-07-12  
 Guoqiang Zhang; J.P. Lewis; W. B. Kleijn
+
+
+
+- **Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations** [[paper link]](http://openreview.net/pdf?id=qyilOnIRHI) 2024-07-10  
+Yize Zhao; Tina Behnia; Vala Vakilian; Christos Thrampoulidis
 
 
 
@@ -2538,7 +2613,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *71*
+  - In-Context Learning: *73*
 
   - Chain-of-Thought: *10*
 
@@ -2546,15 +2621,15 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Reversal Curse: *5*
 
-  - Scaling Laws / Emergent Abilities / Grokking / etc.: *42*
+  - Scaling Laws / Emergent Abilities / Grokking / etc.: *44*
 
   - Knowledge / Memory Mechanisms: *25*
 
-  - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *28*
+  - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *31*
 
-  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *36*
+  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *38*
 
-  - Other Phenomena / Discoveries: *25*
+  - Other Phenomena / Discoveries: *26*
 
 - Representational Capacity:
 
@@ -2568,13 +2643,13 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Tokenization / Embedding: *15*
 
-  - Linear Attention / State Space Models / Recurrent Language Models / etc.: *5*
+  - Linear Attention / State Space Models / Recurrent Language Models / etc.: *6*
 
 - Training Paradigms: *2*
 
-- Mechanistic Engineering / Probing / Interpretability: *38*
+- Mechanistic Engineering / Probing / Interpretability: *39*
 
-- Miscellanea: *70*
+- Miscellanea: *73*
 
 
 
