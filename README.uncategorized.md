@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **420**
+- Total number of different papers: **435**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,56 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-transformers-LM-analytics/discussions).
 
 ---
+
+
+- **Theory, Analysis, and Best Practices for Sigmoid Self-Attention** [[paper link]](http://arxiv.org/abs/2409.04431) 2024-09-06  
+Jason Ramapuram; Federico Danieli; Eeshan Dhekane; Floris Weers; Dan Busbridge; Pierre Ablin; Tatiana Likhomanenko; Jagrit Digani; Zijin Gu; Amitis Shidani; Russ Webb
+
+
+
+- **Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs** [[paper link]](http://arxiv.org/abs/2409.04318) 2024-09-06  
+Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
+
+
+
+- **The AdEMAMix Optimizer: Better, Faster, Older** [[paper link]](http://arxiv.org/abs/2409.03137) 2024-09-05  
+Matteo Pagliardini; Pierre Ablin; David Grangier
+
+
+
+- **Unforgettable Generalization in Language Models** [[paper link]](http://arxiv.org/abs/2409.02228) 2024-09-03  
+Eric Zhang; Leshem Chosen; Jacob Andreas
+
+
+
+- **Masked Mixers for Language Generation and Retrieval** [[paper link]](http://arxiv.org/abs/2409.01482) 2024-09-02  
+Benjamin L. Badger
+
+
+
+- **Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts** [[paper link]](http://arxiv.org/abs/2409.00879) 2024-09-02  
+Youngseog Chung; Dhruv Malik; Jeff Schneider; Yuanzhi Li; Aarti Singh
+
+
+
+- **The Many Faces of Optimal Weak-to-Strong Learning** [[paper link]](http://arxiv.org/abs/2408.17148) 2024-08-30  
+Mikael Møller Høgsgaard; Kasper Green Larsen; Markus Engelund Mathiasen
+
+
+
+- **Reframing Data Value for Large Language Models Through the Lens of Plausability** [[paper link]](http://arxiv.org/abs/2409.00284) 2024-08-30  
+Mohamad Rida Rammal; Ruida Zhou; Suhas Diggavi
+
+
+
+- **Modularity in Transformers: Investigating Neuron Separability & Specialization** [[paper link]](http://arxiv.org/abs/2408.17324) 2024-08-30  
+Nicholas Pochinkov; Thomas Jones; Mohammed Rashidur Rahman
+
+
+
+- **An Empirical Study of Scaling Laws for Transfer** [[paper link]](https://arxiv.org/abs/2408.16947) 2024-08-30  
+Matthew Barnett
+
 
 
 - **Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations** [[paper link]](http://arxiv.org/abs/2408.15417) 2024-08-27  
@@ -224,6 +274,16 @@ Zizheng Guo; Pengyu Chen; Yanzhang Fu; Dongjing Miao
 
 
 
+- **On the Convergence of Encoder-only Shallow Transformers** [[paper link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3cf318fbeec1126da21e9185ae9908c-Paper-Conference.pdf) 2024-08  
+Yongtao Wu; Fanghui Liu; Grigorios G Chrysos; Volkan Cevher
+
+
+
+- **Global Convergence in Training Large-Scale Transformers** [[paper link]](https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/gao2024global.pdf) 2024-08  
+Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason M. Klusowski; Jianqing Fan
+
+
+
 - **Large Language Monkeys: Scaling Inference Compute with Repeated Sampling** [[paper link]](http://arxiv.org/abs/2407.21787) 2024-07-31  
 Bradley Brown; Jordan Juravsky; Ryan Ehrlich; Ronald Clark; Quoc V. Le; Christopher Ré; Azalia Mirhoseini
 
@@ -291,6 +351,11 @@ Anhao Zhao; Fanghua Ye; Jinlan Fu; Xiaoyu Shen
 
 - **Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective** [[paper link]](http://arxiv.org/abs/2407.17120) 2024-07-24  
 Jingren Liu; Zhong Ji; YunLong Yu; Jiale Cao; Yanwei Pang; Jungong Han; Xuelong Li
+
+
+
+- **One-Layer Transformer Provably Learns One-Nearest Neighbor In Context** [[paper link]](https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/li2024one.pdf) 2024-07-24  
+Zihao Li; Yuan Cao; Cheng Gao; Yihan He; Han Liu; Jason M. Klusowski; Jianqing Fan; Mengdi Wang
 
 
 
@@ -391,6 +456,16 @@ Joseph Miller; Bilal Chughtai; William Saunders
 
 - **Transformer Alignment in Large Language Models** [[paper link]](http://arxiv.org/abs/2407.07810) 2024-07-10  
 Murdock Aubry; Haoming Meng; Anton Sugolov; Vardan Papyan
+
+
+
+- **Predicting Emergent Capabilities by Finetuning** [[paper link]](https://openreview.net/pdf?id=vL8BIGuFTF) 2024-07-10  
+Charlie Victor Snell; Eric Wallace; Dan Klein; Sergey Levine
+
+
+
+- **Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations** [[paper link]](http://openreview.net/pdf?id=qyilOnIRHI) 2024-07-10  
+Yize Zhao; Tina Behnia; Vala Vakilian; Christos Thrampoulidis
 
 
 
