@@ -27,3 +27,6 @@ On the Emergence of Cross-Task Linearity in the Pretraining-Finetuning Paradigm,
 Clustering and Alignment: Understanding the Training Dynamics in Modular Addition,2024-08-18,http://arxiv.org/abs/2408.09414,Tiberiu Musat
 Learning Dynamics of LLM Finetuning,2024-07-15,http://arxiv.org/abs/2407.10490,Yi Ren; Danica J. Sutherland
 Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective,2024-07-24,http://arxiv.org/abs/2407.17120,Jingren Liu; Zhong Ji; YunLong Yu; Jiale Cao; Yanwei Pang; Jungong Han; Xuelong Li
+Global Convergence in Training Large-Scale Transformers,2024-08,https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/gao2024global.pdf,Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason M. Klusowski; Jianqing Fan
+On the Convergence of Encoder-only Shallow Transformers,2024-08,https://proceedings.neurips.cc/paper_files/paper/2023/file/a3cf318fbeec1126da21e9185ae9908c-Paper-Conference.pdf,Yongtao Wu; Fanghui Liu; Grigorios G Chrysos; Volkan Cevher
+"The AdEMAMix Optimizer: Better, Faster, Older",2024-09-05,http://arxiv.org/abs/2409.03137,Matteo Pagliardini; Pierre Ablin; David Grangier
