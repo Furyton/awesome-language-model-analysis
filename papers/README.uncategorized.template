@@ -1,4 +1,4 @@
-# Awesome Transformers LM Analytics [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Language Model Analysis [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > [!NOTE]  
 > this is the uncategorized version, sorted by date
@@ -24,7 +24,7 @@ If you have any suggestions or want to contribute, please feel free to open an i
 
 For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
 
-You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-transformers-LM-analytics/discussions).
+You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
 
