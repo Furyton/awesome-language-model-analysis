@@ -13,6 +13,9 @@ if __name__ == "__main__":
     )
     parser.add_argument("--dry-run", action="store_true", help="Enable debug mode")
     parser.add_argument("--debug", action="store_true", help="Enable debug mode")
+    parser.add_argument(
+        "--no-changes", action="store_true", help="Do not make any changes"
+    )
 
     args = parser.parse_args()
 
@@ -27,7 +30,11 @@ if __name__ == "__main__":
         handlers=[
             logging.StreamHandler(),
         ]
-        + ([logging.FileHandler("debug.log")] if not is_dry_run else []),
+        + (
+            [logging.FileHandler("debug.log", encoding="utf-8")]
+            if not is_dry_run
+            else []
+        ),
     )
     logging.getLogger("requests").setLevel(logging.CRITICAL)
     logging.getLogger("urllib3").setLevel(logging.CRITICAL)
@@ -42,7 +49,7 @@ if __name__ == "__main__":
     )  # {category: {category_name, category_directory, [papers]}}
 
     # Categorize each paper
-    for paper in papers:
+    for paper in papers[:25]:
         title = paper["title"]
         abstract = paper["abstract"]
         categories = categorize_paper(title, abstract)
@@ -72,9 +79,7 @@ if __name__ == "__main__":
 
         for paper in category["papers"]:
             authors = paper["authors"]
-            pull_request_body += (
-                f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\", {authors}\n\n"
-            )
+            pull_request_body += f"\"{paper['title']}\",{paper['date']},[\"{paper['url']}\"]({paper['url']}),{authors}\n\n"
 
         pull_request_body += "\n"
 
@@ -85,12 +90,11 @@ if __name__ == "__main__":
     # print in markdown format with link format
     for paper in papers:
         authors = paper["authors"]
-        # print_all_paper += f"- [{paper['title']}]({paper['url']}), {authors}\n\n"
-        print_all_paper += f"- \"{paper['title']}\",{paper['date']},\"{paper['url']}\", {authors}\n\n"
+        print_all_paper += f"- \"{paper['title']}\",{paper['date']},[\"{paper['url']}\"]({paper['url']}),{authors}\n\n"
 
     logging.info(print_all_paper)
 
-    if not is_dry_run:
+    if not is_dry_run and not args.no_changes:
         for category in categorization_result.values():
             with open(
                 f"{ROOT}/{category['category_directory']}/papers.csv", "a"

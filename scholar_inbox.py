@@ -26,8 +26,11 @@ def get_scholar_inbox_digest():
             short_digest.append(
                 {
                     "title": item["title"],
-                    "abstract": item["abstract"][:800],
-                    "authors": item["authors"],
+                    "abstract": item["abstract"][:200]
+                    + "..."
+                    + item["abstract"][-200:],
+                    # split by , and then join by ; with no space
+                    "authors": ";".join(item["authors"].split(",")),
                     "date": item["publication_date"],
                     "url": item["url"],
                 }

@@ -1,6 +1,11 @@
 import os
+import json
 
 ROOT = "papers"
+
+if os.path.exists("debug_secret.json"):
+    with open("debug_secret.json") as f:
+        os.environ.update(json.load(f))
 
 SCHOLAR_INBOX_URL = os.environ["SCHOLAR_INBOX_URL"]
 SCHOLAR_INBOX_COOKIES = {
