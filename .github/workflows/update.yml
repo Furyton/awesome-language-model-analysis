@@ -2,8 +2,10 @@ name: Generate README
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - 'papers/**'
+      - 'generate_readme.py'
+      - 'category_info.json'
 
 jobs:
   generate-readme:

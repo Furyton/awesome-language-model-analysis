@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           commit-message: 'Automated update on ${{ env.current_date }}'
           branch: 'automated-update'
-          branch-suffix: 'timestamp'
+          branch-suffix: 'short-commit-hash'
           delete-branch: true
           title: '[Update] Automated update on ${{ env.current_date }}'
           body-path: 'debug.log'
