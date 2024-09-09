@@ -1,4 +1,4 @@
-# Awesome Transformers LM Analytics [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Language Model Analysis [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 This paper list focuses on the **theoretical and empirical analysis** of language models, especially **large language models** (LLMs).
 The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
@@ -20,7 +20,7 @@ If you have any suggestions or want to contribute, please feel free to open an i
 
 For details on how to contribute, please refer to the [contribution guidelines](CONTRIBUTING.md).
 
-You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-transformers-LM-analytics/discussions).
+You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 > [!NOTE]  
 > For uncategorized version, please refer to [here](README.uncategorized.md).
