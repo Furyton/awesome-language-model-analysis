@@ -39,3 +39,4 @@ A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Languag
 Transformer Circuit Faithfulness Metrics are not Robust,2024-07-11,http://arxiv.org/abs/2407.08734,Joseph Miller; Bilal Chughtai; William Saunders
 LLM Circuit Analyses Are Consistent Across Training and Scale,2024-07-15,http://arxiv.org/abs/2407.10827,Curt Tigges; Michael Hanna; Qinan Yu; Stella Biderman
 Modularity in Transformers: Investigating Neuron Separability & Specialization,2024-08-30,http://arxiv.org/abs/2408.17324,Nicholas Pochinkov; Thomas Jones; Mohammed Rashidur Rahman
+"Quantifying and Enabling the Interpretability of CLIP-like Models",2024-09-10,https://arxiv.org/pdf/2409.06579,Avinash Madasu; Yossi Gandelsman; Vasudev Lal; Phillip Howard
