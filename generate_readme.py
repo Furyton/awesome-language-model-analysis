@@ -56,7 +56,7 @@ def generate_table_of_content(category_info):
 
 
 def generate_section_template(category_info):
-    header_template = "## **{}**\n\n{}"
+    header_template = "## **{}**\n\n**[`^        back to top        ^`](#awesome-transformers-lm-analytics-)**\n\n{}"
     body_template = """
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>

@@ -3,7 +3,7 @@
 We welcome contributions to this list!
 
 The papers are maintained under the `papers` directory.
-The `README.md` file is generated from the papers in the `papers` directory using the python script `generate_markdown.py`.
+The `README.md` file is generated from the papers in the `papers` directory using the python script `generate_readme.py`.
 
 The structure of the `papers` directory is as follows:
 
