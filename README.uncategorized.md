@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **435**
+- Total number of different papers: **436**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -1306,6 +1306,11 @@ Anej Svete; Ryan Cotterell
 
 - **Mechanics of Next Token Prediction with Self-Attention** [[paper link]](https://proceedings.mlr.press/v238/li24f.html) 2024-04-18  
 Yingcong Li; Yixiao Huang; Muhammed E. Ildiz; Ankit Singh Rawat; Samet Oymak
+
+
+
+- **On the Empirical Complexity of Reasoning and Planning in LLMs** [[paper link]](http://arxiv.org/abs/2404.11041) 2024-04-17  
+Liwei Kang; Zirui Zhao; David Hsu; Wee Sun Lee
 
 
 
