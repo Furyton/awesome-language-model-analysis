@@ -1,3 +1,4 @@
+# encoding: utf-8
 import os
 import csv
 import json
@@ -25,7 +26,7 @@ TEMPLATE = """
 def generate_table_of_content(category_info):
     header = "Table of Content\n====================\n<!--ts-->\n"
     header += (
-        "- [Awesome Transformers LM Analytics ](#awesome-transformers-lm-analytics-)\n"
+        "- [Awesome Language Model Analysis](#awesome-language-model-analysis-)\n"
         "- [Table of Content](#table-of-content)\n"
     )
     footer = "<!--te-->\n"
@@ -56,7 +57,7 @@ def generate_table_of_content(category_info):
 
 
 def generate_section_template(category_info):
-    header_template = "## **{}**\n\n**[`^        back to top        ^`](#awesome-transformers-lm-analytics-)**\n\n{}"
+    header_template = "## **{}**\n\n**[`^        back to top        ^`](#awesome-language-model-analysis-)**\n\n{}"
     body_template = """
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
@@ -138,10 +139,14 @@ def get_section_list(topic):
 
     # read as dict, the first line is the header
 
-    with open(p, "r") as f:
+    with open(p, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         # sort by date
-        reader = sorted(reader, key=lambda x: x["Date"], reverse=True)
+        try:
+            reader = sorted(reader, key=lambda x: x["Date"], reverse=True)
+        except Exception as e:
+            print(f"Error reading {p}: {e}")
+            return [], []
         # sanity check of each row
         for row in reader:
             assert len(row.keys()) == 4, f"topic: {topic}, row: {row}"

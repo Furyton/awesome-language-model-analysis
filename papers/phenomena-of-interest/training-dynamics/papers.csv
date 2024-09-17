@@ -30,3 +30,4 @@ Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel 
 Global Convergence in Training Large-Scale Transformers,2024-08,https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/gao2024global.pdf,Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason M. Klusowski; Jianqing Fan
 On the Convergence of Encoder-only Shallow Transformers,2024-08,https://proceedings.neurips.cc/paper_files/paper/2023/file/a3cf318fbeec1126da21e9185ae9908c-Paper-Conference.pdf,Yongtao Wu; Fanghui Liu; Grigorios G Chrysos; Volkan Cevher
 "The AdEMAMix Optimizer: Better, Faster, Older",2024-09-05,http://arxiv.org/abs/2409.03137,Matteo Pagliardini; Pierre Ablin; David Grangier
+Optimization Hyper-parameter Laws for Large Language Models,2024-09-07,http://arxiv.org/abs/2409.04777,Xingyu Xie; Kuangyu Ding; Shuicheng Yan; Kim-Chuan Toh; Tianwen Wei
