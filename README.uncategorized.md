@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **436**
+- Total number of different papers: **443**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,41 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **Optimal ablation for interpretability** [[paper link]](http://arxiv.org/abs/2409.09951) 2024-09-16  
+Maximilian Li; Lucas Janson
+
+
+
+- **Understanding Simplicity Bias towards Compositional Mappings via Learning Dynamics** [[paper link]](http://arxiv.org/abs/2409.09626) 2024-09-15  
+Yi Ren; Danica J. Sutherland
+
+
+
+- **Autoregressive + Chain of Thought (CoT) ≃ Recurrent: Recurrence's Role in Language Models and a Revist of Recurrent Transformer** [[paper link]](http://arxiv.org/abs/2409.09239) 2024-09-14  
+Xiang Zhang; Muhammad Abdul-Mageed; Laks V.S. Lakshmanan
+
+
+
+- **Explaining Datasets in Words: Statistical Models with Natural Language Parameters** [[paper link]](http://arxiv.org/abs/2409.08466) 2024-09-13  
+Ruiqi Zhong; Heng Wang; Dan Klein; Jacob Steinhardt
+
+
+
+- **Extracting Paragraphs from LLM Token Activations** [[paper link]](http://arxiv.org/abs/2409.06328) 2024-09-10  
+Nicholas Pochinkov; Angelo Benoit; Lovkush Agarwal; Zainab Ali Majid; Lucile Ter-Minassian
+
+
+
+- **LLMs Will Always Hallucinate, and We Need to Live With This** [[paper link]](http://arxiv.org/abs/2409.05746) 2024-09-09  
+Sourav Banerjee; Ayushi Agarwal; Saloni Singla
+
+
+
+- **Optimization Hyper-parameter Laws for Large Language Models** [[paper link]](http://arxiv.org/abs/2409.04777) 2024-09-07  
+Xingyu Xie; Kuangyu Ding; Shuicheng Yan; Kim-Chuan Toh; Tianwen Wei
+
 
 
 - **Theory, Analysis, and Best Practices for Sigmoid Self-Attention** [[paper link]](http://arxiv.org/abs/2409.04431) 2024-09-06  
