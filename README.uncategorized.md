@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **443**
+- Total number of different papers: **444**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,11 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **Schrodingers Memory: Large Language Models** [[paper link]](https://arxiv.org/pdf/2409.10482) 2024-09-16  
+Wei Wang; Qing Li
+
 
 
 - **Optimal ablation for interpretability** [[paper link]](http://arxiv.org/abs/2409.09951) 2024-09-16  

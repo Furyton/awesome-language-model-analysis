@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **443**
+- Total number of different papers: **444**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -839,6 +839,11 @@ Papers focusing on how large language models store, retrieve, and utilize knowle
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Schrodingers Memory: Large Language Models** [[paper link]](https://arxiv.org/pdf/2409.10482) 2024-09-16  
+Wei Wang; Qing Li
+
+
 
 - **Great Memory, Shallow Reasoning: Limits of kNN-LMs** [[paper link]](http://arxiv.org/abs/2408.11815) 2024-08-21  
 Shangyi Geng; Wenting Zhao; Alexander M Rush
@@ -2708,7 +2713,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Scaling Laws / Emergent Abilities / Grokking / etc.: *44*
 
-  - Knowledge / Memory Mechanisms: *25*
+  - Knowledge / Memory Mechanisms: *26*
 
   - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *32*
 
