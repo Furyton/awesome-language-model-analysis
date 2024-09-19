@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **444**
+- Total number of different papers: **451**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,21 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **A Controlled Study on Long Context Extension and Generalization in LLMs** [[paper link]](http://arxiv.org/abs/2409.12181) 2024-09-18  
+Yi Lu; Jing Nathan Yan; Songlin Yang; Justin T. Chiu; Siyu Ren; Fei Yuan; Wenting Zhao; Zhiyong Wu; Alexander M. Rush
+
+
+
+- **Norm of Mean Contextualized Embeddings Determines their Variance** [[paper link]](http://arxiv.org/abs/2409.11253) 2024-09-17  
+Hiroaki Yamagiwa; Hidetoshi Shimodaira
+
+
+
+- **Self-Attention Limits Working Memory Capacity of Transformer-Based Models** [[paper link]](http://arxiv.org/abs/2409.10715) 2024-09-16  
+Dongyu Gong; Hantao Zhang
+
 
 
 - **Schrodingers Memory: Large Language Models** [[paper link]](https://arxiv.org/pdf/2409.10482) 2024-09-16  
@@ -51,6 +66,11 @@ Xiang Zhang; Muhammad Abdul-Mageed; Laks V.S. Lakshmanan
 
 - **Explaining Datasets in Words: Statistical Models with Natural Language Parameters** [[paper link]](http://arxiv.org/abs/2409.08466) 2024-09-13  
 Ruiqi Zhong; Heng Wang; Dan Klein; Jacob Steinhardt
+
+
+
+- **Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers** [[paper link]](http://arxiv.org/abs/2409.10559) 2024-09-10  
+Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
 
 
 
@@ -116,6 +136,11 @@ Nicholas Pochinkov; Thomas Jones; Mohammed Rashidur Rahman
 
 - **An Empirical Study of Scaling Laws for Transfer** [[paper link]](https://arxiv.org/abs/2408.16947) 2024-08-30  
 Matthew Barnett
+
+
+
+- **Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems** [[paper link]](http://arxiv.org/abs/2408.16293) 2024-08-29  
+Tian Ye; Zicheng Xu; Yuanzhi Li; Zeyuan Allen-Zhu
 
 
 
@@ -466,6 +491,11 @@ Ha Young Kim; Niranjan Balasubramanian; Byungkon Kang
 
 - **In-Context Probing Approximates Influence Function for Data Valuation** [[paper link]](http://arxiv.org/abs/2407.12259) 2024-07-17  
 Cathy Jiao; Gary Gao; Chenyan Xiong
+
+
+
+- **Physics of Language Models: Part 3.1, Knowledge Storage and Extraction** [[paper link]](http://arxiv.org/abs/2309.14316) 2024-07-16  
+Zeyuan Allen-Zhu; Yuanzhi Li
 
 
 
@@ -921,6 +951,11 @@ Tianyu He; Darshil Doshi; Aritra Das; Andrey Gromov
 
 - **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[paper link]](http://arxiv.org/abs/2406.02128) 2024-06-04  
 Vivien Cabannes; Charles Arnal; Wassim Bouaziz; Alice Yang; Francois Charton; Julia Kempe
+
+
+
+- **Physics of Language Models: Part 1, Learning Hierarchical Language Structures** [[paper link]](http://arxiv.org/abs/2305.13673) 2024-06-02  
+Zeyuan Allen-Zhu; Yuanzhi Li
 
 
 

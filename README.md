@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **444**
+- Total number of different papers: **451**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -69,6 +69,11 @@ Papers focusing on the theoretical and empirical analysis of in-context learning
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers** [[paper link]](http://arxiv.org/abs/2409.10559) 2024-09-10  
+Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
+
+
 
 - **Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs** [[paper link]](http://arxiv.org/abs/2409.04318) 2024-09-06  
 Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
@@ -845,6 +850,11 @@ Wei Wang; Qing Li
 
 
 
+- **Self-Attention Limits Working Memory Capacity of Transformer-Based Models** [[paper link]](http://arxiv.org/abs/2409.10715) 2024-09-16  
+Dongyu Gong; Hantao Zhang
+
+
+
 - **Great Memory, Shallow Reasoning: Limits of kNN-LMs** [[paper link]](http://arxiv.org/abs/2408.11815) 2024-08-21  
 Shangyi Geng; Wenting Zhao; Alexander M Rush
 
@@ -877,6 +887,11 @@ Sara Vera Marjanović; Haeun Yu; Pepa Atanasova; Maria Maistro; Christina Lioma;
 
 - **Generalization v.s. Memorization: Tracing Language Models' Capabilities Back to Pretraining Data** [[paper link]](http://arxiv.org/abs/2407.14985) 2024-07-20  
 Antonis Antoniades; Xinyi Wang; Yanai Elazar; Alfonso Amayuelas; Alon Albalak; Kexun Zhang; William Yang Wang
+
+
+
+- **Physics of Language Models: Part 3.1, Knowledge Storage and Extraction** [[paper link]](http://arxiv.org/abs/2309.14316) 2024-07-16  
+Zeyuan Allen-Zhu; Yuanzhi Li
 
 
 
@@ -1166,6 +1181,11 @@ Eric Zhang; Leshem Chosen; Jacob Andreas
 
 - **The Many Faces of Optimal Weak-to-Strong Learning** [[paper link]](http://arxiv.org/abs/2408.17148) 2024-08-30  
 Mikael Møller Høgsgaard; Kasper Green Larsen; Markus Engelund Mathiasen
+
+
+
+- **Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems** [[paper link]](http://arxiv.org/abs/2408.16293) 2024-08-29  
+Tian Ye; Zicheng Xu; Yuanzhi Li; Zeyuan Allen-Zhu
 
 
 
@@ -1584,6 +1604,11 @@ Nadav Borenstein; Anej Svete; Robin Chan; Josef Valvoda; Franz Nowak; Isabelle A
 
 
 
+- **Physics of Language Models: Part 1, Learning Hierarchical Language Structures** [[paper link]](http://arxiv.org/abs/2305.13673) 2024-06-02  
+Zeyuan Allen-Zhu; Yuanzhi Li
+
+
+
 - **Transformers Can Do Arithmetic with the Right Embeddings** [[paper link]](http://arxiv.org/abs/2405.17399) 2024-05-27  
 Sean McLeish; Arpit Bansal; Alex Stein; Neel Jain; John Kirchenbauer; Brian R. Bartoldson; Bhavya Kailkhura; Abhinav Bhatele; Jonas Geiping; Avi Schwarzschild; Tom Goldstein
 
@@ -1786,6 +1811,11 @@ Papers investigating the limitations of transformer-based models, including expr
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Self-Attention Limits Working Memory Capacity of Transformer-Based Models** [[paper link]](http://arxiv.org/abs/2409.10715) 2024-09-16  
+Dongyu Gong; Hantao Zhang
+
+
+
 - **One-layer transformers fail to solve the induction heads task** [[paper link]](http://arxiv.org/abs/2408.14332) 2024-08-26  
 Clayton Sanford; Daniel Hsu; Matus Telgarsky
 
@@ -1951,6 +1981,11 @@ Papers focused on tokenization, embedding strategies, and input representations 
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Norm of Mean Contextualized Embeddings Determines their Variance** [[paper link]](http://arxiv.org/abs/2409.11253) 2024-09-17  
+Hiroaki Yamagiwa; Hidetoshi Shimodaira
+
+
+
 - **Where is the signal in tokenization space?** [[paper link]](http://arxiv.org/abs/2408.08541) 2024-08-16  
 Renato Lui Geh; Honghua Zhang; Kareem Ahmed; Benjie Wang; Guy Van den Broeck
 
@@ -2109,6 +2144,11 @@ Categories exploring the internal mechanisms and interpretability of language mo
 
 - **Optimal ablation for interpretability** [[paper link]](http://arxiv.org/abs/2409.09951) 2024-09-16  
 Maximilian Li; Lucas Janson
+
+
+
+- **Self-Attention Limits Working Memory Capacity of Transformer-Based Models** [[paper link]](http://arxiv.org/abs/2409.10715) 2024-09-16  
+Dongyu Gong; Hantao Zhang
 
 
 
@@ -2328,6 +2368,11 @@ Categories for papers that do not fit neatly into other classifications but disc
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **A Controlled Study on Long Context Extension and Generalization in LLMs** [[paper link]](http://arxiv.org/abs/2409.12181) 2024-09-18  
+Yi Lu; Jing Nathan Yan; Songlin Yang; Justin T. Chiu; Siyu Ren; Fei Yuan; Wenting Zhao; Zhiyong Wu; Alexander M. Rush
+
+
 
 - **Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts** [[paper link]](http://arxiv.org/abs/2409.00879) 2024-09-02  
 Youngseog Chung; Dhruv Malik; Jeff Schneider; Yuanzhi Li; Aarti Singh
@@ -2703,7 +2748,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *73*
+  - In-Context Learning: *74*
 
   - Chain-of-Thought: *11*
 
@@ -2713,33 +2758,33 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Scaling Laws / Emergent Abilities / Grokking / etc.: *44*
 
-  - Knowledge / Memory Mechanisms: *26*
+  - Knowledge / Memory Mechanisms: *28*
 
   - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *32*
 
-  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *40*
+  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *41*
 
   - Other Phenomena / Discoveries: *26*
 
 - Representational Capacity:
 
-  - What Can Transformer Do? / Properties of Transformer: *52*
+  - What Can Transformer Do? / Properties of Transformer: *53*
 
-  - What Can Transformer Not Do? / Limitation of Transformer: *22*
+  - What Can Transformer Not Do? / Limitation of Transformer: *23*
 
 - Architectural Effectivity:
 
   - Layer-normalization: *5*
 
-  - Tokenization / Embedding: *15*
+  - Tokenization / Embedding: *16*
 
   - Linear Attention / State Space Models / Recurrent Language Models / etc.: *7*
 
 - Training Paradigms: *2*
 
-- Mechanistic Engineering / Probing / Interpretability: *42*
+- Mechanistic Engineering / Probing / Interpretability: *43*
 
-- Miscellanea: *73*
+- Miscellanea: *74*
 
 
 
