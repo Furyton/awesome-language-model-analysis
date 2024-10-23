@@ -121,7 +121,7 @@ def generate_full_template(category_info):
     statistics_template = generate_statistics_template(category_info)
 
     template_path = os.path.join(ROOT, TEMPLATE_FILE)
-    with open(template_path, "r") as file:
+    with open(template_path, "r", encoding='utf-8') as file:
         template_content = file.read()
 
     filled_content = template_content.format(
@@ -178,7 +178,7 @@ def fill_readme_template(output_path, content_dict, template_content, dry_run=Fa
     filled_content = template_content.format(**content_dict)
 
     if not dry_run:
-        with open(output_path, "w") as file:
+        with open(output_path, "w", encoding='utf-8') as file:
             file.write(filled_content)
 
 

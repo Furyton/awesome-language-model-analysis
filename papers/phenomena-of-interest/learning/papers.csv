@@ -40,3 +40,14 @@ The Many Faces of Optimal Weak-to-Strong Learning,2024-08-30,http://arxiv.org/ab
 On the Empirical Complexity of Reasoning and Planning in LLMs,2024-04-17,http://arxiv.org/abs/2404.11041,Liwei Kang; Zirui Zhao; David Hsu; Wee Sun Lee
 Understanding Simplicity Bias towards Compositional Mappings via Learning Dynamics,2024-09-15,http://arxiv.org/abs/2409.09626,Yi Ren; Danica J. Sutherland
 "Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems",2024-08-29,http://arxiv.org/abs/2408.16293,Tian Ye; Zicheng Xu; Yuanzhi Li; Zeyuan Allen-Zhu
+How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs,2024-10-17,http://arxiv.org/abs/2410.13857,Guhao Feng; Kai Yang; Yuntian Gu; Xinyue Ai; Shengjie Luo; Jiacheng Sun; Di He; Zhenguo Li; Liwei Wang
+Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism,2024-09-26,http://arxiv.org/abs/2409.17625,Keitaro Sakamoto; Issei Sato
+Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context,2024-10-02,http://arxiv.org/abs/2410.01774,Spencer Frei; Gal Vardi
+Investigating the Impact of Model Complexity in Large Language Models,2024-10-01,http://arxiv.org/abs/2410.00699,Jing Luo; Huiyuan Wang; Weiran Huang
+Lines of Thought in Large Language Models,2024-10-02,http://arxiv.org/abs/2410.01545,Raphaël Sarfati; Toni J. B. Liu; Nicolas Boullé; Christopher J. Earls
+Benign Overfitting in Single-Head Attention,2024-10-10,http://arxiv.org/abs/2410.07746,Roey Magen; Shuning Shang; Zhiwei Xu; Spencer Frei; Wei Hu; Gal Vardi
+Provable Weak-to-Strong Generalization via Benign Overfitting,2024-10-06,http://arxiv.org/abs/2410.04638,David X. Wu; Anant Sahai
+A Formal Framework for Understanding Length Generalization in Transformers,2024-10-03,http://arxiv.org/abs/2410.02140,Xinting Huang; Andy Yang; Satwik Bhattamishra; Yash Sarrof; Andreas Krebs; Hattie Zhou; Preetum Nakkiran; Michael Hahn
+Benign Overfitting for Regression with Trained Two-Layer ReLU Networks,2024-10-08,http://arxiv.org/abs/2410.06191,Junhyung Park; Patrick Bloebaum; Shiva Prasad Kasiviswanathan
+Dynamics of Concept Learning and Compositional Generalization,2024-10-10,http://arxiv.org/abs/2410.08309,Yongyi Yang; Core Francisco Park; Ekdeep Singh Lubana; Maya Okawa; Wei Hu; Hidenori Tanaka
+On Rank-Dependent Generalisation Error Bounds for Transformers,2024-10-15,http://arxiv.org/abs/2410.11500,Lan V. Truong

@@ -31,3 +31,15 @@ Global Convergence in Training Large-Scale Transformers,2024-08,https://klusowsk
 On the Convergence of Encoder-only Shallow Transformers,2024-08,https://proceedings.neurips.cc/paper_files/paper/2023/file/a3cf318fbeec1126da21e9185ae9908c-Paper-Conference.pdf,Yongtao Wu; Fanghui Liu; Grigorios G Chrysos; Volkan Cevher
 "The AdEMAMix Optimizer: Better, Faster, Older",2024-09-05,http://arxiv.org/abs/2409.03137,Matteo Pagliardini; Pierre Ablin; David Grangier
 Optimization Hyper-parameter Laws for Large Language Models,2024-09-07,http://arxiv.org/abs/2409.04777,Xingyu Xie; Kuangyu Ding; Shuicheng Yan; Kim-Chuan Toh; Tianwen Wei
+Non-asymptotic Convergence of Training Transformers for Next-token Prediction,2024-09-25,http://arxiv.org/abs/2409.17335,Ruiquan Huang; Yingbin Liang; Jing Yang
+Benigh or Not-Benign Overfitting in Token Selection of Attention Mechanism,2024-09-26,http://arxiv.org/abs/2409.17625,Keitaro Sakamoto; Issei Sato
+Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis,2024-10-03,http://arxiv.org/abs/2410.02167,Hongkang Li; Meng Wang; Songtao Lu; Xiaodong Cui; Pin-Yu Chen
+Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context,2024-10-02,http://arxiv.org/abs/2410.01774,Spencer Frei; Gal Vardi
+Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization,2024-10-03,http://arxiv.org/abs/2410.02247,Xinhao Yao; Hongjin Qian; Xiaolin Hu; Gengze Xu; Yong Liu
+Investigating the Impact of Model Complexity in Large Language Models,2024-10-01,http://arxiv.org/abs/2410.00699,Jing Luo; Huiyuan Wang; Weiran Huang
+Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective,2024-10-02,http://arxiv.org/abs/2410.01720,Zeyu Gan; Yong Liu
+On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent,2024-10-07,http://arxiv.org/abs/2410.04870,Bingrui Li; Wei Huang; Andi Han; Zhanpeng Zhou; Taiji Suzuki; Jun Zhu; Jianfei Chen
+Adaptation Odyssey in LLMs: Why Does Additional Pretraining Sometimes Fail to Improve?,2024-10-08,http://arxiv.org/abs/2410.05581,Fırat Öncel; Matthias Bethge; Beyza Ermis; Mirco Ravanelli; Cem Subakan; Çağatay Yıldız
+Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective,2024-10-07,http://arxiv.org/abs/2410.05192,Kaiyue Wen; Zhiyuan Li; Jason Wang; David Hall; Percy Liang; Tengyu Ma
+How Transformers Implement Induction Heads: Approximation and Optimization Analysis,2024-10-15,http://arxiv.org/abs/2410.11474,Mingze Wang; Ruoxi Yu; Weinan E; Lei Wu
+What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis,2024-10-14,http://arxiv.org/abs/2410.10986,Weronika Ormaniec; Felix Dangel; Sidak Pal Singh

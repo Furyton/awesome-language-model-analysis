@@ -75,3 +75,10 @@ Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to M
 Beyond Parameter Count: Implicit Bias in Soft Mixture of Experts,2024-09-02,http://arxiv.org/abs/2409.00879,Youngseog Chung; Dhruv Malik; Jeff Schneider; Yuanzhi Li; Aarti Singh
 Reframing Data Value for Large Language Models Through the Lens of Plausability,2024-08-30,http://arxiv.org/abs/2409.00284,Mohamad Rida Rammal; Ruida Zhou; Suhas Diggavi
 A Controlled Study on Long Context Extension and Generalization in LLMs,2024-09-18,http://arxiv.org/abs/2409.12181,Yi Lu; Jing Nathan Yan; Songlin Yang; Justin T. Chiu; Siyu Ren; Fei Yuan; Wenting Zhao; Zhiyong Wu; Alexander M. Rush
+Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection,2024-10-18,http://arxiv.org/abs/2410.14581,Aaron Alvarado Kristanto Julistiono; Davoud Ataee Tarzanagh; Navid Azizan
+On the Implicit Relation Between Low-Rank Adaptation and Differential Privacy,2024-09-26,http://arxiv.org/abs/2409.17538,Saber Malekmohammadi; Golnoosh Farnadi
+Dynamic metastability in the self-attention model,2024-10-09,http://arxiv.org/abs/2410.06833,Borjan Geshkovski; Hugo Koubbi; Yury Polyanskiy; Philippe Rigollet
+How to Train Long-Context Language Models (Effectively),2024-10-03,http://arxiv.org/abs/2410.02660,Tianyu Gao; Alexander Wettig; Howard Yen; Danqi Chen
+softmax is not enough (for sharp out-of-distribution),2024-10-01,http://arxiv.org/abs/2410.01104,Petar Veličković; Christos Perivolaropoulos; Federico Barbero; Razvan Pascanu
+Mind the Gap: a Spectral Analysis of Rank Collapse and Signal Propagation in Transformers,2024-10-10,http://arxiv.org/abs/2410.07799,Alireza Naderi; Thiziri Nait Saada; Jared Tanner
+Decoding Game: On Minimax Optimality of Heuristic Text Generation Strategies,2024-10-04,http://arxiv.org/abs/2410.03968,Sijin Chen; Omar Hagrass; Jason M. Klusowski

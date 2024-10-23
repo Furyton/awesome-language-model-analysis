@@ -10,3 +10,5 @@ On the Representational Capacity of Neural Language Models with Chain-of-Thought
 Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods,2024-08-25,http://arxiv.org/abs/2408.14511,Xinyang Hu; Fengzhuo Zhang; Siyu Chen; Zhuoran Yang
 "Deciphering the Factors Influencing the Efficacy of Chain-of-Thought: Probability, Memorization, and Noisy Reasoning",2024-07-01,http://arxiv.org/abs/2407.01687,Akshara Prabhakar; Thomas L. Griffiths; R. Thomas McCoy
 "Autoregressive + Chain of Thought (CoT) ≃ Recurrent: Recurrence's Role in Language Models and a Revist of Recurrent Transformer",2024-09-14,http://arxiv.org/abs/2409.09239,Xiang Zhang; Muhammad Abdul-Mageed; Laks V.S. Lakshmanan
+Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis,2024-10-03,http://arxiv.org/abs/2410.02167,Hongkang Li; Meng Wang; Songtao Lu; Xiaodong Cui; Pin-Yu Chen
+From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency,2024-10-07,http://arxiv.org/abs/2410.05459,Kaiyue Wen; Huaqing Zhang; Hongzhou Lin; Jingzhao Zhang

@@ -16,3 +16,6 @@ Where is the signal in tokenization space?,2024-08-16,http://arxiv.org/abs/2408.
 Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?,2024-07-23,http://arxiv.org/abs/2407.16607,Jonathan Hayase; Alisa Liu; Yejin Choi; Sewoong Oh; Noah A. Smith
 An Empirical Comparison of Vocabulary Expansion and Initialization Approaches for Language Models,2024-07-08,http://arxiv.org/abs/2407.05841,Nandini Mundra; Aditya Nanda Kishore; Raj Dabre; Ratish Puduppully; Anoop Kunchukuttan; Mitesh M. Khapra
 Norm of Mean Contextualized Embeddings Determines their Variance,2024-09-17,http://arxiv.org/abs/2409.11253,Hiroaki Yamagiwa; Hidetoshi Shimodaira
+Tokenization as Finite-State Transduction,2024-10-21,http://arxiv.org/abs/2410.15696,Marco Cognetta; Naoaki Okazaki
+From Tokens to Words: On the Inner Lexicon of LLMs,2024-10-08,http://arxiv.org/abs/2410.05864,Guy Kaplan; Matanel Oren; Yuval Reif; Roy Schwartz
+Tokenization and Morphology in Multilingual Language Models: A Comparative Analysis of mT5 and ByT5,2024-10-15,http://arxiv.org/abs/2410.11627,Thao Anh Dang; Limor Raviv; Lukas Galke

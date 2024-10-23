@@ -75,3 +75,13 @@ Polynomial Regression as a Task for Understanding In-context Learning Through Fi
 One-Layer Transformer Provably Learns One-Nearest Neighbor In Context,2024-07-24,https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/li2024one.pdf,Zihao Li; Yuan Cao; Cheng Gao; Yihan He; Han Liu; Jason M. Klusowski; Jianqing Fan; Mengdi Wang
 Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs,2024-09-06,http://arxiv.org/abs/2409.04318,Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
 Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers,2024-09-10,http://arxiv.org/abs/2409.10559,Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
+Context-Scaling versus Task-Scaling in In-Context Learning,2024-10-16,http://arxiv.org/abs/2410.12783,Amirhesam Abedsoltan; Adityanarayanan Radhakrishnan; Jingfeng Wu; Mikhail Belkin
+In-context learning and Occam's razor,2024-10-17,http://arxiv.org/abs/2410.14086,Eric Elmoznino; Tom Marty; Tejas Kasetty; Leo Gagnon; Sarthak Mittal; Mahan Fathi; Dhanya Sridhar; Guillaume Lajoie
+Provable In-context Learning for Mixture of Linear Regressions using Transformers,2024-10-18,http://arxiv.org/abs/2410.14183,Yanhao Jin; Krishnakumar Balasubramanian; Lifeng Lai
+Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context,2024-10-02,http://arxiv.org/abs/2410.01774,Spencer Frei; Gal Vardi
+Transformers learn variable-order Markov chains in-context,2024-10-07,http://arxiv.org/abs/2410.05493,Ruida Zhou; Chao Tian; Suhas Diggavi
+Transformers Handle Endogeneity in In-Context Linear Regression,2024-10-02,http://arxiv.org/abs/2410.01265,Haodong Liang; Krishnakumar Balasubramanian; Lifeng Lai
+Revisiting In-context Learning Inference Circuit in Large Language Models,2024-10-06,http://arxiv.org/abs/2410.04468,Hakaze Cho; Mariko Kato; Yoshihiro Sakai; Naoya Inoue
+Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent,2024-10-15,http://arxiv.org/abs/2410.11268,Bo Chen; Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song
+How Transformers Implement Induction Heads: Approximation and Optimization Analysis,2024-10-15,http://arxiv.org/abs/2410.11474,Mingze Wang; Ruoxi Yu; Weinan E; Lei Wu
+On the Training Convergence of Transformers for In-Context Classification,2024-10-15,http://arxiv.org/abs/2410.11475,Wei Shen; Ruida Zhou; Jing Yang; Cong Shen

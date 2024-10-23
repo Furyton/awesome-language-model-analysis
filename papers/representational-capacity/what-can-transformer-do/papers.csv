@@ -54,3 +54,15 @@ Transformers As Approximations of Solomonoff Induction,2024-08-22,http://arxiv.o
 Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations,2024-08-27,http://arxiv.org/abs/2408.15417,Yize Zhao; Tina Behnia; Vala Vakilian; Christos Thrampoulidis
 A Law of Next-Token Prediction in Large Language Models,2024-08-24,http://arxiv.org/abs/2408.13442,Hangfeng He; Weijie J. Su
 "Physics of Language Models: Part 1, Learning Hierarchical Language Structures",2024-06-02,http://arxiv.org/abs/2305.13673,Zeyuan Allen-Zhu; Yuanzhi Li
+Theoretical Analysis of Hierarchical Language Recognition and Generation by Transformers without Positional Encoding,2024-10-16,http://arxiv.org/abs/2410.12413,Daichi Hayakawa; Issei Sato
+On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery,2024-10-17,http://arxiv.org/abs/2410.13981,Renpu Liu; Ruida Zhou; Cong Shen; Jing Yang
+"Transformers are Efficient Compilers, Provably",2024-10-07,http://arxiv.org/abs/2410.14706,Xiyu Zhai; Runlong Zhou; Liao Zhang; Simon Shaolei Du
+Transformers in Uniform TC0,2024-09-20,http://arxiv.org/abs/2409.13629,David Chiang
+Memory-augmented Transformers can implement Linear First-Order Optimization Methods,2024-10-08,http://arxiv.org/abs/2410.07263,Sanchayan Dutta; Suvrit Sra
+Autoregressive Large Language Models are Computationally Universal,2024-10-04,http://arxiv.org/abs/2410.03170,Dale Schuurmans; Hanjun Dai; Francesco Zanini
+On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding,2024-10-02,http://arxiv.org/abs/2410.01405,Kevin Xu; Issei Sato
+Can Transformers Learn n-gram Language Models?,2024-10-03,http://arxiv.org/abs/2410.03001,Anej Svete; Nadav Borenstein; Mike Zhou; Isabelle Augenstein; Ryan Cotterell
+Towards Understanding the Universality of Transformers for Next-Token Prediction,2024-10-03,http://arxiv.org/abs/2410.03011,Michael E. Sander; Gabriel Peyré
+Attention layers provably solve single-location regression,2024-10-02,http://arxiv.org/abs/2410.01537,Pierre Marion; Raphaël Berthier; Gérard Biau; Claire Boyer
+Large Language Models as Markov Chains,2024-10-03,http://arxiv.org/abs/2410.02724,Oussama Zekri; Ambroise Odonnat; Abdelhakim Benechehab; Linus Bleistein; Nicolas Boullé; Ievgen Redko
+Fundamental Limitations on Subquadratic Alternatives to Transformers,2024-10-05,http://arxiv.org/abs/2410.04271,Josh Alman; Hantao Yu
