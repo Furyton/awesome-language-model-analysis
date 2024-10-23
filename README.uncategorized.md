@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **451**
+- Total number of different papers: **450**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -76,11 +76,6 @@ Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
 
 - **Extracting Paragraphs from LLM Token Activations** [[paper link]](http://arxiv.org/abs/2409.06328) 2024-09-10  
 Nicholas Pochinkov; Angelo Benoit; Lovkush Agarwal; Zainab Ali Majid; Lucile Ter-Minassian
-
-
-
-- **LLMs Will Always Hallucinate, and We Need to Live With This** [[paper link]](http://arxiv.org/abs/2409.05746) 2024-09-09  
-Sourav Banerjee; Ayushi Agarwal; Saloni Singla
 
 
 

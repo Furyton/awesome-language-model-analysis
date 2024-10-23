@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **451**
+- Total number of different papers: **450**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -518,11 +518,6 @@ Papers examining the hallucination phenomenon in language models, including both
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
-
-- **LLMs Will Always Hallucinate, and We Need to Live With This** [[paper link]](http://arxiv.org/abs/2409.05746) 2024-09-09  
-Sourav Banerjee; Ayushi Agarwal; Saloni Singla
-
-
 
 - **Shared Imagination: LLMs Hallucinate Alike** [[paper link]](http://arxiv.org/abs/2407.16604) 2024-07-23  
 Yilun Zhou; Caiming Xiong; Silvio Savarese; Chien-Sheng Wu
@@ -2752,7 +2747,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Chain-of-Thought: *11*
 
-  - Hallucination: *9*
+  - Hallucination: *8*
 
   - Reversal Curse: *5*
 
@@ -2787,6 +2782,44 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 - Miscellanea: *74*
 
 
+
+---
+
+Related links:
+
+- [deep-learning-dynamics-paper-list](https://github.com/zeke-xie/deep-learning-dynamics-paper-list)
+
+- [Paper List for In-context Learning](https://github.com/dqxiu/ICL_PaperList)
+
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
+- [Awesome Math](https://github.com/rossant/awesome-math)
+
+- [Awesome TikZ](https://github.com/xiaohanyu/awesome-tikz)
+
+- [Awesome Lists for Tenure-Track Asst. Professors and PhD students](https://github.com/JunweiLiang/awesome_lists)
+
+- [Awesome LLM Systems Papers](https://github.com/AmberLJC/LLMSys-PaperList)
+
+- [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)
+
+- [Feature Learning in Deep Learning Theory Reading Group](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
+
+- [awesome-matplotlib](https://github.com/interactivetech/awesome-matplotlib)
+
+- [LLM Training Puzzles](https://github.com/srush/LLM-Training-Puzzles)
+
+- [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
+
+- [A PyTorch Tools, best practices & Styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
+
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+
+- [Science Plots](https://github.com/garrettj403/SciencePlots)
+
+- [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks)
+
+- [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
 ---
 
