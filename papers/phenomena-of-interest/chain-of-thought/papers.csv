@@ -12,3 +12,4 @@ Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods,2024
 "Autoregressive + Chain of Thought (CoT) ≃ Recurrent: Recurrence's Role in Language Models and a Revist of Recurrent Transformer",2024-09-14,http://arxiv.org/abs/2409.09239,Xiang Zhang; Muhammad Abdul-Mageed; Laks V.S. Lakshmanan
 Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis,2024-10-03,http://arxiv.org/abs/2410.02167,Hongkang Li; Meng Wang; Songtao Lu; Xiaodong Cui; Pin-Yu Chen
 From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency,2024-10-07,http://arxiv.org/abs/2410.05459,Kaiyue Wen; Huaqing Zhang; Hongzhou Lin; Jingzhao Zhang
+A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration,2024-10-21,https://arxiv.org/abs/2410.16540v1,Yingqian Cui; Pengfei He; Xianfeng Tang; Qi He; Chen Luo; Jiliang Tang; Yue Xing

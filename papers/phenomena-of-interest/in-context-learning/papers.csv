@@ -85,3 +85,6 @@ Revisiting In-context Learning Inference Circuit in Large Language Models,2024-1
 Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent,2024-10-15,http://arxiv.org/abs/2410.11268,Bo Chen; Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song
 How Transformers Implement Induction Heads: Approximation and Optimization Analysis,2024-10-15,http://arxiv.org/abs/2410.11474,Mingze Wang; Ruoxi Yu; Weinan E; Lei Wu
 On the Training Convergence of Transformers for In-Context Classification,2024-10-15,http://arxiv.org/abs/2410.11475,Wei Shen; Ruida Zhou; Jing Yang; Cong Shen
+Can Transformers In-Context Learn Behavior of a Linear Dynamical System?,2024-10-21,http://arxiv.org/abs/2410.16546,Usman Akram; Haris Vikalo
+Bayesian scaling laws for in-context learning,2024-10-21,http://arxiv.org/abs/2410.16531,Aryaman Arora; Dan Jurafsky; Christopher Potts; Noah D. Goodman
+Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks,2024-10-23,http://arxiv.org/abs/2410.17498,Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
