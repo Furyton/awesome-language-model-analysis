@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **511**
+- Total number of different papers: **516**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -29,8 +29,33 @@ You can also share your thoughts and discuss with others in the [Discussions](ht
 ---
 
 
+- **Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks** [[paper link]](http://arxiv.org/abs/2410.17498) 2024-10-23  
+Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
+
+
+
+- **Interpreting Affine Recurrence Learning in GPT-style Transformers** [[paper link]](http://arxiv.org/abs/2410.17438) 2024-10-22  
+Samarth Bhargav; Alexander Gu
+
+
+
 - **Tokenization as Finite-State Transduction** [[paper link]](http://arxiv.org/abs/2410.15696) 2024-10-21  
 Marco Cognetta; Naoaki Okazaki
+
+
+
+- **Can Transformers In-Context Learn Behavior of a Linear Dynamical System?** [[paper link]](http://arxiv.org/abs/2410.16546) 2024-10-21  
+Usman Akram; Haris Vikalo
+
+
+
+- **Bayesian scaling laws for in-context learning** [[paper link]](http://arxiv.org/abs/2410.16531) 2024-10-21  
+Aryaman Arora; Dan Jurafsky; Christopher Potts; Noah D. Goodman
+
+
+
+- **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration** [[paper link]](https://arxiv.org/abs/2410.16540v1) 2024-10-21  
+Yingqian Cui; Pengfei He; Xianfeng Tang; Qi He; Chen Luo; Jiliang Tang; Yue Xing
 
 
 

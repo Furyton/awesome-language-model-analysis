@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **511**
+- Total number of different papers: **516**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -69,6 +69,21 @@ Papers focusing on the theoretical and empirical analysis of in-context learning
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks** [[paper link]](http://arxiv.org/abs/2410.17498) 2024-10-23  
+Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
+
+
+
+- **Can Transformers In-Context Learn Behavior of a Linear Dynamical System?** [[paper link]](http://arxiv.org/abs/2410.16546) 2024-10-21  
+Usman Akram; Haris Vikalo
+
+
+
+- **Bayesian scaling laws for in-context learning** [[paper link]](http://arxiv.org/abs/2410.16531) 2024-10-21  
+Aryaman Arora; Dan Jurafsky; Christopher Potts; Noah D. Goodman
+
+
 
 - **Provable In-context Learning for Mixture of Linear Regressions using Transformers** [[paper link]](http://arxiv.org/abs/2410.14183) 2024-10-18  
 Yanhao Jin; Krishnakumar Balasubramanian; Lifeng Lai
@@ -501,6 +516,11 @@ Papers analyzing the chain-of-thought phenomenon in large language models, explo
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration** [[paper link]](https://arxiv.org/abs/2410.16540v1) 2024-10-21  
+Yingqian Cui; Pengfei He; Xianfeng Tang; Qi He; Chen Luo; Jiliang Tang; Yue Xing
+
+
 
 - **From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency** [[paper link]](http://arxiv.org/abs/2410.05459) 2024-10-07  
 Kaiyue Wen; Huaqing Zhang; Hongzhou Lin; Jingzhao Zhang
@@ -2437,6 +2457,16 @@ Categories exploring the internal mechanisms and interpretability of language mo
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks** [[paper link]](http://arxiv.org/abs/2410.17498) 2024-10-23  
+Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
+
+
+
+- **Interpreting Affine Recurrence Learning in GPT-style Transformers** [[paper link]](http://arxiv.org/abs/2410.17438) 2024-10-22  
+Samarth Bhargav; Alexander Gu
+
+
+
 - **Extracting Finite State Machines from Transformers** [[paper link]](http://arxiv.org/abs/2410.06045) 2024-10-08  
 Rik Adriaensen; Jaron Maene
 
@@ -3083,9 +3113,9 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *84*
+  - In-Context Learning: *87*
 
-  - Chain-of-Thought: *13*
+  - Chain-of-Thought: *14*
 
   - Hallucination: *8*
 
@@ -3117,7 +3147,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Training Paradigms: *2*
 
-- Mechanistic Engineering / Probing / Interpretability: *44*
+- Mechanistic Engineering / Probing / Interpretability: *46*
 
 - Miscellanea: *81*
 
