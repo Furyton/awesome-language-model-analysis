@@ -48,3 +48,4 @@ Grokking at the Edge of Linear Separability,2024-10-06,https://arxiv.org/abs/241
 Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models,2024-10-08,https://arxiv.org/abs/2410.05661,Siqi Wang; Zhengyu Chen; Bei Li; Keqing He; Min Zhang; Jingang Wang
 "An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models",2024-10-15,https://arxiv.org/abs/2410.01243,Anuj K. Nayak; Lav R. Varshney
 A Hitchhiker's Guide to Scaling Law Estimation,2024-10-15,http://arxiv.org/abs/2410.11840,Leshem Choshen; Yang Zhang; Jacob Andreas
+How Does Critical Batch Size Scale in Pre-training?,2024-10-29,http://arxiv.org/abs/2410.21676,Hanlin Zhang; Depen Morwani; Nikhil Vyas; Jingfeng Wu; Difan Zou; Udaya Ghai; Dean Foster; Sham Kakade

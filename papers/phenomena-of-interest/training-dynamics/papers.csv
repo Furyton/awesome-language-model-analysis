@@ -43,3 +43,9 @@ Adaptation Odyssey in LLMs: Why Does Additional Pretraining Sometimes Fail to Im
 Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective,2024-10-07,http://arxiv.org/abs/2410.05192,Kaiyue Wen; Zhiyuan Li; Jason Wang; David Hall; Percy Liang; Tengyu Ma
 How Transformers Implement Induction Heads: Approximation and Optimization Analysis,2024-10-15,http://arxiv.org/abs/2410.11474,Mingze Wang; Ruoxi Yu; Weinan E; Lei Wu
 What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis,2024-10-14,http://arxiv.org/abs/2410.10986,Weronika Ormaniec; Felix Dangel; Sidak Pal Singh
+A distributional simplicity bias in the learning dynamics of transformers,2024-10-25,http://arxiv.org/abs/2410.19637,Riccardo Rende; Federica Gerace; Alessandro Laio; Sebastian Goldt
+LoRA vs Full Fine-tuning: An Illusion of Equivalence,2024-10-28,http://arxiv.org/abs/2410.21228,Reece Shuttleworth; Jacob Andreas; Antonio Torralba; Pratyusha Sharma
+Abrupt Learning in Transformers: A Case Study on Matrix Completion,2024-10-29,http://arxiv.org/abs/2410.22244,Pulkit Gopalani; Ekdeep Singh Lubana; Wei Hu
+Global Convergence in Training Large-Scale Transformers,2024-10-31,http://arxiv.org/abs/2410.23610,Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason Matthew Klusowski; Jianqing Fan
+What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,2024-10-31,http://arxiv.org/abs/2410.23743,Ming Li; Yanhong Li; Tianyi Zhou
+Learning and Transferring Sparse Contextual Bigrams with Linear Transformers,2024-10-30,http://arxiv.org/abs/2410.23438,Yunwei Ren; Zixuan Wang; Jason D. Lee

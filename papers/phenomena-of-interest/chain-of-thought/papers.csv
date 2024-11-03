@@ -13,3 +13,4 @@ Unveiling the Statistical Foundations of Chain-of-Thought Prompting Methods,2024
 Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis,2024-10-03,http://arxiv.org/abs/2410.02167,Hongkang Li; Meng Wang; Songtao Lu; Xiaodong Cui; Pin-Yu Chen
 From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency,2024-10-07,http://arxiv.org/abs/2410.05459,Kaiyue Wen; Huaqing Zhang; Hongzhou Lin; Jingzhao Zhang
 A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration,2024-10-21,https://arxiv.org/abs/2410.16540v1,Yingqian Cui; Pengfei He; Xianfeng Tang; Qi He; Chen Luo; Jiliang Tang; Yue Xing
+What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,2024-10-31,http://arxiv.org/abs/2410.23743,Ming Li; Yanhong Li; Tianyi Zhou

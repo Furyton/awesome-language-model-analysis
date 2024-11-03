@@ -82,3 +82,5 @@ How to Train Long-Context Language Models (Effectively),2024-10-03,http://arxiv.
 softmax is not enough (for sharp out-of-distribution),2024-10-01,http://arxiv.org/abs/2410.01104,Petar Veličković; Christos Perivolaropoulos; Federico Barbero; Razvan Pascanu
 Mind the Gap: a Spectral Analysis of Rank Collapse and Signal Propagation in Transformers,2024-10-10,http://arxiv.org/abs/2410.07799,Alireza Naderi; Thiziri Nait Saada; Jared Tanner
 Decoding Game: On Minimax Optimality of Heuristic Text Generation Strategies,2024-10-04,http://arxiv.org/abs/2410.03968,Sijin Chen; Omar Hagrass; Jason M. Klusowski
+Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models,2024-10-27,http://arxiv.org/abs/2410.20418,Zhengmian Hu; Heng Huang
+Length-Induced Embedding Collapse in Transformer-based Models,2024-10-31,http://arxiv.org/abs/2410.24200,Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
