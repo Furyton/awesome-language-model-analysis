@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **516**
+- Total number of different papers: **535**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,96 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective** [[paper link]](http://arxiv.org/abs/2410.23743) 2024-10-31  
+Ming Li; Yanhong Li; Tianyi Zhou
+
+
+
+- **Weight decay induces low-rank attention layers** [[paper link]](http://arxiv.org/abs/2410.23819) 2024-10-31  
+Seijin Kobayashi; Yassir Akram; Johannes Von Oswald
+
+
+
+- **Length-Induced Embedding Collapse in Transformer-based Models** [[paper link]](http://arxiv.org/abs/2410.24200) 2024-10-31  
+Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
+
+
+
+- **Global Convergence in Training Large-Scale Transformers** [[paper link]](http://arxiv.org/abs/2410.23610) 2024-10-31  
+Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason Matthew Klusowski; Jianqing Fan
+
+
+
+- **Toward Understanding In-context vs. In-weight Learning** [[paper link]](http://arxiv.org/abs/2410.23042) 2024-10-30  
+Bryan Chan; Xinyi Chen; András György; Dale Schuurmans
+
+
+
+- **Learning and Transferring Sparse Contextual Bigrams with Linear Transformers** [[paper link]](http://arxiv.org/abs/2410.23438) 2024-10-30  
+Yunwei Ren; Zixuan Wang; Jason D. Lee
+
+
+
+- **All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling** [[paper link]](http://arxiv.org/abs/2410.23501) 2024-10-30  
+Emanuele Marconato; Sébastien Lachapelle; Sebastian Weichwald; Luigi Gresele
+
+
+
+- **On the Role of Depth and Looping for In-Context Learning with Task Diversity** [[paper link]](http://arxiv.org/abs/2410.21698) 2024-10-29  
+Khashayar Gatmiry; Nikunj Saunshi; Sashank J. Reddi; Stefanie Jegelka; Sanjiv Kumar
+
+
+
+- **How Does Critical Batch Size Scale in Pre-training?** [[paper link]](http://arxiv.org/abs/2410.21676) 2024-10-29  
+Hanlin Zhang; Depen Morwani; Nikhil Vyas; Jingfeng Wu; Difan Zou; Udaya Ghai; Dean Foster; Sham Kakade
+
+
+
+- **Abrupt Learning in Transformers: A Case Study on Matrix Completion** [[paper link]](http://arxiv.org/abs/2410.22244) 2024-10-29  
+Pulkit Gopalani; Ekdeep Singh Lubana; Wei Hu
+
+
+
+- **LoRA vs Full Fine-tuning: An Illusion of Equivalence** [[paper link]](http://arxiv.org/abs/2410.21228) 2024-10-28  
+Reece Shuttleworth; Jacob Andreas; Antonio Torralba; Pratyusha Sharma
+
+
+
+- **Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models** [[paper link]](http://arxiv.org/abs/2410.20418) 2024-10-27  
+Zhengmian Hu; Heng Huang
+
+
+
+- **Looking Beyond The Top-1: Transformers Determine Top Tokens In Order** [[paper link]](http://arxiv.org/abs/2410.20210) 2024-10-26  
+Daria Lioubashevski; Tomer Schlank; Gabriel Stanovsky; Ariel Goldstein
+
+
+
+- **Provable Optimal Transport with Transformers: The Essence of Depth and Prompt Engineering** [[paper link]](http://arxiv.org/abs/2410.19931) 2024-10-25  
+Hadi Daneshmand
+
+
+
+- **Counting Ability of Large Language Models and Impact of Tokenization** [[paper link]](http://arxiv.org/abs/2410.19730) 2024-10-25  
+Xiang Zhang; Juntai Cao; Chenyu You
+
+
+
+- **A distributional simplicity bias in the learning dynamics of transformers** [[paper link]](http://arxiv.org/abs/2410.19637) 2024-10-25  
+Riccardo Rende; Federica Gerace; Alessandro Laio; Sebastian Goldt
+
+
+
+- **No Free Lunch: Fundamental Limits of Learning Non-Hallucinating Generative Models** [[paper link]](http://arxiv.org/abs/2410.19217) 2024-10-24  
+Changlong Wu; Ananth Grama; Wojciech Szpankowski
+
+
+
+- **Mixture of Parrots: Experts improve memorization more than reasoning** [[paper link]](http://arxiv.org/abs/2410.19034) 2024-10-24  
+Samy Jelassi; Clara Mohri; David Brandfonbrener; Alex Gu; Nikhil Vyas; Nikhil Anand; David Alvarez-Melis; Yuanzhi Li; Sham M. Kakade; Eran Malach
+
 
 
 - **Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks** [[paper link]](http://arxiv.org/abs/2410.17498) 2024-10-23  
@@ -2586,6 +2676,11 @@ Armen Aghajanyan; Luke Zettlemoyer; Sonal Gupta
 
 - **Why are Adaptive Methods Good for Attention Models?** [[paper link]](http://arxiv.org/abs/1912.03194) 2020-10-23  
 Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J. Reddi; Sanjiv Kumar; Suvrit Sra
+
+
+
+- **On the Ability and Limitations of Transformers to Recognize Formal Languages** [[paper link]](http://arxiv.org/abs/2009.11264) 2020-09-23  
+Satwik Bhattamishra; Kabir Ahuja; Navin Goyal
 
 
 

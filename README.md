@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **516**
+- Total number of different papers: **535**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -69,6 +69,16 @@ Papers focusing on the theoretical and empirical analysis of in-context learning
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Toward Understanding In-context vs. In-weight Learning** [[paper link]](http://arxiv.org/abs/2410.23042) 2024-10-30  
+Bryan Chan; Xinyi Chen; András György; Dale Schuurmans
+
+
+
+- **On the Role of Depth and Looping for In-Context Learning with Task Diversity** [[paper link]](http://arxiv.org/abs/2410.21698) 2024-10-29  
+Khashayar Gatmiry; Nikunj Saunshi; Sashank J. Reddi; Stefanie Jegelka; Sanjiv Kumar
+
+
 
 - **Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks** [[paper link]](http://arxiv.org/abs/2410.17498) 2024-10-23  
 Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
@@ -517,6 +527,11 @@ Papers analyzing the chain-of-thought phenomenon in large language models, explo
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective** [[paper link]](http://arxiv.org/abs/2410.23743) 2024-10-31  
+Ming Li; Yanhong Li; Tianyi Zhou
+
+
+
 - **A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration** [[paper link]](https://arxiv.org/abs/2410.16540v1) 2024-10-21  
 Yingqian Cui; Pengfei He; Xianfeng Tang; Qi He; Chen Luo; Jiliang Tang; Yue Xing
 
@@ -598,6 +613,11 @@ Papers examining the hallucination phenomenon in language models, including both
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **No Free Lunch: Fundamental Limits of Learning Non-Hallucinating Generative Models** [[paper link]](http://arxiv.org/abs/2410.19217) 2024-10-24  
+Changlong Wu; Ananth Grama; Wojciech Szpankowski
+
+
 
 - **Shared Imagination: LLMs Hallucinate Alike** [[paper link]](http://arxiv.org/abs/2407.16604) 2024-07-23  
 Yilun Zhou; Caiming Xiong; Silvio Savarese; Chien-Sheng Wu
@@ -687,6 +707,11 @@ Papers exploring how model performance scales with model size, data size, or com
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **How Does Critical Batch Size Scale in Pre-training?** [[paper link]](http://arxiv.org/abs/2410.21676) 2024-10-29  
+Hanlin Zhang; Depen Morwani; Nikhil Vyas; Jingfeng Wu; Difan Zou; Udaya Ghai; Dean Foster; Sham Kakade
+
+
 
 - **An Information Theory of Compute-Optimal Size Scaling, Emergence, and Plateaus in Language Models** [[paper link]](https://arxiv.org/abs/2410.01243) 2024-10-15  
 Anuj K. Nayak; Lav R. Varshney
@@ -1097,6 +1122,36 @@ Papers discussing various aspects of the training process, including optimizatio
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Global Convergence in Training Large-Scale Transformers** [[paper link]](http://arxiv.org/abs/2410.23610) 2024-10-31  
+Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason Matthew Klusowski; Jianqing Fan
+
+
+
+- **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective** [[paper link]](http://arxiv.org/abs/2410.23743) 2024-10-31  
+Ming Li; Yanhong Li; Tianyi Zhou
+
+
+
+- **Learning and Transferring Sparse Contextual Bigrams with Linear Transformers** [[paper link]](http://arxiv.org/abs/2410.23438) 2024-10-30  
+Yunwei Ren; Zixuan Wang; Jason D. Lee
+
+
+
+- **Abrupt Learning in Transformers: A Case Study on Matrix Completion** [[paper link]](http://arxiv.org/abs/2410.22244) 2024-10-29  
+Pulkit Gopalani; Ekdeep Singh Lubana; Wei Hu
+
+
+
+- **LoRA vs Full Fine-tuning: An Illusion of Equivalence** [[paper link]](http://arxiv.org/abs/2410.21228) 2024-10-28  
+Reece Shuttleworth; Jacob Andreas; Antonio Torralba; Pratyusha Sharma
+
+
+
+- **A distributional simplicity bias in the learning dynamics of transformers** [[paper link]](http://arxiv.org/abs/2410.19637) 2024-10-25  
+Riccardo Rende; Federica Gerace; Alessandro Laio; Sebastian Goldt
+
+
+
 - **How Transformers Implement Induction Heads: Approximation and Optimization Analysis** [[paper link]](http://arxiv.org/abs/2410.11474) 2024-10-15  
 Mingze Wang; Ruoxi Yu; Weinan E; Lei Wu
 
@@ -1328,6 +1383,11 @@ Papers analyzing the learning capabilities and generalization performance of lan
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Mixture of Parrots: Experts improve memorization more than reasoning** [[paper link]](http://arxiv.org/abs/2410.19034) 2024-10-24  
+Samy Jelassi; Clara Mohri; David Brandfonbrener; Alex Gu; Nikhil Vyas; Nikhil Anand; David Alvarez-Melis; Yuanzhi Li; Sham M. Kakade; Eran Malach
+
+
 
 - **How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs** [[paper link]](http://arxiv.org/abs/2410.13857) 2024-10-17  
 Guhao Feng; Kai Yang; Yuntian Gu; Xinyue Ai; Shengjie Luo; Jiacheng Sun; Di He; Zhenguo Li; Liwei Wang
@@ -1601,6 +1661,21 @@ Papers discussing other interesting phenomena or discoveries related to the beha
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Weight decay induces low-rank attention layers** [[paper link]](http://arxiv.org/abs/2410.23819) 2024-10-31  
+Seijin Kobayashi; Yassir Akram; Johannes Von Oswald
+
+
+
+- **All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling** [[paper link]](http://arxiv.org/abs/2410.23501) 2024-10-30  
+Emanuele Marconato; Sébastien Lachapelle; Sebastian Weichwald; Luigi Gresele
+
+
+
+- **Looking Beyond The Top-1: Transformers Determine Top Tokens In Order** [[paper link]](http://arxiv.org/abs/2410.20210) 2024-10-26  
+Daria Lioubashevski; Tomer Schlank; Gabriel Stanovsky; Ariel Goldstein
+
+
+
 - **Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs** [[paper link]](http://arxiv.org/abs/2410.13835) 2024-10-17  
 Tianyu Guo; Druv Pai; Yu Bai; Jiantao Jiao; Michael I. Jordan; Song Mei
 
@@ -1758,6 +1833,11 @@ Papers providing positive results into the capabilities and properties of transf
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Provable Optimal Transport with Transformers: The Essence of Depth and Prompt Engineering** [[paper link]](http://arxiv.org/abs/2410.19931) 2024-10-25  
+Hadi Daneshmand
+
+
 
 - **On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery** [[paper link]](http://arxiv.org/abs/2410.13981) 2024-10-17  
 Renpu Liu; Ruida Zhou; Cong Shen; Jing Yang
@@ -2214,6 +2294,11 @@ Shengjie Luo; Shanda Li; Shuxin Zheng; Tie-Yan Liu; Liwei Wang; Di He
 - **The Devil in Linear Transformer** [[paper link]](http://arxiv.org/abs/2210.10340) 2022-10-19  
 Zhen Qin; XiaoDong Han; Weixuan Sun; Dongxu Li; Lingpeng Kong; Nick Barnes; Yiran Zhong
 
+
+
+- **On the Ability and Limitations of Transformers to Recognize Formal Languages** [[paper link]](http://arxiv.org/abs/2009.11264) 2020-09-23  
+Satwik Bhattamishra; Kabir Ahuja; Navin Goyal
+
 </details>
 
 
@@ -2275,6 +2360,11 @@ Papers focused on tokenization, embedding strategies, and input representations 
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Counting Ability of Large Language Models and Impact of Tokenization** [[paper link]](http://arxiv.org/abs/2410.19730) 2024-10-25  
+Xiang Zhang; Juntai Cao; Chenyu You
+
+
 
 - **Tokenization as Finite-State Transduction** [[paper link]](http://arxiv.org/abs/2410.15696) 2024-10-21  
 Marco Cognetta; Naoaki Okazaki
@@ -2699,6 +2789,16 @@ Categories for papers that do not fit neatly into other classifications but disc
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
 
+- **Length-Induced Embedding Collapse in Transformer-based Models** [[paper link]](http://arxiv.org/abs/2410.24200) 2024-10-31  
+Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
+
+
+
+- **Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models** [[paper link]](http://arxiv.org/abs/2410.20418) 2024-10-27  
+Zhengmian Hu; Heng Huang
+
+
+
 - **Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection** [[paper link]](http://arxiv.org/abs/2410.14581) 2024-10-18  
 Aaron Alvarado Kristanto Julistiono; Davoud Ataee Tarzanagh; Navid Azizan
 
@@ -3113,35 +3213,35 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Phenomena of Interest:
 
-  - In-Context Learning: *87*
+  - In-Context Learning: *89*
 
-  - Chain-of-Thought: *14*
+  - Chain-of-Thought: *15*
 
-  - Hallucination: *8*
+  - Hallucination: *9*
 
   - Reversal Curse: *5*
 
-  - Scaling Laws / Emergent Abilities / Grokking / etc.: *48*
+  - Scaling Laws / Emergent Abilities / Grokking / etc.: *49*
 
   - Knowledge / Memory Mechanisms: *29*
 
-  - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *44*
+  - Training Dynamics / Landscape / Optimization / Fine-tuning / etc.: *50*
 
-  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *52*
+  - Learning / Generalization / Reasoning / Weak to Strong Generalization: *53*
 
-  - Other Phenomena / Discoveries: *28*
+  - Other Phenomena / Discoveries: *31*
 
 - Representational Capacity:
 
-  - What Can Transformer Do? / Properties of Transformer: *65*
+  - What Can Transformer Do? / Properties of Transformer: *66*
 
-  - What Can Transformer Not Do? / Limitation of Transformer: *24*
+  - What Can Transformer Not Do? / Limitation of Transformer: *25*
 
 - Architectural Effectivity:
 
   - Layer-normalization: *6*
 
-  - Tokenization / Embedding: *19*
+  - Tokenization / Embedding: *20*
 
   - Linear Attention / State Space Models / Recurrent Language Models / etc.: *8*
 
@@ -3149,7 +3249,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
 - Mechanistic Engineering / Probing / Interpretability: *46*
 
-- Miscellanea: *81*
+- Miscellanea: *83*
 
 
 
