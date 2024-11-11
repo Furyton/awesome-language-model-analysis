@@ -30,3 +30,5 @@ Emergent properties with repeated examples,2024-10-09,http://arxiv.org/abs/2410.
 Looking Beyond The Top-1: Transformers Determine Top Tokens In Order,2024-10-26,http://arxiv.org/abs/2410.20210,Daria Lioubashevski; Tomer Schlank; Gabriel Stanovsky; Ariel Goldstein
 All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling,2024-10-30,http://arxiv.org/abs/2410.23501,Emanuele Marconato; Sébastien Lachapelle; Sebastian Weichwald; Luigi Gresele
 Weight decay induces low-rank attention layers,2024-10-31,http://arxiv.org/abs/2410.23819,Seijin Kobayashi; Yassir Akram; Johannes Von Oswald
+On the loss of context-awareness in general instruction fine-tuning,2024-11-05,http://arxiv.org/abs/2411.02688,Yihan Wang; Andrew Bai; Nanyun Peng; Cho-Jui Hsieh
+Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs,2024-10-17,http://arxiv.org/abs/2410.13835,Tianyu Guo; Druv Pai; Yu Bai; Jiantao Jiao; Michael I. Jordan; Song Mei

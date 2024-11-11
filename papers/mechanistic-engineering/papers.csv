@@ -46,3 +46,5 @@ Self-Attention Limits Working Memory Capacity of Transformer-Based Models,2024-0
 Extracting Finite State Machines from Transformers,2024-10-08,http://arxiv.org/abs/2410.06045,Rik Adriaensen; Jaron Maene
 Interpreting Affine Recurrence Learning in GPT-style Transformers,2024-10-22,http://arxiv.org/abs/2410.17438,Samarth Bhargav; Alexander Gu
 Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks,2024-10-23,http://arxiv.org/abs/2410.17498,Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
+How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis,2024-11-06,http://arxiv.org/abs/2411.04105,Guan Zhe Hong; Nishanth Dikkala; Enming Luo; Cyrus Rashtchian; Xin Wang; Rina Panigrahy
+Towards Interpreting Language Models: A Case Study in Multi-Hop Reasoning,2024-11-06,http://arxiv.org/abs/2411.05037,Mansi Sakarvadia

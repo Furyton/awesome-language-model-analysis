@@ -49,3 +49,4 @@ Abrupt Learning in Transformers: A Case Study on Matrix Completion,2024-10-29,ht
 Global Convergence in Training Large-Scale Transformers,2024-10-31,http://arxiv.org/abs/2410.23610,Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason Matthew Klusowski; Jianqing Fan
 What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,2024-10-31,http://arxiv.org/abs/2410.23743,Ming Li; Yanhong Li; Tianyi Zhou
 Learning and Transferring Sparse Contextual Bigrams with Linear Transformers,2024-10-30,http://arxiv.org/abs/2410.23438,Yunwei Ren; Zixuan Wang; Jason D. Lee
+Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs,2024-10-17,http://arxiv.org/abs/2410.13835,Tianyu Guo; Druv Pai; Yu Bai; Jiantao Jiao; Michael I. Jordan; Song Mei

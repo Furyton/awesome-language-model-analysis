@@ -67,3 +67,5 @@ Attention layers provably solve single-location regression,2024-10-02,http://arx
 Large Language Models as Markov Chains,2024-10-03,http://arxiv.org/abs/2410.02724,Oussama Zekri; Ambroise Odonnat; Abdelhakim Benechehab; Linus Bleistein; Nicolas Boullé; Ievgen Redko
 Fundamental Limitations on Subquadratic Alternatives to Transformers,2024-10-05,http://arxiv.org/abs/2410.04271,Josh Alman; Hantao Yu
 Provable Optimal Transport with Transformers: The Essence of Depth and Prompt Engineering,2024-10-25,http://arxiv.org/abs/2410.19931,Hadi Daneshmand
+"Ask, and it shall be given: Turing completeness of prompting",2024-11-04,http://arxiv.org/abs/2411.01992,Ruizhong Qiu; Zhe Xu; Wenxuan Bao; Hanghang Tong
+Measure-to-measure interpolation using Transformers,2024-11-07,http://arxiv.org/abs/2411.04551,Borjan Geshkovski; Philippe Rigollet; Domènec Ruiz-Balet

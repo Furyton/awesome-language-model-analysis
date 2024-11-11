@@ -7,3 +7,4 @@ Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear
 "Theory, Analysis, and Best Practices for Sigmoid Self-Attention",2024-09-06,http://arxiv.org/abs/2409.04431,Jason Ramapuram; Federico Danieli; Eeshan Dhekane; Floris Weers; Dan Busbridge; Pierre Ablin; Tatiana Likhomanenko; Jagrit Digani; Zijin Gu; Amitis Shidani; Russ Webb
 "Autoregressive + Chain of Thought (CoT) ≃ Recurrent: Recurrence's Role in Language Models and a Revist of Recurrent Transformer",2024-09-14,http://arxiv.org/abs/2409.09239,Xiang Zhang; Muhammad Abdul-Mageed; Laks V.S. Lakshmanan
 Fundamental Limitations on Subquadratic Alternatives to Transformers,2024-10-05,http://arxiv.org/abs/2410.04271,Josh Alman; Hantao Yu
+kNN Attention Demystified: A Theoretical Exploration for Scalable Transformers,2024-11-06,http://arxiv.org/abs/2411.04013,Themistoklis Haris

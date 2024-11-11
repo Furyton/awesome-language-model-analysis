@@ -90,3 +90,5 @@ Bayesian scaling laws for in-context learning,2024-10-21,http://arxiv.org/abs/24
 Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks,2024-10-23,http://arxiv.org/abs/2410.17498,Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
 On the Role of Depth and Looping for In-Context Learning with Task Diversity,2024-10-29,http://arxiv.org/abs/2410.21698,Khashayar Gatmiry; Nikunj Saunshi; Sashank J. Reddi; Stefanie Jegelka; Sanjiv Kumar
 Toward Understanding In-context vs. In-weight Learning,2024-10-30,http://arxiv.org/abs/2410.23042,Bryan Chan; Xinyi Chen; András György; Dale Schuurmans
+Provable In-Context Learning with Transformers: A Case Study on Linear Regression,2024-11-04,http://arxiv.org/abs/2411.02199,Dake Bu; Wei Huang; Andi Han; Atsushi Nitanda; Taiji Suzuki; Qingfu Zhang; Hau-San Wong
+Pretrained transformer efficiently learns low-dimensional target functions in-context,2024-11-04,http://arxiv.org/abs/2411.02544,Kazusato Oko; Yujin Song; Taiji Suzuki; Denny Wu
