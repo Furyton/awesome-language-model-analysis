@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **535**
+- Total number of different papers: **550**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -29,6 +29,61 @@ You can also share your thoughts and discuss with others in the [Discussions](ht
 ---
 
 
+- **Measure-to-measure interpolation using Transformers** [[paper link]](http://arxiv.org/abs/2411.04551) 2024-11-07  
+Borjan Geshkovski; Philippe Rigollet; Domènec Ruiz-Balet
+
+
+
+- **kNN Attention Demystified: A Theoretical Exploration for Scalable Transformers** [[paper link]](http://arxiv.org/abs/2411.04013) 2024-11-06  
+Themistoklis Haris
+
+
+
+- **Towards Interpreting Language Models: A Case Study in Multi-Hop Reasoning** [[paper link]](http://arxiv.org/abs/2411.05037) 2024-11-06  
+Mansi Sakarvadia
+
+
+
+- **How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis** [[paper link]](http://arxiv.org/abs/2411.04105) 2024-11-06  
+Guan Zhe Hong; Nishanth Dikkala; Enming Luo; Cyrus Rashtchian; Xin Wang; Rina Panigrahy
+
+
+
+- **On the loss of context-awareness in general instruction fine-tuning** [[paper link]](http://arxiv.org/abs/2411.02688) 2024-11-05  
+Yihan Wang; Andrew Bai; Nanyun Peng; Cho-Jui Hsieh
+
+
+
+- **Generalization and Risk Bounds for Recurrent Neural Networks** [[paper link]](http://arxiv.org/abs/2411.02784) 2024-11-05  
+Xuewei Cheng; Ke Huang; Shujie Ma
+
+
+
+- **Provable In-Context Learning with Transformers: A Case Study on Linear Regression** [[paper link]](http://arxiv.org/abs/2411.02199) 2024-11-04  
+Dake Bu; Wei Huang; Andi Han; Atsushi Nitanda; Taiji Suzuki; Qingfu Zhang; Hau-San Wong
+
+
+
+- **Pretrained transformer efficiently learns low-dimensional target functions in-context** [[paper link]](http://arxiv.org/abs/2411.02544) 2024-11-04  
+Kazusato Oko; Yujin Song; Taiji Suzuki; Denny Wu
+
+
+
+- **Ask, and it shall be given: Turing completeness of prompting** [[paper link]](http://arxiv.org/abs/2411.01992) 2024-11-04  
+Ruizhong Qiu; Zhe Xu; Wenxuan Bao; Hanghang Tong
+
+
+
+- **Unlocking the Theory Behind Scaling 1-Bit Neural Networks** [[paper link]](http://arxiv.org/abs/2411.01663) 2024-11-03  
+Majid Daliri; Zhao Song; Chiwun Yang
+
+
+
+- **Provable Length Generalization in Sequence Prediction via Spectral Filtering** [[paper link]](http://arxiv.org/abs/2411.01035) 2024-11-01  
+Annie Marsden; Evan Dogariu; Naman Agarwal; Xinyi Chen; Daniel Suo; Elad Hazan
+
+
+
 - **What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective** [[paper link]](http://arxiv.org/abs/2410.23743) 2024-10-31  
 Ming Li; Yanhong Li; Tianyi Zhou
 
@@ -39,6 +94,11 @@ Seijin Kobayashi; Yassir Akram; Johannes Von Oswald
 
 
 
+- **RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner** [[paper link]](http://arxiv.org/abs/2410.23912) 2024-10-31  
+Fu-Chieh Chang; Yu-Ting Lee; Hui-Ying Shih; Pei-Yuan Wu
+
+
+
 - **Length-Induced Embedding Collapse in Transformer-based Models** [[paper link]](http://arxiv.org/abs/2410.24200) 2024-10-31  
 Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
 
@@ -46,6 +106,16 @@ Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
 
 - **Global Convergence in Training Large-Scale Transformers** [[paper link]](http://arxiv.org/abs/2410.23610) 2024-10-31  
 Cheng Gao; Yuan Cao; Zihao Li; Yihan He; Mengdi Wang; Han Liu; Jason Matthew Klusowski; Jianqing Fan
+
+
+
+- **Analyzing & Reducing the Need for Learning Rate Warmup in GPT Training** [[paper link]](http://arxiv.org/abs/2410.23922) 2024-10-31  
+Atli Kosson; Bettina Messmer; Martin Jaggi
+
+
+
+- **A Geometric Framework for Understanding Memorization in Generative Models** [[paper link]](http://arxiv.org/abs/2411.00113) 2024-10-31  
+Brendan Leigh Ross; Hamidreza Kamkari; Tongzi Wu; Rasa Hosseinzadeh; Zhaoyan Liu; George Stein; Jesse C. Cresswell; Gabriel Loaiza-Ganem
 
 
 
@@ -61,6 +131,11 @@ Yunwei Ren; Zixuan Wang; Jason D. Lee
 
 - **All or None: Identifiable Linear Properties of Next-token Predictors in Language Modeling** [[paper link]](http://arxiv.org/abs/2410.23501) 2024-10-30  
 Emanuele Marconato; Sébastien Lachapelle; Sebastian Weichwald; Luigi Gresele
+
+
+
+- **A Theoretical Perspective for Speculative Decoding Algorithm** [[paper link]](http://arxiv.org/abs/2411.00841) 2024-10-30  
+Ming Yin; Minshuo Chen; Kaixuan Huang; Mengdi Wang
 
 
 
