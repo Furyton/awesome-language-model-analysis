@@ -50,3 +50,5 @@ Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE
 A Hitchhiker's Guide to Scaling Law Estimation,2024-10-15,http://arxiv.org/abs/2410.11840,Leshem Choshen; Yang Zhang; Jacob Andreas
 How Does Critical Batch Size Scale in Pre-training?,2024-10-29,http://arxiv.org/abs/2410.21676,Hanlin Zhang; Depen Morwani; Nikhil Vyas; Jingfeng Wu; Difan Zou; Udaya Ghai; Dean Foster; Sham Kakade
 Unlocking the Theory Behind Scaling 1-Bit Neural Networks,2024-11-03,http://arxiv.org/abs/2411.01663,Majid Daliri; Zhao Song; Chiwun Yang
+Scaling Laws for Precision,2024-11-07,http://arxiv.org/abs/2411.04330,Tanishq Kumar; Zachary Ankner; Benjamin F. Spector; Blake Bordelon; Niklas Muennighoff; Mansheej Paul; Cengiz Pehlevan; Christopher Ré; Aditi Raghunathan
+Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data,2024-11-11,http://arxiv.org/abs/2411.06646,Alex Havrilla; Wenjing Liao

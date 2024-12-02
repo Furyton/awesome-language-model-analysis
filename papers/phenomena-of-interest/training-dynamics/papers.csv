@@ -50,3 +50,7 @@ Global Convergence in Training Large-Scale Transformers,2024-10-31,http://arxiv.
 What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,2024-10-31,http://arxiv.org/abs/2410.23743,Ming Li; Yanhong Li; Tianyi Zhou
 Learning and Transferring Sparse Contextual Bigrams with Linear Transformers,2024-10-30,http://arxiv.org/abs/2410.23438,Yunwei Ren; Zixuan Wang; Jason D. Lee
 Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs,2024-10-17,http://arxiv.org/abs/2410.13835,Tianyu Guo; Druv Pai; Yu Bai; Jiantao Jiao; Michael I. Jordan; Song Mei
+Unraveling the Gradient Descent Dynamics of Transformers,2024-11-12,http://arxiv.org/abs/2411.07538,Bingqing Song; Boran Han; Shuai Zhang; Jie Ding; Mingyi Hong
+What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?,2024-11-12,http://arxiv.org/abs/2411.07681,Katie Kang; Amrith Setlur; Dibya Ghosh; Jacob Steinhardt; Claire Tomlin; Sergey Levine; Aviral Kumar
+Gradient dynamics for low-rank fine-tuning beyond kernels,2024-11-23,http://arxiv.org/abs/2411.15385,Arif Kerem Dayi; Sitan Chen
+Training Dynamics of Transformers to Recognize Word Co-occurrence via Gradient Flow Analysis,2024-11-12,http://arxiv.org/abs/2410.09605,Hongru Yang; Bhavya Kailkhura; Zhangyang Wang; Yingbin Liang

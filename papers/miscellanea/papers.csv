@@ -86,3 +86,6 @@ Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficie
 Length-Induced Embedding Collapse in Transformer-based Models,2024-10-31,http://arxiv.org/abs/2410.24200,Yuqi Zhou; Sunhao Dai; Zhanshuo Cao; Xiao Zhang; Jun Xu
 A Theoretical Perspective for Speculative Decoding Algorithm,2024-10-30,http://arxiv.org/abs/2411.00841,Ming Yin; Minshuo Chen; Kaixuan Huang; Mengdi Wang
 Analyzing & Reducing the Need for Learning Rate Warmup in GPT Training,2024-10-31,http://arxiv.org/abs/2410.23922,Atli Kosson; Bettina Messmer; Martin Jaggi
+On the goals of linguistic theory: Revisiting Chomskyan theories in the era of AI,2024-11-15,http://arxiv.org/abs/2411.10533,Eva Portelance; Masoud Jasbi
+An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models,2024-11-26,http://arxiv.org/abs/2411.17182,Yunzhe Hu; Difan Zou; Dong Xu
+Fine-grained Attention I/O Complexity: Comprehensive Analysis for Backward Passes,2024-10-12,http://arxiv.org/abs/2410.09397,Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song; Yufa Zhou

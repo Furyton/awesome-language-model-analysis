@@ -92,3 +92,7 @@ On the Role of Depth and Looping for In-Context Learning with Task Diversity,202
 Toward Understanding In-context vs. In-weight Learning,2024-10-30,http://arxiv.org/abs/2410.23042,Bryan Chan; Xinyi Chen; András György; Dale Schuurmans
 Provable In-Context Learning with Transformers: A Case Study on Linear Regression,2024-11-04,http://arxiv.org/abs/2411.02199,Dake Bu; Wei Huang; Andi Han; Atsushi Nitanda; Taiji Suzuki; Qingfu Zhang; Hau-San Wong
 Pretrained transformer efficiently learns low-dimensional target functions in-context,2024-11-04,http://arxiv.org/abs/2411.02544,Kazusato Oko; Yujin Song; Taiji Suzuki; Denny Wu
+Adversarial Robustness of In-Context Learning in Transformers for Linear Regression,2024-11-07,http://arxiv.org/abs/2411.05189,Usman Anwar; Johannes Von Oswald; Louis Kirsch; David Krueger; Spencer Frei
+Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training,2024-11-25,http://arxiv.org/abs/2411.16549,Weimin Wu; Maojiang Su; Jerry Yao-Chieh Hu; Zhao Song; Han Liu
+Can a Large Language Model Learn Matrix Functions In Context?,2024-11-24,http://arxiv.org/abs/2411.15675,Paimon Goulart; Evangelos E. Papalexakis
+Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models,2024-11-13,http://arxiv.org/abs/2410.09701,Chengshuai Shi; Kun Yang; Jing Yang; Cong Shen

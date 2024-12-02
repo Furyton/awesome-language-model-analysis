@@ -24,3 +24,5 @@ One-layer transformers fail to solve the induction heads task,2024-08-26,http://
 Self-Attention Limits Working Memory Capacity of Transformer-Based Models,2024-09-16,http://arxiv.org/abs/2409.10715,Dongyu Gong; Hantao Zhang
 How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs,2024-10-17,http://arxiv.org/abs/2410.13857,Guhao Feng; Kai Yang; Yuntian Gu; Xinyue Ai; Shengjie Luo; Jiacheng Sun; Di He; Zhenguo Li; Liwei Wang
 On the Ability and Limitations of Transformers to Recognize Formal Languages,2020-09-23,http://arxiv.org/abs/2009.11264,Satwik Bhattamishra; Kabir Ahuja; Navin Goyal
+Circuit Complexity Bounds for RoPE-based Transformer Architecture,2024-11-12,http://arxiv.org/abs/2411.07602,Bo Chen; Xiaoyu Li; Yingyu Liang; Jiangxuan Long; Zhenmei Shi; Zhao Song
+Consistent Bidirectional Language Modelling: Expressive Power and Representational Conciseness,2024-11,http://aclanthology.org/2024.emnlp-main.328,Georgi Shopov; Stefan Gerdjikov

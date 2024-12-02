@@ -55,3 +55,5 @@ Mixture of Parrots: Experts improve memorization more than reasoning,2024-10-24,
 RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner,2024-10-31,http://arxiv.org/abs/2410.23912,Fu-Chieh Chang; Yu-Ting Lee; Hui-Ying Shih; Pei-Yuan Wu
 Generalization and Risk Bounds for Recurrent Neural Networks,2024-11-05,http://arxiv.org/abs/2411.02784,Xuewei Cheng; Ke Huang; Shujie Ma
 Provable Length Generalization in Sequence Prediction via Spectral Filtering,2024-11-01,http://arxiv.org/abs/2411.01035,Annie Marsden; Evan Dogariu; Naman Agarwal; Xinyi Chen; Daniel Suo; Elad Hazan
+What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?,2024-11-12,http://arxiv.org/abs/2411.07681,Katie Kang; Amrith Setlur; Dibya Ghosh; Jacob Steinhardt; Claire Tomlin; Sergey Levine; Aviral Kumar
+An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models,2024-11-26,http://arxiv.org/abs/2411.17182,Yunzhe Hu; Difan Zou; Dong Xu
