@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **550**
+- Total number of different papers: **571**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -29,8 +29,98 @@ You can also share your thoughts and discuss with others in the [Discussions](ht
 ---
 
 
+- **An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models** [[paper link]](http://arxiv.org/abs/2411.17182) 2024-11-26  
+Yunzhe Hu; Difan Zou; Dong Xu
+
+
+
+- **Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training** [[paper link]](http://arxiv.org/abs/2411.16549) 2024-11-25  
+Weimin Wu; Maojiang Su; Jerry Yao-Chieh Hu; Zhao Song; Han Liu
+
+
+
+- **Fundamental Limits of Prompt Tuning Transformers: Universality, Capacity and Efficiency** [[paper link]](http://arxiv.org/abs/2411.16525) 2024-11-25  
+Jerry Yao-Chieh Hu; Wei-Po Wang; Ammar Gilani; Chenyang Li; Zhao Song; Han Liu
+
+
+
+- **Can a Large Language Model Learn Matrix Functions In Context?** [[paper link]](http://arxiv.org/abs/2411.15675) 2024-11-24  
+Paimon Goulart; Evangelos E. Papalexakis
+
+
+
+- **Gradient dynamics for low-rank fine-tuning beyond kernels** [[paper link]](http://arxiv.org/abs/2411.15385) 2024-11-23  
+Arif Kerem Dayi; Sitan Chen
+
+
+
+- **Rethinking Thinking Tokens: Understanding Why They Underperform in Practice** [[paper link]](http://arxiv.org/abs/2411.11371) 2024-11-18  
+Sreeram Vennam; David Valente; David Herel; Ponnurangam Kumaraguru
+
+
+
+- **Mechanism and Emergence of Stacked Attention Heads in Multi-Layer Transformers** [[paper link]](http://arxiv.org/abs/2411.12118) 2024-11-18  
+Tiberiu Musat
+
+
+
+- **On the goals of linguistic theory: Revisiting Chomskyan theories in the era of AI** [[paper link]](http://arxiv.org/abs/2411.10533) 2024-11-15  
+Eva Portelance; Masoud Jasbi
+
+
+
+- **On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse** [[paper link]](http://arxiv.org/abs/2411.09642) 2024-11-14  
+Alkis Kalavasis; Anay Mehrotra; Grigoris Velegkas
+
+
+
+- **Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models** [[paper link]](http://arxiv.org/abs/2410.09701) 2024-11-13  
+Chengshuai Shi; Kun Yang; Jing Yang; Cong Shen
+
+
+
+- **Theoretical Analysis of Byte-Pair Encoding** [[paper link]](http://arxiv.org/abs/2411.08671) 2024-11-13  
+László Kozma; Johannes Voderholzer
+
+
+
+- **What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?** [[paper link]](http://arxiv.org/abs/2411.07681) 2024-11-12  
+Katie Kang; Amrith Setlur; Dibya Ghosh; Jacob Steinhardt; Claire Tomlin; Sergey Levine; Aviral Kumar
+
+
+
+- **Unraveling the Gradient Descent Dynamics of Transformers** [[paper link]](http://arxiv.org/abs/2411.07538) 2024-11-12  
+Bingqing Song; Boran Han; Shuai Zhang; Jie Ding; Mingyi Hong
+
+
+
+- **Training Dynamics of Transformers to Recognize Word Co-occurrence via Gradient Flow Analysis** [[paper link]](http://arxiv.org/abs/2410.09605) 2024-11-12  
+Hongru Yang; Bhavya Kailkhura; Zhangyang Wang; Yingbin Liang
+
+
+
+- **Circuit Complexity Bounds for RoPE-based Transformer Architecture** [[paper link]](http://arxiv.org/abs/2411.07602) 2024-11-12  
+Bo Chen; Xiaoyu Li; Yingyu Liang; Jiangxuan Long; Zhenmei Shi; Zhao Song
+
+
+
+- **Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data** [[paper link]](http://arxiv.org/abs/2411.06646) 2024-11-11  
+Alex Havrilla; Wenjing Liao
+
+
+
+- **Scaling Laws for Precision** [[paper link]](http://arxiv.org/abs/2411.04330) 2024-11-07  
+Tanishq Kumar; Zachary Ankner; Benjamin F. Spector; Blake Bordelon; Niklas Muennighoff; Mansheej Paul; Cengiz Pehlevan; Christopher Ré; Aditi Raghunathan
+
+
+
 - **Measure-to-measure interpolation using Transformers** [[paper link]](http://arxiv.org/abs/2411.04551) 2024-11-07  
 Borjan Geshkovski; Philippe Rigollet; Domènec Ruiz-Balet
+
+
+
+- **Adversarial Robustness of In-Context Learning in Transformers for Linear Regression** [[paper link]](http://arxiv.org/abs/2411.05189) 2024-11-07  
+Usman Anwar; Johannes Von Oswald; Louis Kirsch; David Krueger; Spencer Frei
 
 
 
@@ -81,6 +171,11 @@ Majid Daliri; Zhao Song; Chiwun Yang
 
 - **Provable Length Generalization in Sequence Prediction via Spectral Filtering** [[paper link]](http://arxiv.org/abs/2411.01035) 2024-11-01  
 Annie Marsden; Evan Dogariu; Naman Agarwal; Xinyi Chen; Daniel Suo; Elad Hazan
+
+
+
+- **Consistent Bidirectional Language Modelling: Expressive Power and Representational Conciseness** [[paper link]](http://aclanthology.org/2024.emnlp-main.328) 2024-11  
+Georgi Shopov; Stefan Gerdjikov
 
 
 
@@ -301,6 +396,16 @@ Leshem Choshen; Yang Zhang; Jacob Andreas
 
 - **What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis** [[paper link]](http://arxiv.org/abs/2410.10986) 2024-10-14  
 Weronika Ormaniec; Felix Dangel; Sidak Pal Singh
+
+
+
+- **Fine-grained Attention I/O Complexity: Comprehensive Analysis for Backward Passes** [[paper link]](http://arxiv.org/abs/2410.09397) 2024-10-12  
+Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song; Yufa Zhou
+
+
+
+- **Transformers Provably Solve Parity Efficiently with Chain of Thought** [[paper link]](http://arxiv.org/abs/2410.08633) 2024-10-11  
+Juno Kim; Taiji Suzuki
 
 
 
