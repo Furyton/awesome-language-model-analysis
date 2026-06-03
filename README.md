@@ -13,7 +13,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **571**
+- Total number of different papers: **572**
 - For more detailed statistics, please refer to the end of this page.
 
 If you have any suggestions or want to contribute, please feel free to open an issue or a pull request.
@@ -752,6 +752,11 @@ Papers exploring how model performance scales with model size, data size, or com
 <details open>
 <summary><em>paper list (click to fold / unfold)</em></summary>
 <br>
+
+- **Phase Transitions in Large Language Models and the $O(N)$ Model** [[paper link]](http://arxiv.org/abs/2501.16241) 2025-01-27  
+Youran Sun; Babak Haghighat
+
+
 
 - **Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data** [[paper link]](http://arxiv.org/abs/2411.06646) 2024-11-11  
 Alex Havrilla; Wenjing Liao
@@ -3421,7 +3426,7 @@ Samet Oymak; Ankit Singh Rawat; Mahdi Soltanolkotabi; Christos Thrampoulidis
 
   - Reversal Curse: *5*
 
-  - Scaling Laws / Emergent Abilities / Grokking / etc.: *52*
+  - Scaling Laws / Emergent Abilities / Grokking / etc.: *53*
 
   - Knowledge / Memory Mechanisms: *30*
 

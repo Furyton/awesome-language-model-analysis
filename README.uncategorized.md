@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **571**
+- Total number of different papers: **572**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,11 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **Phase Transitions in Large Language Models and the $O(N)$ Model** [[paper link]](http://arxiv.org/abs/2501.16241) 2025-01-27  
+Youran Sun; Babak Haghighat
+
 
 
 - **An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models** [[paper link]](http://arxiv.org/abs/2411.17182) 2024-11-26  
