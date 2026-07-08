@@ -8,9 +8,16 @@ import csv
 import logging
 import argparse
 
+import openai
+
 from constant import ROOT, GPT_KEY
 from classifier import categorize_paper
 from pending_queue import load_pending, rewrite_pending
+
+# Errors that mean "the whole setup is broken" (bad key, no credit, etc.) --
+# stop immediately rather than burning through the rest of the batch making
+# the same failed call over and over.
+FATAL_ERROR_TYPES = (openai.AuthenticationError, openai.PermissionDeniedError)
 
 
 def classify_all(limit=None, dry_run=False):
@@ -31,19 +38,27 @@ def classify_all(limit=None, dry_run=False):
 
     classified_count = 0
     dropped_count = 0
+    error_count = 0
 
     for i, paper in enumerate(to_process):
         title = paper["Title"]
         try:
             categories = categorize_paper(title, paper.get("Abstract", ""))
-        except Exception as e:
+        except FATAL_ERROR_TYPES as e:
             logging.error(f"Classification failed on '{title}': {e}")
             logging.warning(
-                f"Stopping early; {len(to_process) - i} + {len(remaining)} "
-                "paper(s) remain pending for the next run."
+                f"This looks like a broken key/credentials, not a one-off -- stopping early. "
+                f"{len(to_process) - i} + {len(remaining)} paper(s) remain pending for the next run."
             )
             remaining = to_process[i:] + remaining
             break
+        except Exception as e:
+            # transient/one-off failure (rate limit, timeout, bad response for
+            # this one paper) -- skip it and keep going, don't lose the batch
+            logging.warning(f"Skipping '{title}' after error: {e}")
+            error_count += 1
+            remaining.append(paper)
+            continue
 
         if not categories:
             logging.info(f"Dropped (not in scope): {title}")
@@ -75,7 +90,7 @@ def classify_all(limit=None, dry_run=False):
 
     logging.info(
         f"Done. Classified: {classified_count}, dropped: {dropped_count}, "
-        f"still pending: {len(remaining)}"
+        f"errors (retrying next run): {error_count}, still pending: {len(remaining)}"
     )
 
 

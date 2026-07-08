@@ -67,7 +67,7 @@ jobs:
           GPT_API_BASE: ${{ secrets.GPT_API_BASE }}
           GPT_KEY: ${{ secrets.GPT_KEY }}
           GPT_MODEL: ${{ secrets.GPT_MODEL }}
-        run: python classify_pending.py --limit 80 --debug
+        run: python classify_pending.py --limit 400 --debug
 
       - name: Generate README
         run: python generate_readme.py

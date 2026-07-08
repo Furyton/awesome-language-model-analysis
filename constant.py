@@ -15,7 +15,11 @@ if os.path.exists("debug_secret.json"):
 
 
 def _env(name, default=None):
-    return os.environ.get(name, default)
+    # GitHub Actions turns `env: X: ${{ secrets.X }}` into X="" when the
+    # secret doesn't exist (not "unset"), so treat empty string as unset too
+    # -- otherwise a missing optional secret silently overrides our default.
+    value = os.environ.get(name)
+    return value if value else default
 
 
 # --- LLM classification (OpenAI-compatible; DeepSeek, OpenAI, etc.) ---
