@@ -16,7 +16,7 @@ Limitations of this list:
 - Some popular topics are not well-covered yet, such as mechanistic engineering, probing, and interpretability.
 
 Statistics of This paper list:
-- Total number of different papers: **572**
+- Total number of different papers: **664**
 - For more detailed statistics, please refer to the end of this page.
 
 
@@ -27,6 +27,466 @@ For details on how to contribute, please refer to the [contribution guidelines](
 You can also share your thoughts and discuss with others in the [Discussions](https://github.com/Furyton/awesome-language-model-analysis/discussions).
 
 ---
+
+
+- **When Does Tool Use Increase the Expressive Power of Finite-Precision Recurrent Models?** [[paper link]](http://arxiv.org/abs/2607.06155v1) 2026-07-07  
+Nikola Zubić;Qian Li;Yuyi Wang;Davide Scaramuzza
+
+
+
+- **Quantitative Gaussian-Process limits of Tensor Programs** [[paper link]](http://arxiv.org/abs/2607.06290v1) 2026-07-07  
+Andrea Agazzi;Eloy Mosig García;Dario Trevisan
+
+
+
+- **No Subspace to Track: Non-Identifiability and Optimizer State in Low-Rank Training** [[paper link]](http://arxiv.org/abs/2607.05872v1) 2026-07-07  
+Noel Thomas
+
+
+
+- **From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution** [[paper link]](http://arxiv.org/abs/2607.06269v1) 2026-07-07  
+Heting Mao
+
+
+
+- **What Does a Discrete Diffusion Model Learn?** [[paper link]](http://arxiv.org/abs/2607.05381v1) 2026-07-06  
+Rodrigo Casado Noguerales;Bernhard Schölkopf;Thomas Hofmann;Aran Raoufi
+
+
+
+- **Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment** [[paper link]](http://arxiv.org/abs/2607.04728v1) 2026-07-06  
+Yu Li;Xiuyu Li;Mingyang Yi;Jiaxing Wang; zhangliangxu;Zhaolong Xing;Zhen Chen
+
+
+
+- **Trust Region Policy Distillation** [[paper link]](http://arxiv.org/abs/2607.04751v1) 2026-07-06  
+Zhengpeng Xie;Li Lyna Zhang;Zeke Xie;Mao Yang
+
+
+
+- **The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment** [[paper link]](http://arxiv.org/abs/2607.05552v1) 2026-07-06  
+Haonan Huang
+
+
+
+- **Uncertainty-Aware Abstention in Large Language Models with Provable Alignment Guarantees** [[paper link]](http://arxiv.org/abs/2607.04430v1) 2026-07-05  
+Sijin Dong;Hiroyuki Shinnou
+
+
+
+- **Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation** [[paper link]](http://arxiv.org/abs/2607.04432v1) 2026-07-05  
+Kargi Chauhan;Aditya Shah
+
+
+
+- **A Unified Framework for In-Context Learning with Causal and Masked Language Models** [[paper link]](http://arxiv.org/abs/2607.04081v1) 2026-07-05  
+Chenrui Liu;Chuanlong Xie;Falong Tan;Yicheng Zeng;Lixing Zhu
+
+
+
+- **Social Networks of LLM Agents** [[paper link]](http://arxiv.org/abs/2607.03695v1) 2026-07-04  
+Kaixuan Liu;Guojun Xiong;Weinan Zhang;Shengpu Tang
+
+
+
+- **Sequential Correlations Change In-Context Learning: Effective Context Length and Architectural Mismatch** [[paper link]](http://arxiv.org/abs/2607.03660v1) 2026-07-04  
+Mary Letey;Yue M. Lu;Cengiz Pehlevan;Jacob Zavatone-Veth
+
+
+
+- **Unbiased Alignment for Large Language Models with Noisy Preferences** [[paper link]](http://arxiv.org/abs/2607.03248v1) 2026-07-03  
+Jialiang Wang;Xianming Liu;Xiong Zhou;Hui Liu;Haoliang Li
+
+
+
+- **Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence** [[paper link]](http://arxiv.org/abs/2607.05436v1) 2026-07-03  
+Bing Cheng;Yi-Shuai Niu;Howell Tong;Shing-Tung Yau
+
+
+
+- **Statistically Meaningful Geometry (SMG) Beyond the Euclidean Paradigm, with Application to Generative AI** [[paper link]](http://arxiv.org/abs/2607.03329v1) 2026-07-03  
+Bing Cheng;Yi-Shuai Niu;Howell Tong;Shing-Tung Yau
+
+
+
+- **Spectral Signatures of Large Language Models** [[paper link]](http://arxiv.org/abs/2607.03377v1) 2026-07-03  
+Zhuoying Zhang;Ishan V. Prasad;Yuanzhe Hu;Zihang Liu;Hengrui Luo;Pu Ren;Yaoqing Yang
+
+
+
+- **How Much of the Routing Gap Is Real? Decomposing the Router-to-Oracle Gap into Reproducible Specialist Advantage and Single-Draw Label Noise** [[paper link]](http://arxiv.org/abs/2607.03436v2) 2026-07-03  
+Teng-Ruei Chen
+
+
+
+- **Best-of-Better-$N$: Generating Pre-Aligned Responses with In-Context Learning** [[paper link]](http://arxiv.org/abs/2607.03453v1) 2026-07-03  
+Eric Lei;Hsiang Hsu;Chun-Fu Chen
+
+
+
+- **Safe Inference-Time Alignment via Lagrangian Reward Augmentation** [[paper link]](http://arxiv.org/abs/2607.02781v1) 2026-07-02  
+Yaswanth Chittepu;Ativ Joshi;Sohini Chintala;Scott Niekum
+
+
+
+- **Induction Heads Interpolate N-Grams** [[paper link]](http://arxiv.org/abs/2607.02800v1) 2026-07-02  
+Francesco D'Angelo;Oguz Kaan Yuksel;Swathi Shree Narashiman;Nicolas Flammarion
+
+
+
+- **Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness** [[paper link]](http://arxiv.org/abs/2607.01571v1) 2026-07-02  
+Aria Masoomi;Mahsa Bazzaz;Adel Javanmard;Vahab Mirrokni
+
+
+
+- **DemoPSD: Disagreement-Modulated Policy Self-Distillation** [[paper link]](http://arxiv.org/abs/2607.02502v2) 2026-07-02  
+Yunhe Li;Hao Shi;Wenhao Liu;Mengzhe Ruan;Hanxu Hou;Zhongxiang Dai;Shuang Qiu;Linqi Song
+
+
+
+- **ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces** [[paper link]](http://arxiv.org/abs/2607.01125v1) 2026-07-01  
+Xun Dong;Yibo Xu;Naigang Wang;Xin Li;Penghang Yin;Zi Yang
+
+
+
+- **The risk of KV cache compression** [[paper link]](http://arxiv.org/abs/2607.01520v1) 2026-07-01  
+Lukas Haverbeck;Carmen Amo Alonso;Andres Felipe Posada-Moreno;Sebastian Trimpe;Marco Pavone
+
+
+
+- **Shapley in Context: Explaining Financial Language with Domain Expertise** [[paper link]](http://arxiv.org/abs/2607.00856v1) 2026-07-01  
+Dangxing Chen;Pengzhan Guo
+
+
+
+- **Measuring Dead Directions: Decomposing and Classifying Singular Structure off Canonical Alignment** [[paper link]](http://arxiv.org/abs/2607.00603v1) 2026-07-01  
+Tejas Pradeep Shirodkar
+
+
+
+- **Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization** [[paper link]](http://arxiv.org/abs/2607.00479v1) 2026-07-01  
+Peilin Liu;Ding-Xuan Zhou
+
+
+
+- **From Approximation to Emergence: A Theory of Deep Learning** [[paper link]](http://arxiv.org/abs/2607.01311v1) 2026-07-01  
+Zhilin Zhao
+
+
+
+- **Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation** [[paper link]](http://arxiv.org/abs/2607.01208v1) 2026-07-01  
+Shayan Talaei;Abhinav Chinta;Devvrit Khatri;Amin Karbasi;Azalia Mirhoseini;Amin Saberi
+
+
+
+- **Transformers as Bayesian In-Context Experimenters: Smoothness-Adaptive Efficient ATE Estimation** [[paper link]](http://arxiv.org/abs/2606.31184v1) 2026-06-30  
+Jiachun Li;David Simchi-Levi
+
+
+
+- **SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models** [[paper link]](http://arxiv.org/abs/2606.32022v1) 2026-06-30  
+Jian Gu;Aldeida Aleti;Chunyang Chen;Hongyu Zhang
+
+
+
+- **Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization** [[paper link]](http://arxiv.org/abs/2606.32000v1) 2026-06-30  
+Srijan Tiwari;Aditya Chauhan;Manjot Singh
+
+
+
+- **Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR** [[paper link]](http://arxiv.org/abs/2606.31813v1) 2026-06-30  
+Ruijia Zhang;Jiacheng Zhu;Hanqing Zhu;Laixi Shi
+
+
+
+- **GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity** [[paper link]](http://arxiv.org/abs/2607.00152v1) 2026-06-30  
+Yong Yi Bay;Kathleen A. Yearick
+
+
+
+- **CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield** [[paper link]](http://arxiv.org/abs/2606.31796v1) 2026-06-30  
+Dohyeon Kwon;Youngjin Park
+
+
+
+- **Why Do Few-Step Text Latents Fail When Image Latents Work? Non-Commitment at Sharp Categorical Readouts** [[paper link]](http://arxiv.org/abs/2606.30705v1) 2026-06-29  
+Zhongyao Wang
+
+
+
+- **When Is a Draft Accepted? A Theory of Acceptance in Speculative Decoding** [[paper link]](http://arxiv.org/abs/2606.30265v1) 2026-06-29  
+Aaryam Sharma
+
+
+
+- **When Calibration Rankings Reverse: Accuracy-Controlled Evaluation for Fair Comparison of LLMs** [[paper link]](http://arxiv.org/abs/2606.30814v1) 2026-06-29  
+Zhichao Yang;Caiqi Zhang;Ruihan Yang;Chengzu Li;Nigel Collier;Deqing Yang
+
+
+
+- **Transformer Architectures as Complete Bayes Processes: A Formal Proof in the Measure-Theoretic Kernel Framework** [[paper link]](http://arxiv.org/abs/2606.30440v1) 2026-06-29  
+Haobo Yang
+
+
+
+- **Smooth Scaling Laws Hide Stepwise Token Learning** [[paper link]](http://arxiv.org/abs/2606.29858v1) 2026-06-29  
+Pingjie Wang;Zechen Hu;Peiru Yang;Fu Guo;Debing Zhang
+
+
+
+- **Revocable Learned State via Process Sidecars** [[paper link]](http://arxiv.org/abs/2606.30788v1) 2026-06-29  
+John Sweeney
+
+
+
+- **Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms** [[paper link]](http://arxiv.org/abs/2606.30625v1) 2026-06-29  
+Ziwei Su;Junyu Ren;Victor Veitch
+
+
+
+- **Online Data Selection for Instruction Tuning via Gaussian Processes** [[paper link]](http://arxiv.org/abs/2606.30077v1) 2026-06-29  
+Jun Wang;Quoc Phong Nguyen;Julien Monteil;Vu Nguyen
+
+
+
+- **MuonSSM: Orthogonalizing State Space Models for Sequence Modeling** [[paper link]](http://arxiv.org/abs/2606.30461v1) 2026-06-29  
+Thai-Khanh Nguyen;Ngoc-Bich-Uyen Vo;Thieu N. Vo;Tan M. Nguyen;Cuong Pham
+
+
+
+- **IG-Lens: Exact Additive Probability Attribution Across Transformer Layers via Telescoping Integrated Gradients** [[paper link]](http://arxiv.org/abs/2606.29693v2) 2026-06-29  
+Duc Anh Nguyen
+
+
+
+- **Grounding LLM Reasoning under Incomplete Graph Evidence** [[paper link]](http://arxiv.org/abs/2606.30247v1) 2026-06-29  
+Jiaqi Li;Fanghui Song
+
+
+
+- **Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback** [[paper link]](http://arxiv.org/abs/2606.30923v1) 2026-06-29  
+Ved Sriraman;Peihan Liu;Daniel Hsu;Adam Block
+
+
+
+- **A Stochastic--Geometric Theory of Scaling Laws in Grokking** [[paper link]](http://arxiv.org/abs/2606.30388v2) 2026-06-29  
+Róisín Luo;Christian Gagné;Jonas Ngnawé;Ihsan Ullah;Karyn Morrissey
+
+
+
+- **On the Policy Gradient Foundations of Group Relative Policy Optimization: Credit Assignment, Gradient Sparsity, and Rank Collapse** [[paper link]](http://arxiv.org/abs/2606.29238v1) 2026-06-28  
+Amritansh Mishra;Supriyo Chakraborty;Berkcan Kapusuzoglu
+
+
+
+- **On the Nonlinearity of Learning Rate Scaling for LLM Training** [[paper link]](http://arxiv.org/abs/2606.29158v1) 2026-06-28  
+Zaiwen Yang;Huaqing Zhang;Jing Xu;Jingzhao Zhang
+
+
+
+- **Generalization Analysis of Transformers in Distribution Regression** [[paper link]](http://arxiv.org/abs/2606.29256v1) 2026-06-28  
+Peilin Liu;Ding-Xuan Zhou
+
+
+
+- **Exploring the Cryptographic Limits of Transformer Networks** [[paper link]](http://arxiv.org/abs/2606.29389v1) 2026-06-28  
+Stefan Domunco;Andis Draguns;Philip Torr;Isaac Robinson;Christian Schroeder de Witt
+
+
+
+- **Dead-Direction Conditioners: Gauge-Equivariant Preconditioning for Deep Networks** [[paper link]](http://arxiv.org/abs/2606.29176v1) 2026-06-28  
+Tejas Pradeep Shirodkar
+
+
+
+- **Adaptive Block Diffusion: Resolving Training-Inference Mismatch in Diffusion Language Models** [[paper link]](http://arxiv.org/abs/2606.29275v1) 2026-06-28  
+Gagan Jain
+
+
+
+- **When Can Conformal Risk Control Certify LLM Outputs? Bounds, Impossibility, and Adaptation for Structured Generation** [[paper link]](http://arxiv.org/abs/2606.29054v1) 2026-06-27  
+Varun Kotte
+
+
+
+- **A Theoretical Interpretation of In-Context Learning via Probabilistic Modeling** [[paper link]](http://arxiv.org/abs/2606.28926v1) 2026-06-27  
+Zhenyu Liu;Huaze Tang;Shao-Lun Huang
+
+
+
+- **What LLMs explain is not what they believe: Evaluating explanation sufficiency under models' own input beliefs** [[paper link]](http://arxiv.org/abs/2606.28615v1) 2026-06-26  
+Nhi Nguyen;Shauli Ravfogel;Rajesh Ranganath
+
+
+
+- **Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models** [[paper link]](http://arxiv.org/abs/2606.28273v1) 2026-06-26  
+Niclas Lietzow;Danielle Bitterman;Carsten Eickhoff;William Rudman;Michal Golovanevsky
+
+
+
+- **The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment** [[paper link]](http://arxiv.org/abs/2606.27739v1) 2026-06-26  
+Tianyu Jia;Yue Fang;Hongxin Ding;Rihong Qiu;Zhibang Yang;Zhijing Wu;Xu Chu;Junfeng Zhao;Yasha Wang
+
+
+
+- **Spectral Perturbation of the Empirical Fisher Information Matrix under Weight Quantization** [[paper link]](http://arxiv.org/abs/2606.28432v1) 2026-06-26  
+Rahid Zahid Alekberli;Hikmat Karimov
+
+
+
+- **Reasoning Quality Emerges Early: Data Curation for Reasoning Models** [[paper link]](http://arxiv.org/abs/2606.26797v1) 2026-06-25  
+Hongyi Henry Jin;Wenhan Yang;Meysam Ghaffari;Carlos Morato;Baharan Mirzasoleiman
+
+
+
+- **On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models** [[paper link]](http://arxiv.org/abs/2606.27567v1) 2026-06-25  
+Dewank Pant;Shruti Lohani;Avijit Kumar
+
+
+
+- **Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement** [[paper link]](http://arxiv.org/abs/2606.27409v1) 2026-06-25  
+Igor Itkin
+
+
+
+- **Cascaded Multi-Granularity Pruning for On-Device LLM Inference in Industrial IoT** [[paper link]](http://arxiv.org/abs/2606.26861v1) 2026-06-25  
+Jinghan Wang;Yanjun Chen;Wei Zhang;Xiaotong Huang;Tianchen Liu;Gaoliang Peng
+
+
+
+- **CascadeFormer: Depth-Tapered Transformers Motivated by Gradient Fan-in Asymmetry** [[paper link]](http://arxiv.org/abs/2606.26538v1) 2026-06-25  
+Huzama Ahmad;Cao Viet Hai Nam;Se-Young Yun
+
+
+
+- **CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention** [[paper link]](http://arxiv.org/abs/2606.27229v3) 2026-06-25  
+Sayak Dutta
+
+
+
+- **Weave of Formal Thought** [[paper link]](http://arxiv.org/abs/2606.25987v1) 2026-06-24  
+Alexandre Bouayad
+
+
+
+- **On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity** [[paper link]](http://arxiv.org/abs/2606.26091v1) 2026-06-24  
+Andrei Liviu Nicolicioiu;Mohammad Pezeshki;Aaron Courville
+
+
+
+- **Learning with a Single Rollout via Monte Carlo Pass@k Critic** [[paper link]](http://arxiv.org/abs/2606.25451v1) 2026-06-24  
+Fengdi Che;Yang Liu;Lei Yu;Meng Cao;Tong Che;Rupam Mahmood;Dale Schuurmans
+
+
+
+- **Why Do Accumulated Transformations Extrapolate?** [[paper link]](http://arxiv.org/abs/2606.24975v1) 2026-06-23  
+Mahesh Godavarti
+
+
+
+- **Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models** [[paper link]](http://arxiv.org/abs/2606.25086v2) 2026-06-23  
+Kwok Chun Au;Adam Block
+
+
+
+- **Parallel Manifold Steering: Efficient Adaptation of Large Associative Memories via Residual Energy Shaping** [[paper link]](http://arxiv.org/abs/2606.24396v1) 2026-06-23  
+Kanishk Awadhiya
+
+
+
+- **Internal Data Repetition Destroys Language Models** [[paper link]](http://arxiv.org/abs/2606.24998v1) 2026-06-23  
+Jessica Chudnovsky;Joshua Kazdan;Noam Levi;Rylan Schaeffer;Yegor Denisov-Blanch;Bo He;Mehmet Donmez;Sanmi Koyejo;David Donoho
+
+
+
+- **Evidence for feature-specific error correction in LLMs** [[paper link]](http://arxiv.org/abs/2606.24964v1) 2026-06-23  
+Francisco Ferreira da Silva;Stefan Heimersheim
+
+
+
+- **Curvature-Guided Mixing for MLLM Adaptation** [[paper link]](http://arxiv.org/abs/2606.24963v1) 2026-06-23  
+Jinglong Yang;Jiaxuan He;Wenjian Huang;Zhan Zhuang;Jianguo Zhang
+
+
+
+- **Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models** [[paper link]](http://arxiv.org/abs/2606.23567v1) 2026-06-22  
+Jiawei Xu;Minghui Liu;Aakriti Agrawal;Yifan Chen;Furong Huang
+
+
+
+- **SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression** [[paper link]](http://arxiv.org/abs/2606.23568v1) 2026-06-22  
+Mahmoud Safari;Frank Hutter
+
+
+
+- **Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently** [[paper link]](http://arxiv.org/abs/2606.22938v1) 2026-06-22  
+Stanley Wei;Juno Kim
+
+
+
+- **Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?** [[paper link]](http://arxiv.org/abs/2606.23676v1) 2026-06-22  
+Dingzhi Yu;Hongyi Tao;Yuanyu Wan;Luo Luo;Lijun Zhang
+
+
+
+- **On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners** [[paper link]](http://arxiv.org/abs/2606.23668v1) 2026-06-22  
+David Mguni;Julian Ma;Jun Wang
+
+
+
+- **Forget Without Compromise: Nexus Sampling for Streaming KV-Cache Eviction Under Fixed Budgets** [[paper link]](http://arxiv.org/abs/2606.23961v1) 2026-06-22  
+Duc Duong;Hoang Anh Duy Le;Jianwen Xie;Anshumali Shrivastava;Zhaozhuo Xu
+
+
+
+- **Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime** [[paper link]](http://arxiv.org/abs/2606.23364v1) 2026-06-22  
+Yuqing Wang
+
+
+
+- **A First-Order Mean Field Control Analysis of Transformer Layers under Cross-Entropy Training** [[paper link]](http://arxiv.org/abs/2606.23235v1) 2026-06-22  
+Cheng Huan;Hongwei Yuan
+
+
+
+- **What are Key Factors for Updates in RL for LLM Reasoning?** [[paper link]](http://arxiv.org/abs/2606.22570v1) 2026-06-21  
+Peidong Wang;Demi Wang;Xufang Luo;Jiahang Xu;Xiaocui Yang;Shi Feng;Yuqing Yang;Dongsheng Li
+
+
+
+- **On the Position Bias of On-Policy Distillation** [[paper link]](http://arxiv.org/abs/2606.22600v3) 2026-06-21  
+Yan Xie;Sijie Zhu;Tiansheng Wen;Bo Chen;Yifei Wang
+
+
+
+- **Asymptotic Signal Subspace Recovery in Softmax Attention Models** [[paper link]](http://arxiv.org/abs/2606.22406v2) 2026-06-21  
+Lan V. Truong
+
+
+
+- **Pre-Generation Hallucination Detection in Large Language Models via Soft-Target Attention Probing** [[paper link]](http://arxiv.org/abs/2606.21917v1) 2026-06-20  
+Amina Miftakhova;Alexey Zaytsev
+
+
+
+- **On the Expressive Power of Weight Quantization in Large Language Models** [[paper link]](http://arxiv.org/abs/2606.22249v1) 2026-06-20  
+Shao-Qun Zhang
+
+
+
+- **Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding** [[paper link]](http://arxiv.org/abs/2606.21906v1) 2026-06-20  
+Xuanming Zhang;Sining Zhoubian;Yuxuan Chen;Tianyi Tang;An Yang;Sean Du;Chujie Zheng;Fei Huang;Dayiheng Liu;Gao Huang;Jingren Zhou
+
+
+
+- **A Verifiable Search Is Not a Learnable Chain-of-Thought** [[paper link]](http://arxiv.org/abs/2606.21884v1) 2026-06-20  
+Harsh Patel
+
+
+
+- **Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective** [[paper link]](http://arxiv.org/abs/2606.21514v1) 2026-06-19  
+Tianqi Shen;Jinji Yang;Runze Shi;Jianhao Ma;Jiaye Teng;Ziye Ma
+
 
 
 - **Phase Transitions in Large Language Models and the $O(N)$ Model** [[paper link]](http://arxiv.org/abs/2501.16241) 2025-01-27  

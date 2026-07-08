@@ -26,3 +26,10 @@ How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs,2024
 On the Ability and Limitations of Transformers to Recognize Formal Languages,2020-09-23,http://arxiv.org/abs/2009.11264,Satwik Bhattamishra; Kabir Ahuja; Navin Goyal
 Circuit Complexity Bounds for RoPE-based Transformer Architecture,2024-11-12,http://arxiv.org/abs/2411.07602,Bo Chen; Xiaoyu Li; Yingyu Liang; Jiangxuan Long; Zhenmei Shi; Zhao Song
 Consistent Bidirectional Language Modelling: Expressive Power and Representational Conciseness,2024-11,http://aclanthology.org/2024.emnlp-main.328,Georgi Shopov; Stefan Gerdjikov
+Why Do Few-Step Text Latents Fail When Image Latents Work? Non-Commitment at Sharp Categorical Readouts,2026-06-29,http://arxiv.org/abs/2606.30705v1,Zhongyao Wang
+Grounding LLM Reasoning under Incomplete Graph Evidence,2026-06-29,http://arxiv.org/abs/2606.30247v1,Jiaqi Li;Fanghui Song
+Exploring the Cryptographic Limits of Transformer Networks,2026-06-28,http://arxiv.org/abs/2606.29389v1,Stefan Domunco;Andis Draguns;Philip Torr;Isaac Robinson;Christian Schroeder de Witt
+On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models,2026-06-25,http://arxiv.org/abs/2606.27567v1,Dewank Pant;Shruti Lohani;Avijit Kumar
+Cascaded Multi-Granularity Pruning for On-Device LLM Inference in Industrial IoT,2026-06-25,http://arxiv.org/abs/2606.26861v1,Jinghan Wang;Yanjun Chen;Wei Zhang;Xiaotong Huang;Tianchen Liu;Gaoliang Peng
+Why Do Accumulated Transformations Extrapolate?,2026-06-23,http://arxiv.org/abs/2606.24975v1,Mahesh Godavarti
+On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners,2026-06-22,http://arxiv.org/abs/2606.23668v1,David Mguni;Julian Ma;Jun Wang

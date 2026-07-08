@@ -16,3 +16,8 @@ A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aw
 What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,2024-10-31,http://arxiv.org/abs/2410.23743,Ming Li; Yanhong Li; Tianyi Zhou
 Rethinking Thinking Tokens: Understanding Why They Underperform in Practice,2024-11-18,http://arxiv.org/abs/2411.11371,Sreeram Vennam; David Valente; David Herel; Ponnurangam Kumaraguru
 Transformers Provably Solve Parity Efficiently with Chain of Thought,2024-10-11,http://arxiv.org/abs/2410.08633,Juno Kim; Taiji Suzuki
+Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness,2026-07-02,http://arxiv.org/abs/2607.01571v1,Aria Masoomi;Mahsa Bazzaz;Adel Javanmard;Vahab Mirrokni
+What LLMs explain is not what they believe: Evaluating explanation sufficiency under models' own input beliefs,2026-06-26,http://arxiv.org/abs/2606.28615v1,Nhi Nguyen;Shauli Ravfogel;Rajesh Ranganath
+Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models,2026-06-22,http://arxiv.org/abs/2606.23567v1,Jiawei Xu;Minghui Liu;Aakriti Agrawal;Yifan Chen;Furong Huang
+Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently,2026-06-22,http://arxiv.org/abs/2606.22938v1,Stanley Wei;Juno Kim
+A Verifiable Search Is Not a Learnable Chain-of-Thought,2026-06-20,http://arxiv.org/abs/2606.21884v1,Harsh Patel

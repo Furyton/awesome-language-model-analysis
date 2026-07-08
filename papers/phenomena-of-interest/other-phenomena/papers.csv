@@ -32,3 +32,13 @@ All or None: Identifiable Linear Properties of Next-token Predictors in Language
 Weight decay induces low-rank attention layers,2024-10-31,http://arxiv.org/abs/2410.23819,Seijin Kobayashi; Yassir Akram; Johannes Von Oswald
 On the loss of context-awareness in general instruction fine-tuning,2024-11-05,http://arxiv.org/abs/2411.02688,Yihan Wang; Andrew Bai; Nanyun Peng; Cho-Jui Hsieh
 Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs,2024-10-17,http://arxiv.org/abs/2410.13835,Tianyu Guo; Druv Pai; Yu Bai; Jiantao Jiao; Michael I. Jordan; Song Mei
+"The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment",2026-07-06,http://arxiv.org/abs/2607.05552v1,Haonan Huang
+Social Networks of LLM Agents,2026-07-04,http://arxiv.org/abs/2607.03695v1,Kaixuan Liu;Guojun Xiong;Weinan Zhang;Shengpu Tang
+How Much of the Routing Gap Is Real? Decomposing the Router-to-Oracle Gap into Reproducible Specialist Advantage and Single-Draw Label Noise,2026-07-03,http://arxiv.org/abs/2607.03436v2,Teng-Ruei Chen
+Spectral Signatures of Large Language Models,2026-07-03,http://arxiv.org/abs/2607.03377v1,Zhuoying Zhang;Ishan V. Prasad;Yuanzhe Hu;Zihang Liu;Hengrui Luo;Pu Ren;Yaoqing Yang
+Measuring Dead Directions: Decomposing and Classifying Singular Structure off Canonical Alignment,2026-07-01,http://arxiv.org/abs/2607.00603v1,Tejas Pradeep Shirodkar
+SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models,2026-06-30,http://arxiv.org/abs/2606.32022v1,Jian Gu;Aldeida Aleti;Chunyang Chen;Hongyu Zhang
+When Calibration Rankings Reverse: Accuracy-Controlled Evaluation for Fair Comparison of LLMs,2026-06-29,http://arxiv.org/abs/2606.30814v1,Zhichao Yang;Caiqi Zhang;Ruihan Yang;Chengzu Li;Nigel Collier;Deqing Yang
+Spectral Perturbation of the Empirical Fisher Information Matrix under Weight Quantization,2026-06-26,http://arxiv.org/abs/2606.28432v1,Rahid Zahid Alekberli;Hikmat Karimov
+Why Do Accumulated Transformations Extrapolate?,2026-06-23,http://arxiv.org/abs/2606.24975v1,Mahesh Godavarti
+Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding,2026-06-20,http://arxiv.org/abs/2606.21906v1,Xuanming Zhang;Sining Zhoubian;Yuxuan Chen;Tianyi Tang;An Yang;Sean Du;Chujie Zheng;Fei Huang;Dayiheng Liu;Gao Huang;Jingren Zhou

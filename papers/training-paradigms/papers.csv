@@ -1,3 +1,7 @@
 Title,Date,Url,Author
 Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget,2024-04-30,http://arxiv.org/abs/2404.19319,Minh Duc Bui; Fabian David Schmidt; Goran Glavaš; Katharina von der Wense
 Why are Adaptive Methods Good for Attention Models?,2020-10-23,http://arxiv.org/abs/1912.03194,Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J. Reddi; Sanjiv Kumar; Suvrit Sra
+Trust Region Policy Distillation,2026-07-06,http://arxiv.org/abs/2607.04751v1,Zhengpeng Xie;Li Lyna Zhang;Zeke Xie;Mao Yang
+DemoPSD: Disagreement-Modulated Policy Self-Distillation,2026-07-02,http://arxiv.org/abs/2607.02502v2,Yunhe Li;Hao Shi;Wenhao Liu;Mengzhe Ruan;Hanxu Hou;Zhongxiang Dai;Shuang Qiu;Linqi Song
+On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity,2026-06-24,http://arxiv.org/abs/2606.26091v1,Andrei Liviu Nicolicioiu;Mohammad Pezeshki;Aaron Courville
+On the Position Bias of On-Policy Distillation,2026-06-21,http://arxiv.org/abs/2606.22600v3,Yan Xie;Sijie Zhu;Tiansheng Wen;Bo Chen;Yifei Wang
