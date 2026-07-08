@@ -25,6 +25,22 @@ def get_response(prompt: str) -> str:
         temperature=0,
     )
 
-    text = response.choices[0].message.content
-    logging.debug(f"[{GPT_MODEL}] response: {text}")
+    message = response.choices[0].message
+    text = message.content
+
+    if text is None:
+        # Some DeepSeek models put output in reasoning_content instead of
+        # content under certain finish reasons -- fall back rather than
+        # silently returning None (which would blow up downstream string
+        # matching with a confusing TypeError).
+        text = getattr(message, "reasoning_content", None)
+        if text is None:
+            finish_reason = response.choices[0].finish_reason
+            raise RuntimeError(
+                f"Empty response from {GPT_MODEL} (finish_reason={finish_reason})"
+            )
+
+    # use repr() so a genuinely empty/None response is visually distinct
+    # from the model literally answering the word "None"
+    logging.debug(f"[{GPT_MODEL}] response: {text!r}")
     return text

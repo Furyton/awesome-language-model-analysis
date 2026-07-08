@@ -19,14 +19,20 @@ Given the title and abstract of an arXiv paper:
 Title: {}
 Abstract: {}
 
-Classify this paper into one or more of the following categories if it is about **theoretical or empirical analysis** of language models, especially large language models (LLMs) and transformer-based models. The categorization aims to understand different phenomena, properties, training dynamics, and representational capacities of these models.
-Return the one or two category codes (e.g., '01., 02.') that best describe the paper. If the paper does not fall into any category, return 'None'.
+This paper list only collects **theoretical** papers about language models, especially large language models (LLMs) and transformer-based architectures.
 
-Please ignore (return 'None') if this papers is not about theoretical analysis of language model.
-Please ignore (return 'None') if this papers is about downstream or other applications of language models, e.g., translation, attack, security, federated learning, vision-language, etc.
-Please ignore (return 'None') if this papers is about very specific downstream tasks, such as diaglue, rag, conversation, etc.
-Please return 'None' if this paper focuses on improving the performance of language models, such as those that propose new architectures, pretraining objectives, or fine-tuning strategies.
-Please only classify this paper if it mainly focuses on analyzing the theoretical properties of language models, especially large language models (LLMs), attention mechanism, or transformer architecture, etc.
+"Theoretical" means the paper's main contribution is a formal, mathematical, or rigorously analytical characterization of some property, behavior, or limitation of these models -- e.g. proofs, provable guarantees, generalization/approximation bounds, expressivity or capacity results, convergence analysis, information-theoretic arguments, statistical learning theory, PAC-style learnability results, or a formal/mechanistic account of a phenomenon (grokking, in-context learning, hallucination, scaling laws, etc.).
+
+A paper still counts as theoretical even if it also runs experiments to validate or illustrate its theoretical claims -- that's normal and does not disqualify it. What disqualifies a paper is having **no formal/theoretical component at all**.
+
+Classify this paper into one or two of the categories below if (and only if) it is theoretical as defined above and it studies phenomena, properties, training dynamics, or representational capacities of language models / transformers. Return the one or two category codes (e.g., '01., 02.'). If it does not qualify, return 'None'.
+
+Return 'None' if the paper:
+- is a purely empirical/observational study with no formal theoretical analysis (e.g. "we run experiments and observe X" with no proof, bound, or formal characterization)
+- is a benchmark, survey, evaluation, or dataset paper with no theoretical contribution
+- is about a downstream application (translation, security/attacks, federated learning, vision-language, retrieval, agents, robotics, etc.) rather than the model's own properties
+- is about very specific downstream tasks (dialogue, RAG, conversation, etc.)
+- mainly proposes a new architecture, pretraining objective, or fine-tuning strategy to improve performance, without theoretically analyzing *why* it works
 
 Categories:\n
 """
@@ -65,15 +71,18 @@ Return the one or two category codes (e.g., '01., 02.') that best describe the p
 
 If the paper does not fall into any category, return 'None'.
 
-Please ignore (return 'None') if this papers is not about theoretical analysis of language model.
-Please ignore (return 'None') if this papers is about downstream or other applications of language models, e.g., translation, attack, security, federated learning, vision-language, etc.
-Please ignore (return 'None') if this papers is about very specific downstream tasks, such as diaglue, rag, conversation, etc.
-Please return 'None' if this paper focuses on improving the performance of language models, such as those that propose new architectures, pretraining objectives, or fine-tuning strategies.
-Please only classify this paper if it mainly focuses on analyzing the theoretical properties of language models, especially large language models (LLMs), attention mechanism, or transformer architecture, etc.
+Remember: this list is theoretical papers only. Return 'None' if the paper:
+- is a purely empirical/observational study with no formal theoretical analysis
+- is a benchmark, survey, evaluation, or dataset paper with no theoretical contribution
+- is about a downstream application (translation, security/attacks, federated learning, vision-language, retrieval, agents, robotics, etc.) rather than the model's own properties
+- is about very specific downstream tasks (dialogue, RAG, conversation, etc.)
+- mainly proposes a new architecture, pretraining objective, or fine-tuning strategy to improve performance, without theoretically analyzing why it works
+
+A paper that includes experiments supporting a theoretical claim still counts as theoretical -- don't reject it just for having an empirical section.
 
 Please refer to the examples for each category to understand the scope of each category.
 
-If the paper is a theoretical work on language model, attention mechanism, or transformer architecture, please return the corresponding category code(s) or put it into {category_info[-1]['code']}, {category_info[-1]['name']} if you are not sure.
+If the paper is a genuinely theoretical work on language models, attention mechanisms, or transformer architecture but doesn't fit any category above precisely, put it into {category_info[-1]['code']}, {category_info[-1]['name']}.
 """
 
 

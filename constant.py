@@ -41,8 +41,22 @@ IMAP_HOST = _env("IMAP_HOST", "imap.gmail.com")
 SCHOLAR_INBOX_SHA_KEY = _env("SCHOLAR_INBOX_SHA_KEY")
 
 # --- arXiv search fallback / backfill ---
+# This list only tracks *theoretical* papers now, so the search requires a
+# hit from BOTH buckets below (LM/transformer subject matter AND a signal of
+# theoretical/formal treatment) rather than one big OR list -- that single
+# generic list used to pull in huge amounts of noise (any ML paper that
+# mentions "language model" or "attention mechanism" in passing, e.g. drug
+# design, forecasting, robotics papers). The final call is always the LLM
+# classifier; this search just needs to not filter out real matches, so it
+# errs generous on both buckets.
 ARXIV_CATEGORIES = ["cs.CL", "cs.LG", "stat.ML"]
-ARXIV_KEYWORDS = [
+
+ARXIV_TOPIC_TERMS = [
+    "language model",
+    "large language model",
+    "transformer",
+    "attention mechanism",
+    "self-attention",
     "in-context learning",
     "chain-of-thought",
     "chain of thought",
@@ -50,16 +64,51 @@ ARXIV_KEYWORDS = [
     "scaling law",
     "emergent ability",
     "grokking",
-    "transformer expressivity",
-    "transformer capacity",
-    "mechanistic interpretability",
-    "training dynamics",
-    "generalization",
-    "language model",
-    "large language model",
-    "attention mechanism",
     "tokenization",
     "layer normalization",
     "memorization",
     "reversal curse",
+    "state space model",
+    "linear attention",
+    "mixture of experts",
 ]
+
+ARXIV_THEORY_TERMS = [
+    "theoretical",
+    "theoretically",
+    "theory of",
+    "a theory",
+    "provable",
+    "provably",
+    "proof",
+    "prove that",
+    "we prove",
+    "convergence",
+    "generalization bound",
+    "sample complexity",
+    "expressivity",
+    "expressive power",
+    "approximation theory",
+    "statistical learning theory",
+    "learnability",
+    "PAC learning",
+    "information-theoretic",
+    "VC dimension",
+    "closed-form",
+    "analytically",
+    "upper bound",
+    "lower bound",
+    "bayesian",
+    "probabilistic framework",
+    "formal framework",
+    "formal analysis",
+    "mathematical framework",
+    "mathematical model of",
+    "characterize",
+    "characterization",
+    "guarantee",
+]
+
+# kept for backwards compatibility with any old references; not used in
+# the query itself anymore
+ARXIV_KEYWORDS = ARXIV_TOPIC_TERMS

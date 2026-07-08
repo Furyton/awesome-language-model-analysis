@@ -1,11 +1,11 @@
 # Awesome Language Model Analysis [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-This paper list focuses on the **theoretical and empirical analysis** of language models, especially **large language models** (LLMs).
-The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
+This paper list focuses on the **theoretical analysis** of language models, especially **large language models** (LLMs).
+The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through formal/mathematical analysis -- proofs, provable guarantees, bounds, expressivity results, convergence analysis, and similar. Papers that also include supporting experiments still count; purely empirical/observational papers do not.
 
 Scope of this list:
 - Currently, this list focuses on **transformer-based** models.
-- We hope to collect papers that only focus on the theoretical and empirical analysis of language models, instead of papers that aim to improve the performance of language models.
+- We collect papers with a genuine theoretical contribution, instead of purely empirical studies or papers that aim to improve the performance of language models without theoretically analyzing why.
 
 Limitations of this list:
 - This list is not exhaustive, and we may miss some very important papers.

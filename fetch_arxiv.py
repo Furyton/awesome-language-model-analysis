@@ -18,7 +18,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
-from constant import ARXIV_CATEGORIES, ARXIV_KEYWORDS
+from constant import ARXIV_CATEGORIES, ARXIV_TOPIC_TERMS, ARXIV_THEORY_TERMS
 from pending_queue import append_to_pending
 
 ARXIV_API = "http://export.arxiv.org/api/query"
@@ -29,8 +29,12 @@ RATE_LIMIT_SECONDS = 3
 
 def _build_query(date_filter: str = None) -> str:
     cat_query = " OR ".join(f"cat:{c}" for c in ARXIV_CATEGORIES)
-    kw_query = " OR ".join(f'abs:"{kw}"' for kw in ARXIV_KEYWORDS)
-    query = f"({cat_query}) AND ({kw_query})"
+    # require a hit from BOTH buckets: something LM/transformer-related AND
+    # something signaling theoretical/formal treatment. This is the key
+    # precision improvement over the old single flat OR list.
+    topic_query = " OR ".join(f'abs:"{kw}"' for kw in ARXIV_TOPIC_TERMS)
+    theory_query = " OR ".join(f'abs:"{kw}"' for kw in ARXIV_THEORY_TERMS)
+    query = f"({cat_query}) AND ({topic_query}) AND ({theory_query})"
     if date_filter:
         query += f" AND {date_filter}"
     return query
