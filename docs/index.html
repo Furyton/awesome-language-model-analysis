@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Awesome Language Model Analysis</title>
+<meta name="description" content="A searchable paper list on the theoretical and empirical analysis of language models." />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1>Awesome Language Model Analysis</h1>
+    <p class="subtitle">
+      A searchable list of papers on the <strong>theoretical and empirical analysis</strong> of language models.
+      Updated automatically. <span id="paper-count"></span>
+    </p>
+    <p class="links">
+      <a href="https://github.com/Furyton/awesome-language-model-analysis">GitHub</a>
+      &middot;
+      <a href="https://github.com/Furyton/awesome-language-model-analysis/blob/main/README.md">Full README</a>
+      &middot;
+      <a href="https://github.com/Furyton/awesome-language-model-analysis/blob/main/CONTRIBUTING.md">Contribute</a>
+    </p>
+  </div>
+</header>
+
+<main class="container">
+  <section class="controls">
+    <input
+      id="search-box"
+      type="search"
+      placeholder="Search titles, authors... e.g. 'in-context learning', 'grokking'"
+      autocomplete="off"
+    />
+
+    <div class="controls-row">
+      <label class="semantic-toggle">
+        <input type="checkbox" id="semantic-toggle" />
+        Semantic search
+        <span id="semantic-status" class="semantic-status"></span>
+      </label>
+
+      <select id="sort-select">
+        <option value="date-desc">Newest first</option>
+        <option value="date-asc">Oldest first</option>
+        <option value="relevance">Best match</option>
+      </select>
+
+      <button id="clear-filters" type="button" class="clear-btn" hidden>Clear filters</button>
+    </div>
+
+    <div id="category-filters" class="category-filters"></div>
+  </section>
+
+  <p id="result-count" class="result-count"></p>
+
+  <ul id="paper-list" class="paper-list"></ul>
+
+  <p id="empty-state" class="empty-state" hidden>No papers match your search/filters.</p>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Maintained by <a href="https://furyton.github.io">Shiguang Wu</a>.
+    Data refreshed daily from arXiv, Scholar Inbox, and arxivist.com.
+  </p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

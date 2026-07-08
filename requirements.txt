@@ -1,0 +1,3 @@
+requests>=2.31
+openai>=1.30
+fastembed>=0.3

@@ -1,14 +1,30 @@
-import llm
+"""Thin wrapper around an OpenAI-compatible chat completion endpoint.
+
+Works with DeepSeek (default), OpenAI, or any other OpenAI-compatible proxy
+by setting GPT_API_BASE / GPT_MODEL / GPT_KEY.
+"""
+import logging
 
 from constant import GPT_MODEL, GPT_API_BASE, GPT_KEY
 
-model = llm.get_model(GPT_MODEL)
 
-model.key = GPT_KEY
-model.api_base = GPT_API_BASE
+def get_response(prompt: str) -> str:
+    if not GPT_KEY:
+        raise RuntimeError(
+            "GPT_KEY is not set -- add a DeepSeek/OpenAI-compatible API key "
+            "as the GPT_KEY secret to enable classification."
+        )
 
+    from openai import OpenAI
 
-def get_response(prompt):
-    response = model.prompt(prompt=prompt)
+    client = OpenAI(api_key=GPT_KEY, base_url=GPT_API_BASE)
 
-    return response.text()
+    response = client.chat.completions.create(
+        model=GPT_MODEL,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0,
+    )
+
+    text = response.choices[0].message.content
+    logging.debug(f"[{GPT_MODEL}] response: {text}")
+    return text
