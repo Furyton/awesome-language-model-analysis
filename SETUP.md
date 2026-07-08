@@ -79,13 +79,17 @@ Repo -> Settings -> Pages -> Source: **Deploy from a branch** -> Branch:
 
 ## 4. Fetcher status
 
-- **Scholar Inbox**: verified live against your account -- fetches the
-  last 3 days of digests each run, keeps only `source == "arxiv"` entries
-  (Scholar Inbox also indexes bioRxiv/medRxiv/ChemRxiv, which this list
-  doesn't track). If Scholar Inbox ever changes its API and this script
-  breaks, there's a community CLI (`pip install scholarinboxcli`, PyPI) that
-  independently reverse-engineered the same sha_key auth flow -- worth
-  checking if it still works as a reference/fallback.
+- **Scholar Inbox**: fetches the last 3 days of digests each run, keeps only
+  `source == "arxiv"` entries (Scholar Inbox also indexes bioRxiv/medRxiv/
+  ChemRxiv, which this list doesn't track). Note on history: an earlier
+  version of this script hit `www.scholar-inbox.com/login?sha_key=...`
+  directly and appeared to work in a live browser test, but that was a false
+  positive -- the browser already had an unrelated pre-existing login
+  session, so the test wasn't actually exercising the sha_key flow. The real
+  login endpoint (confirmed by reading the open-source `scholarinboxcli`
+  package's source, github.com/mrshu/scholarinboxcli) is a same-origin call:
+  `GET https://api.scholar-inbox.com/api/login/{sha_key}/`. The script now
+  uses that.
 - **arxivist**: still a best-effort guess (no sample email seen yet) -- it
   looks for direct `arxiv.org` links in the email body. If the first run
   finds 0 arxivist papers, send me a sample digest email and I'll calibrate
