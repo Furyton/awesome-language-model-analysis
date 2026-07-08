@@ -54,3 +54,38 @@ Unraveling the Gradient Descent Dynamics of Transformers,2024-11-12,http://arxiv
 What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?,2024-11-12,http://arxiv.org/abs/2411.07681,Katie Kang; Amrith Setlur; Dibya Ghosh; Jacob Steinhardt; Claire Tomlin; Sergey Levine; Aviral Kumar
 Gradient dynamics for low-rank fine-tuning beyond kernels,2024-11-23,http://arxiv.org/abs/2411.15385,Arif Kerem Dayi; Sitan Chen
 Training Dynamics of Transformers to Recognize Word Co-occurrence via Gradient Flow Analysis,2024-11-12,http://arxiv.org/abs/2410.09605,Hongru Yang; Bhavya Kailkhura; Zhangyang Wang; Yingbin Liang
+No Subspace to Track: Non-Identifiability and Optimizer State in Low-Rank Training,2026-07-07,http://arxiv.org/abs/2607.05872v1,Noel Thomas
+What Does a Discrete Diffusion Model Learn?,2026-07-06,http://arxiv.org/abs/2607.05381v1,Rodrigo Casado Noguerales;Bernhard Schölkopf;Thomas Hofmann;Aran Raoufi
+Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment,2026-07-06,http://arxiv.org/abs/2607.04728v1,Yu Li;Xiuyu Li;Mingyang Yi;Jiaxing Wang; zhangliangxu;Zhaolong Xing;Zhen Chen
+"Statistically Meaningful Geometry (SMG) Beyond the Euclidean Paradigm, with Application to Generative AI",2026-07-03,http://arxiv.org/abs/2607.03329v1,Bing Cheng;Yi-Shuai Niu;Howell Tong;Shing-Tung Yau
+Unbiased Alignment for Large Language Models with Noisy Preferences,2026-07-03,http://arxiv.org/abs/2607.03248v1,Jialiang Wang;Xianming Liu;Xiong Zhou;Hui Liu;Haoliang Li
+DemoPSD: Disagreement-Modulated Policy Self-Distillation,2026-07-02,http://arxiv.org/abs/2607.02502v2,Yunhe Li;Hao Shi;Wenhao Liu;Mengzhe Ruan;Hanxu Hou;Zhongxiang Dai;Shuang Qiu;Linqi Song
+ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces,2026-07-01,http://arxiv.org/abs/2607.01125v1,Xun Dong;Yibo Xu;Naigang Wang;Xin Li;Penghang Yin;Zi Yang
+Measuring Dead Directions: Decomposing and Classifying Singular Structure off Canonical Alignment,2026-07-01,http://arxiv.org/abs/2607.00603v1,Tejas Pradeep Shirodkar
+"GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",2026-06-30,http://arxiv.org/abs/2607.00152v1,Yong Yi Bay;Kathleen A. Yearick
+Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR,2026-06-30,http://arxiv.org/abs/2606.31813v1,Ruijia Zhang;Jiacheng Zhu;Hanqing Zhu;Laixi Shi
+CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield,2026-06-30,http://arxiv.org/abs/2606.31796v1,Dohyeon Kwon;Youngjin Park
+Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback,2026-06-29,http://arxiv.org/abs/2606.30923v1,Ved Sriraman;Peihan Liu;Daniel Hsu;Adam Block
+Revocable Learned State via Process Sidecars,2026-06-29,http://arxiv.org/abs/2606.30788v1,John Sweeney
+Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms,2026-06-29,http://arxiv.org/abs/2606.30625v1,Ziwei Su;Junyu Ren;Victor Veitch
+MuonSSM: Orthogonalizing State Space Models for Sequence Modeling,2026-06-29,http://arxiv.org/abs/2606.30461v1,Thai-Khanh Nguyen;Ngoc-Bich-Uyen Vo;Thieu N. Vo;Tan M. Nguyen;Cuong Pham
+Online Data Selection for Instruction Tuning via Gaussian Processes,2026-06-29,http://arxiv.org/abs/2606.30077v1,Jun Wang;Quoc Phong Nguyen;Julien Monteil;Vu Nguyen
+Adaptive Block Diffusion: Resolving Training-Inference Mismatch in Diffusion Language Models,2026-06-28,http://arxiv.org/abs/2606.29275v1,Gagan Jain
+"On the Policy Gradient Foundations of Group Relative Policy Optimization: Credit Assignment, Gradient Sparsity, and Rank Collapse",2026-06-28,http://arxiv.org/abs/2606.29238v1,Amritansh Mishra;Supriyo Chakraborty;Berkcan Kapusuzoglu
+Dead-Direction Conditioners: Gauge-Equivariant Preconditioning for Deep Networks,2026-06-28,http://arxiv.org/abs/2606.29176v1,Tejas Pradeep Shirodkar
+On the Nonlinearity of Learning Rate Scaling for LLM Training,2026-06-28,http://arxiv.org/abs/2606.29158v1,Zaiwen Yang;Huaqing Zhang;Jing Xu;Jingzhao Zhang
+The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment,2026-06-26,http://arxiv.org/abs/2606.27739v1,Tianyu Jia;Yue Fang;Hongxin Ding;Rihong Qiu;Zhibang Yang;Zhijing Wu;Xu Chu;Junfeng Zhao;Yasha Wang
+Reasoning Quality Emerges Early: Data Curation for Reasoning Models,2026-06-25,http://arxiv.org/abs/2606.26797v1,Hongyi Henry Jin;Wenhan Yang;Meysam Ghaffari;Carlos Morato;Baharan Mirzasoleiman
+CascadeFormer: Depth-Tapered Transformers Motivated by Gradient Fan-in Asymmetry,2026-06-25,http://arxiv.org/abs/2606.26538v1,Huzama Ahmad;Cao Viet Hai Nam;Se-Young Yun
+Learning with a Single Rollout via Monte Carlo Pass@k Critic,2026-06-24,http://arxiv.org/abs/2606.25451v1,Fengdi Che;Yang Liu;Lei Yu;Meng Cao;Tong Che;Rupam Mahmood;Dale Schuurmans
+Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models,2026-06-23,http://arxiv.org/abs/2606.25086v2,Kwok Chun Au;Adam Block
+Internal Data Repetition Destroys Language Models,2026-06-23,http://arxiv.org/abs/2606.24998v1,Jessica Chudnovsky;Joshua Kazdan;Noam Levi;Rylan Schaeffer;Yegor Denisov-Blanch;Bo He;Mehmet Donmez;Sanmi Koyejo;David Donoho
+Parallel Manifold Steering: Efficient Adaptation of Large Associative Memories via Residual Energy Shaping,2026-06-23,http://arxiv.org/abs/2606.24396v1,Kanishk Awadhiya
+Curvature-Guided Mixing for MLLM Adaptation,2026-06-23,http://arxiv.org/abs/2606.24963v1,Jinglong Yang;Jiaxuan He;Wenjian Huang;Zhan Zhuang;Jianguo Zhang
+Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?,2026-06-22,http://arxiv.org/abs/2606.23676v1,Dingzhi Yu;Hongyi Tao;Yuanyu Wan;Luo Luo;Lijun Zhang
+Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime,2026-06-22,http://arxiv.org/abs/2606.23364v1,Yuqing Wang
+A First-Order Mean Field Control Analysis of Transformer Layers under Cross-Entropy Training,2026-06-22,http://arxiv.org/abs/2606.23235v1,Cheng Huan;Hongwei Yuan
+On the Position Bias of On-Policy Distillation,2026-06-21,http://arxiv.org/abs/2606.22600v3,Yan Xie;Sijie Zhu;Tiansheng Wen;Bo Chen;Yifei Wang
+What are Key Factors for Updates in RL for LLM Reasoning?,2026-06-21,http://arxiv.org/abs/2606.22570v1,Peidong Wang;Demi Wang;Xufang Luo;Jiahang Xu;Xiaocui Yang;Shi Feng;Yuqing Yang;Dongsheng Li
+Asymptotic Signal Subspace Recovery in Softmax Attention Models,2026-06-21,http://arxiv.org/abs/2606.22406v2,Lan V. Truong
+Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective,2026-06-19,http://arxiv.org/abs/2606.21514v1,Tianqi Shen;Jinji Yang;Runze Shi;Jianhao Ma;Jiaye Teng;Ziye Ma

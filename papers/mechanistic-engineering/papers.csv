@@ -48,3 +48,12 @@ Interpreting Affine Recurrence Learning in GPT-style Transformers,2024-10-22,htt
 Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks,2024-10-23,http://arxiv.org/abs/2410.17498,Paul Smolensky; Roland Fernandez; Zhenghao Herbert Zhou; Mattia Opper; Jianfeng Gao
 How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis,2024-11-06,http://arxiv.org/abs/2411.04105,Guan Zhe Hong; Nishanth Dikkala; Enming Luo; Cyrus Rashtchian; Xin Wang; Rina Panigrahy
 Towards Interpreting Language Models: A Case Study in Multi-Hop Reasoning,2024-11-06,http://arxiv.org/abs/2411.05037,Mansi Sakarvadia
+Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation,2026-07-05,http://arxiv.org/abs/2607.04432v1,Kargi Chauhan;Aditya Shah
+Spectral Signatures of Large Language Models,2026-07-03,http://arxiv.org/abs/2607.03377v1,Zhuoying Zhang;Ishan V. Prasad;Yuanzhe Hu;Zihang Liu;Hengrui Luo;Pu Ren;Yaoqing Yang
+Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation,2026-07-01,http://arxiv.org/abs/2607.01208v1,Shayan Talaei;Abhinav Chinta;Devvrit Khatri;Amin Karbasi;Azalia Mirhoseini;Amin Saberi
+Shapley in Context: Explaining Financial Language with Domain Expertise,2026-07-01,http://arxiv.org/abs/2607.00856v1,Dangxing Chen;Pengzhan Guo
+IG-Lens: Exact Additive Probability Attribution Across Transformer Layers via Telescoping Integrated Gradients,2026-06-29,http://arxiv.org/abs/2606.29693v2,Duc Anh Nguyen
+What LLMs explain is not what they believe: Evaluating explanation sufficiency under models' own input beliefs,2026-06-26,http://arxiv.org/abs/2606.28615v1,Nhi Nguyen;Shauli Ravfogel;Rajesh Ranganath
+"Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",2026-06-26,http://arxiv.org/abs/2606.28273v1,Niclas Lietzow;Danielle Bitterman;Carsten Eickhoff;William Rudman;Michal Golovanevsky
+Evidence for feature-specific error correction in LLMs,2026-06-23,http://arxiv.org/abs/2606.24964v1,Francisco Ferreira da Silva;Stefan Heimersheim
+Pre-Generation Hallucination Detection in Large Language Models via Soft-Target Attention Probing,2026-06-20,http://arxiv.org/abs/2606.21917v1,Amina Miftakhova;Alexey Zaytsev

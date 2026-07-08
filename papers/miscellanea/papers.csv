@@ -89,3 +89,8 @@ Analyzing & Reducing the Need for Learning Rate Warmup in GPT Training,2024-10-3
 On the goals of linguistic theory: Revisiting Chomskyan theories in the era of AI,2024-11-15,http://arxiv.org/abs/2411.10533,Eva Portelance; Masoud Jasbi
 An In-depth Investigation of Sparse Rate Reduction in Transformer-like Models,2024-11-26,http://arxiv.org/abs/2411.17182,Yunzhe Hu; Difan Zou; Dong Xu
 Fine-grained Attention I/O Complexity: Comprehensive Analysis for Backward Passes,2024-10-12,http://arxiv.org/abs/2410.09397,Xiaoyu Li; Yingyu Liang; Zhenmei Shi; Zhao Song; Yufa Zhou
+Quantitative Gaussian-Process limits of Tensor Programs,2026-07-07,http://arxiv.org/abs/2607.06290v1,Andrea Agazzi;Eloy Mosig García;Dario Trevisan
+From Application-Layer Simulation to Native Meta-Architecture: Structural Tension as an Endogenous Driver for Heterogeneous AI Evolution,2026-07-07,http://arxiv.org/abs/2607.06269v1,Heting Mao
+Safe Inference-Time Alignment via Lagrangian Reward Augmentation,2026-07-02,http://arxiv.org/abs/2607.02781v1,Yaswanth Chittepu;Ativ Joshi;Sohini Chintala;Scott Niekum
+Weave of Formal Thought,2026-06-24,http://arxiv.org/abs/2606.25987v1,Alexandre Bouayad
+SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression,2026-06-22,http://arxiv.org/abs/2606.23568v1,Mahmoud Safari;Frank Hutter

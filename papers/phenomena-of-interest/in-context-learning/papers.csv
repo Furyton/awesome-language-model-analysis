@@ -96,3 +96,11 @@ Adversarial Robustness of In-Context Learning in Transformers for Linear Regress
 Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training,2024-11-25,http://arxiv.org/abs/2411.16549,Weimin Wu; Maojiang Su; Jerry Yao-Chieh Hu; Zhao Song; Han Liu
 Can a Large Language Model Learn Matrix Functions In Context?,2024-11-24,http://arxiv.org/abs/2411.15675,Paimon Goulart; Evangelos E. Papalexakis
 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models,2024-11-13,http://arxiv.org/abs/2410.09701,Chengshuai Shi; Kun Yang; Jing Yang; Cong Shen
+A Unified Framework for In-Context Learning with Causal and Masked Language Models,2026-07-05,http://arxiv.org/abs/2607.04081v1,Chenrui Liu;Chuanlong Xie;Falong Tan;Yicheng Zeng;Lixing Zhu
+Sequential Correlations Change In-Context Learning: Effective Context Length and Architectural Mismatch,2026-07-04,http://arxiv.org/abs/2607.03660v1,Mary Letey;Yue M. Lu;Cengiz Pehlevan;Jacob Zavatone-Veth
+Best-of-Better-$N$: Generating Pre-Aligned Responses with In-Context Learning,2026-07-03,http://arxiv.org/abs/2607.03453v1,Eric Lei;Hsiang Hsu;Chun-Fu Chen
+Induction Heads Interpolate N-Grams,2026-07-02,http://arxiv.org/abs/2607.02800v1,Francesco D'Angelo;Oguz Kaan Yuksel;Swathi Shree Narashiman;Nicolas Flammarion
+From Approximation to Emergence: A Theory of Deep Learning,2026-07-01,http://arxiv.org/abs/2607.01311v1,Zhilin Zhao
+Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization,2026-07-01,http://arxiv.org/abs/2607.00479v1,Peilin Liu;Ding-Xuan Zhou
+Transformers as Bayesian In-Context Experimenters: Smoothness-Adaptive Efficient ATE Estimation,2026-06-30,http://arxiv.org/abs/2606.31184v1,Jiachun Li;David Simchi-Levi
+A Theoretical Interpretation of In-Context Learning via Probabilistic Modeling,2026-06-27,http://arxiv.org/abs/2606.28926v1,Zhenyu Liu;Huaze Tang;Shao-Lun Huang
