@@ -137,41 +137,38 @@ def generate_full_template(category_info):
 def get_section_list(topic):
     p = os.path.join(ROOT, topic, FILE_NAME)
 
-    # read as dict, the first line is the header
-
+    expected_keys = {"Title", "Date", "Url", "Author"}
     with open(p, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        # sort by date
+        reader = list(csv.DictReader(f))
+
+        valid_rows = []
+        for row in reader:
+            if set(row.keys()) != expected_keys:
+                print(f"Skipping malformed row in {topic}: {row}")
+                continue
+            if any(not row.get(key) for key in expected_keys):
+                print(f"Skipping incomplete row in {topic}: {row}")
+                continue
+            valid_rows.append(row)
+
         try:
-            reader = sorted(reader, key=lambda x: x["Date"], reverse=True)
+            valid_rows = sorted(valid_rows, key=lambda x: x["Date"], reverse=True)
         except Exception as e:
             print(f"Error reading {p}: {e}")
             return [], []
-        # sanity check of each row
-        for row in reader:
-            assert len(row.keys()) == 4, f"topic: {topic}, row: {row}"
-            for key in row.keys():
-                assert key in [
-                    "Title",
-                    "Date",
-                    "Url",
-                    "Author",
-                ], f"topic: {topic}, key: {key}, row: {row}, unexpected key"
-
-                assert row[key], f"topic: {topic}, key: {key}, row: {row}, empty value"
 
         paper_list = []
 
         # add each row to the list and check for duplicates
 
-        for row in reader:
+        for row in valid_rows:
             paper = TEMPLATE.format(
                 row["Title"], row["Url"], row["Date"], row["Author"]
             )
             if paper not in paper_list:
                 paper_list.append(paper)
 
-    return paper_list, reader
+    return paper_list, valid_rows
 
 
 def fill_readme_template(output_path, content_dict, template_content, dry_run=False):
