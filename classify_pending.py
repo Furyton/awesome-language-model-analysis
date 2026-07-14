@@ -78,7 +78,7 @@ def classify_all(limit=None, dry_run=False):
             os.makedirs(os.path.dirname(csv_path), exist_ok=True)
             file_exists = os.path.exists(csv_path)
             with open(csv_path, "a", newline="", encoding="utf-8") as f:
-                writer = csv.writer(f, lineterminator="")
+                writer = csv.writer(f)
                 if not file_exists:
                     writer.writerow(["Title", "Date", "Url", "Author"])
                 f.write("\n")
