@@ -18,6 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout repository
@@ -79,11 +80,13 @@ jobs:
         continue-on-error: true
         run: python generate_embeddings.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Automated update on $(date -u '+%Y-%m-%d')"
-          git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Automated update on $(date -u '+%Y-%m-%d')"
+          title: "Automated update on $(date -u '+%Y-%m-%d')"
+          body: |
+            This PR was created automatically by the daily workflow.
+            Please review the generated updates before merging.
+          branch: chore/daily-update
+          delete-branch: true
