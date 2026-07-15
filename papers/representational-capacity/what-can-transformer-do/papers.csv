@@ -80,3 +80,15 @@ When Is a Draft Accepted? A Theory of Acceptance in Speculative Decoding,2026-06
 Exploring the Cryptographic Limits of Transformer Networks,2026-06-28,http://arxiv.org/abs/2606.29389v1,Stefan Domunco;Andis Draguns;Philip Torr;Isaac Robinson;Christian Schroeder de Witt
 Generalization Analysis of Transformers in Distribution Regression,2026-06-28,http://arxiv.org/abs/2606.29256v1,Peilin Liu;Ding-Xuan Zhou
 On the Expressive Power of Weight Quantization in Large Language Models,2026-06-20,http://arxiv.org/abs/2606.22249v1,Shao-Qun Zhang
+
+Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts,2026-06-17,http://arxiv.org/abs/2606.19036v1,Tho Tran Huu;Huu-Tuan Nguyen;Thien-Hai Nguyen;Nhat-Tri Ho;Viet-Hoang Tran;Tho Quan;Tan Minh Nguyen
+
+Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity,2026-06-16,http://arxiv.org/abs/2606.17830v1,Viet-Hoang Tran;Vinh Khanh Bui;Van-Hoan Trinh;Tan Lai Ngoc;Tan M. Nguyen
+
+An expressivity analysis of hierarchical modelling in deep transformers via bounded-depth grammars,2026-06-16,http://arxiv.org/abs/2606.17522v1,Vinoth Nandakumar;Qiang Qu;Pramod Thebe;Sakshi Khachariya;Tongliang Liu
+
+Adaptive inference and function vectors in deep transformers,2026-06-15,http://arxiv.org/abs/2606.16694v1,Ravin Raj;Gautam Reddy
+
+"How Linear Is a Transformer Feed-Forward Block? Per-Block Linear Recoverability Is Learned, Not Architectural",2026-06-12,http://arxiv.org/abs/2606.19379v1,Stuart Whipp
+
+Towards Tight Bounds for Streaming Attention,2026-06-05,http://arxiv.org/abs/2606.07205v1,Justin Y. Chen;Ying Feng;Piotr Indyk;Michael Kapralov;Ekaterina Kochetkova;Boris Prokhorov

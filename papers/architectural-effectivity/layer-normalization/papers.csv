@@ -5,3 +5,4 @@ ResiDual: Transformer with Dual Residual Connections,2023-04-28,http://arxiv.org
 On Layer Normalization in the Transformer Architecture,2020-06-29,http://arxiv.org/abs/2002.04745,Ruibin Xiong; Yunchang Yang; Di He; Kai Zheng; Shuxin Zheng; Chen Xing; Huishuai Zhang; Yanyan Lan; Liwei Wang; Tie-Yan Liu
 On the Role of Attention Masks and LayerNorm in Transformers,2024-05-29,http://arxiv.org/abs/2405.18781,Xinyi Wu; Amir Ajorlou; Yifei Wang; Stefanie Jegelka; Ali Jadbabaie
 "Re-Introducing LayerNorm: Geometric Meaning, Irreversibility and a Comparative Study with RMSNorm",2024-09-19,http://arxiv.org/abs/2409.12951,Akshat Gupta; Atahan Ozdemir; Gopala Anumanchipalli
+Algebraic Dead Directions in LayerNorm Transformers: A Forward-Pass-Only Diagnostic at LLM Scale,2026-06-17,http://arxiv.org/abs/2606.19491v1,Tejas Pradeep Shirodkar;P. J. Narayanan

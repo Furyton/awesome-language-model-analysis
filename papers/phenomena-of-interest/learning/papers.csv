@@ -63,3 +63,15 @@ Grounding LLM Reasoning under Incomplete Graph Evidence,2026-06-29,http://arxiv.
 Generalization Analysis of Transformers in Distribution Regression,2026-06-28,http://arxiv.org/abs/2606.29256v1,Peilin Liu;Ding-Xuan Zhou
 "When Can Conformal Risk Control Certify LLM Outputs? Bounds, Impossibility, and Adaptation for Structured Generation",2026-06-27,http://arxiv.org/abs/2606.29054v1,Varun Kotte
 Reasoning Quality Emerges Early: Data Curation for Reasoning Models,2026-06-25,http://arxiv.org/abs/2606.26797v1,Hongyi Henry Jin;Wenhan Yang;Meysam Ghaffari;Carlos Morato;Baharan Mirzasoleiman
+
+VeriBound: PAC-Bayesian Generalization Bounds for Process Reward Models Trained with Formal Verification Tools,2026-06-17,http://arxiv.org/abs/2606.20740v1,Amirul Rahman;Mohammed Sabih Alsharari
+
+From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning,2026-06-16,http://arxiv.org/abs/2606.18089v2,Lingjing Kong;Xin Liu;Guangyi Chen;Martin Q. Ma;Xiangchen Song;Yuekai Sun;Mikhail Yurochkin;Taylor W. Killian;Ruslan Salakhutdinov;Kun Zhang;Eric P. Xing;Zhengzhong Liu
+
+Is Code Better Than Language for Algorithmic Reasoning,2026-06-14,http://arxiv.org/abs/2606.15589v1,Terry Tong;Yu Feng;Surbhi Goel;Dan Roth
+
+Causally Evaluating the Learnability of Formal Language Tasks,2026-06-08,http://arxiv.org/abs/2606.09822v1,Vésteinn Snæbjarnarson;Anej Svete;Josef Valvoda;Reda Boumasmoud;Brian DuSell;Ryan Cotterell
+
+How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures,2026-06-04,http://arxiv.org/abs/2606.06635v1,Tanvi Thoria;Kiana Jafari;Marc R. Schlichting;Mykel J. Kochenderfer
+
+The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang

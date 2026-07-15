@@ -21,3 +21,13 @@ What LLMs explain is not what they believe: Evaluating explanation sufficiency u
 Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models,2026-06-22,http://arxiv.org/abs/2606.23567v1,Jiawei Xu;Minghui Liu;Aakriti Agrawal;Yifan Chen;Furong Huang
 Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently,2026-06-22,http://arxiv.org/abs/2606.22938v1,Stanley Wei;Juno Kim
 A Verifiable Search Is Not a Learnable Chain-of-Thought,2026-06-20,http://arxiv.org/abs/2606.21884v1,Harsh Patel
+
+Learning through Internalization,2026-06-18,http://arxiv.org/abs/2606.20937v1,Nikolaos Tsilivis;Nirmit Joshi;Marko Medvedev;Julia Kempe;Nati Srebro
+
+What Makes Effective Supervision in Latent Chain-of-Thought: An Information-Theoretic Analysis,2026-06-18,http://arxiv.org/abs/2606.20075v1,Xinghao Chen;Chak Tou Leong;Wenjin Guo;Jian Wang;Wenjie Li;Xiaoyu Shen
+
+Efficiently Representing Algorithms With Chain-of-Thought Transformers,2026-06-18,http://arxiv.org/abs/2606.19697v1,Yanhong Li;Anej Svete;Ashish Sabharwal;William Merrill
+
+Free Energy Heuristics: Fast-And-Frugal Cognition as Active Inference Under Uncertain Precision,2026-06-14,http://arxiv.org/abs/2606.15877v1,Alex Bogdan
+
+Tight Sample Complexity of Transformers,2026-06-08,http://arxiv.org/abs/2606.09731v1,Chenxiao Yang;Nathan Srebro;Zhiyuan Li

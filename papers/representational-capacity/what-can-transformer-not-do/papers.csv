@@ -33,3 +33,7 @@ On the Inseparability of Instructions and Data in Shared-Embedding Sequence Mode
 Cascaded Multi-Granularity Pruning for On-Device LLM Inference in Industrial IoT,2026-06-25,http://arxiv.org/abs/2606.26861v1,Jinghan Wang;Yanjun Chen;Wei Zhang;Xiaotong Huang;Tianchen Liu;Gaoliang Peng
 Why Do Accumulated Transformations Extrapolate?,2026-06-23,http://arxiv.org/abs/2606.24975v1,Mahesh Godavarti
 On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners,2026-06-22,http://arxiv.org/abs/2606.23668v1,David Mguni;Julian Ma;Jun Wang
+
+Understanding the Parameter Space Geometry of Transformers Encoding Boolean Functions,2026-06-07,http://arxiv.org/abs/2606.08768v1,Blanka Köver;Alexandra Butoi;Anej Svete;Michael Hahn;Ryan Cotterell
+
+Towards Tight Bounds for Streaming Attention,2026-06-05,http://arxiv.org/abs/2606.07205v1,Justin Y. Chen;Ying Feng;Piotr Indyk;Michael Kapralov;Ekaterina Kochetkova;Boris Prokhorov

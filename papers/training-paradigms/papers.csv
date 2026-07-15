@@ -5,3 +5,5 @@ Trust Region Policy Distillation,2026-07-06,http://arxiv.org/abs/2607.04751v1,Zh
 DemoPSD: Disagreement-Modulated Policy Self-Distillation,2026-07-02,http://arxiv.org/abs/2607.02502v2,Yunhe Li;Hao Shi;Wenhao Liu;Mengzhe Ruan;Hanxu Hou;Zhongxiang Dai;Shuang Qiu;Linqi Song
 On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity,2026-06-24,http://arxiv.org/abs/2606.26091v1,Andrei Liviu Nicolicioiu;Mohammad Pezeshki;Aaron Courville
 On the Position Bias of On-Policy Distillation,2026-06-21,http://arxiv.org/abs/2606.22600v3,Yan Xie;Sijie Zhu;Tiansheng Wen;Bo Chen;Yifei Wang
+
+On the Geometry of On-Policy Distillation,2026-06-05,http://arxiv.org/abs/2606.07082v3,Zhennan Shen;Yanshu Li;Qingyu Yin;Chak Tou Leong;Zhilin Wang;Yanxu Chen;Rongduo Han;Sunbowen Lee;Yi R. Fung

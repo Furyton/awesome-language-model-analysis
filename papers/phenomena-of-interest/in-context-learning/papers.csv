@@ -104,3 +104,15 @@ From Approximation to Emergence: A Theory of Deep Learning,2026-07-01,http://arx
 Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization,2026-07-01,http://arxiv.org/abs/2607.00479v1,Peilin Liu;Ding-Xuan Zhou
 Transformers as Bayesian In-Context Experimenters: Smoothness-Adaptive Efficient ATE Estimation,2026-06-30,http://arxiv.org/abs/2606.31184v1,Jiachun Li;David Simchi-Levi
 A Theoretical Interpretation of In-Context Learning via Probabilistic Modeling,2026-06-27,http://arxiv.org/abs/2606.28926v1,Zhenyu Liu;Huaze Tang;Shao-Lun Huang
+
+What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?,2026-06-18,http://arxiv.org/abs/2606.20508v1,Sihui Dai;Mann Patel
+
+Can In-Context Learning Support Intrinsic Curiosity?,2026-06-17,http://arxiv.org/abs/2606.19476v1,Eric Elmoznino;Sangnie Bhardwaj;Johannes von Oswald;Rajai Nasser;Blaise Agüera y Arcas;João Sacramento;Rif A. Saurous;Guillaume Lajoie
+
+Revisiting the Systematicity in Negation in the Era of In-Context Learning,2026-06-15,http://arxiv.org/abs/2606.16867v1,Hitomi Yanaka;Taisei Yamamoto
+
+Adaptive inference and function vectors in deep transformers,2026-06-15,http://arxiv.org/abs/2606.16694v1,Ravin Raj;Gautam Reddy
+
+Where Computation Lives Inside TabPFN: Causal Localisation of Attention Head Function,2026-06-11,http://arxiv.org/abs/2606.12917v1,Atharva Gupta;Dhruv Kumar;Murari Mandal;Saurabh Deshpande
+
+The Effect of Training Task Diversity on In-Context Learning through the Lens of Low-Dimensional Subspaces,2026-06-05,http://arxiv.org/abs/2606.06814v1,Soo Min Kwon;Alec S. Xu;Can Yaras;Dogyoon Song;Laura Balzano;Qing Qu

@@ -89,3 +89,27 @@ On the Position Bias of On-Policy Distillation,2026-06-21,http://arxiv.org/abs/2
 What are Key Factors for Updates in RL for LLM Reasoning?,2026-06-21,http://arxiv.org/abs/2606.22570v1,Peidong Wang;Demi Wang;Xufang Luo;Jiahang Xu;Xiaocui Yang;Shi Feng;Yuqing Yang;Dongsheng Li
 Asymptotic Signal Subspace Recovery in Softmax Attention Models,2026-06-21,http://arxiv.org/abs/2606.22406v2,Lan V. Truong
 Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective,2026-06-19,http://arxiv.org/abs/2606.21514v1,Tianqi Shen;Jinji Yang;Runze Shi;Jianhao Ma;Jiaye Teng;Ziye Ma
+
+Conservation Laws for Modern Neural Architectures,2026-06-16,http://arxiv.org/abs/2606.17816v1,Viet-Hoang Tran;Vinh Khanh Bui;Tan Lai Ngoc;Nam Nguyen;Tuan Dam;Tan M. Nguyen
+
+A Link between Shock-wave Theory and Symmetry-reduced Stochastic Gradient Descent for Artificial Neural Networks,2026-06-16,http://arxiv.org/abs/2606.18303v1,Taiki Miyagawa
+
+"A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt",2026-06-14,http://arxiv.org/abs/2606.15569v1,Tomoya Wakayama
+
+Understanding Diversity Collapse in RLVR via the Lens of Overtraining,2026-06-13,http://arxiv.org/abs/2606.15455v1,Suqin Yuan;Jinkun Chen;Jiyang Zheng;Muyang Li;Lei Feng;Dadong Wang;Tao Xiang;Tongliang Liu;Bo An
+
+Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success,2026-06-12,http://arxiv.org/abs/2606.14560v1,Florian Hübler;Thomas Pethick;Suvrit Sra
+
+Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence,2026-06-10,http://arxiv.org/abs/2606.12058v1,Itay Lavie;Kirsten Fischer;Andrey Lekov;Frederic Van Maele;Zohar Ringel;Moritz Helias
+
+Recoverable but Not Stationary:Local Linear Structures in Weights and Activations,2026-06-09,http://arxiv.org/abs/2606.10929v1,Irina Piontkovskaia;Sergey Nikolenko
+
+A Mean-Field Analysis of Multi-Head Self-Attention under Cross-Entropy Training,2026-06-09,http://arxiv.org/abs/2606.10469v1,Cheng Huan;Hongfwei Yuan
+
+Muon Learns More Robust and Transferable Features than Adam,2026-06-08,http://arxiv.org/abs/2606.09658v1,Tianyu Ruan;Fengzhuo Zhang;Shuche Wang;Shihua Zhang
+
+Understanding Quantization-Aware Training: Gradients at Quantized Weights Bias to the Low-Loss Basin,2026-06-08,http://arxiv.org/abs/2606.09012v1,Hanyang Li;Jianhao Ma;Ying Cui
+
+Multilingual Sentiment Aware Text Summarization A Reinforcement Learning Approach for Consistency Maintenance,2026-06-08,http://arxiv.org/abs/2606.08940v1,Mikhail Krasitskii;Alexander Gelbukh;Olga Kolesnikova;Grigori Sidorov
+
+On the Geometry of On-Policy Distillation,2026-06-05,http://arxiv.org/abs/2606.07082v3,Zhennan Shen;Yanshu Li;Qingyu Yin;Chak Tou Leong;Zhilin Wang;Yanxu Chen;Rongduo Han;Sunbowen Lee;Yi R. Fung
