@@ -80,13 +80,17 @@ jobs:
         continue-on-error: true
         run: python generate_embeddings.py
 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date -u '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          commit-message: "Automated update on $(date -u '+%Y-%m-%d')"
-          title: "Automated update on $(date -u '+%Y-%m-%d')"
+          commit-message: "Automated update on ${{ steps.date.outputs.date }}"
+          title: "Automated update on ${{ steps.date.outputs.date }}"
           body: |
             This PR was created automatically by the daily workflow.
             Please review the generated updates before merging.
-          branch: chore/daily-update
-          delete-branch: true
+          branch: chore/daily-update-${{ steps.date.outputs.date }}
+          delete-branch: false
