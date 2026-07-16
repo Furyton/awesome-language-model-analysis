@@ -80,13 +80,15 @@ jobs:
         continue-on-error: true
         run: python generate_embeddings.py
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          commit-message: "Automated update on $(date -u '+%Y-%m-%d')"
-          title: "Automated update on $(date -u '+%Y-%m-%d')"
-          body: |
-            This PR was created automatically by the daily workflow.
-            Please review the generated updates before merging.
-          branch: chore/daily-update
-          delete-branch: true
+      - name: Commit and push updates
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Automated update on $(date -u '+%Y-%m-%d')"
+          git push
