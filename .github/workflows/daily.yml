@@ -3,7 +3,7 @@ name: Daily update
 on:
   schedule:
     # 07:00 UTC = 15:00 Beijing time, Mon-Fri (arXiv publishes new listings on weekdays)
-    - cron: '0 7 * * 1-5'
+    - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
       backfill_start:
