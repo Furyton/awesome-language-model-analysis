@@ -57,35 +57,4 @@ What LLMs explain is not what they believe: Evaluating explanation sufficiency u
 "Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models",2026-06-26,http://arxiv.org/abs/2606.28273v1,Niclas Lietzow;Danielle Bitterman;Carsten Eickhoff;William Rudman;Michal Golovanevsky
 Evidence for feature-specific error correction in LLMs,2026-06-23,http://arxiv.org/abs/2606.24964v1,Francisco Ferreira da Silva;Stefan Heimersheim
 Pre-Generation Hallucination Detection in Large Language Models via Soft-Target Attention Probing,2026-06-20,http://arxiv.org/abs/2606.21917v1,Amina Miftakhova;Alexey Zaytsev
-
-Beyond Hooking Onto the World: Referential Profiles and the Numerical Structure of LLM Grounding,2026-06-19,http://arxiv.org/abs/2606.21195v1,Joo Yull Rhee
-
-Leverage Is Not Reach: A Control-Window Law for Single-Neuron Steering in Language Models,2026-06-18,http://arxiv.org/abs/2606.19831v1,Hongliang Liu
-
-From Sparse Features to Trustworthy Proxies: Certifying SAE-Based Interpretability,2026-06-16,http://arxiv.org/abs/2606.18383v1,Dibyanayan Bandyopadhyay;Asif Ekbal
-
-Revisiting the Systematicity in Negation in the Era of In-Context Learning,2026-06-15,http://arxiv.org/abs/2606.16867v1,Hitomi Yanaka;Taisei Yamamoto
-
-Rethinking the Role of Efficient Attention in Hybrid Architectures,2026-06-13,http://arxiv.org/abs/2606.15378v1,Ziqing Qiao;Yinuo Xu;Chaojun Xiao;Zhou Su;Zihan Zhou;Yingfa Chen;Xiaoyue Xu;Xu Han;Zhiyuan Liu
-
-Beyond Layer Importance in Layer-wise Sparsity: An Inter-Layer Perturbation-Absorption Perspective,2026-06-13,http://arxiv.org/abs/2606.15161v1,Tao Jing;Ningxin Wu;Chen Kang;Dong Yu;Changliang Li;Pengyuan Liu
-
-Transformers Learn the Mestre-Nagao Heuristic,2026-06-13,http://arxiv.org/abs/2606.15036v1,Pranav Venkata Konda
-
-Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components,2026-06-12,http://arxiv.org/abs/2606.20678v1,Yifeng Guo;Jin-Hong Du;Xiang Chen
-
-"How Linear Is a Transformer Feed-Forward Block? Per-Block Linear Recoverability Is Learned, Not Architectural",2026-06-12,http://arxiv.org/abs/2606.19379v1,Stuart Whipp
-
-Where Computation Lives Inside TabPFN: Causal Localisation of Attention Head Function,2026-06-11,http://arxiv.org/abs/2606.12917v1,Atharva Gupta;Dhruv Kumar;Murari Mandal;Saurabh Deshpande
-
-Can Editing 1 Neuron Fix Repetition Loops in LLMs?,2026-06-09,http://arxiv.org/abs/2606.13705v1,Aristotelis Lazaridis;Aman Sharma;Dylan Bates;Brian King;Vincent Lu;Jack FitzGerald
-
-A retrieval conditioned rebinding circuit for dynamic entity tracking in large language models,2026-06-07,http://arxiv.org/abs/2606.08644v1,Soyoung Oh;Vera Demberg
-
-When Attribution Patching Lies: Diagnosis and a Second-Order Correction,2026-06-05,http://arxiv.org/abs/2606.09899v1,Luyang Zhang;Jialu Wang
-
-How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures,2026-06-04,http://arxiv.org/abs/2606.06635v1,Tanvi Thoria;Kiana Jafari;Marc R. Schlichting;Mykel J. Kochenderfer
-
-The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang
-
-Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads,2026-06-04,http://arxiv.org/abs/2606.05843v1,Ruoxi Sun;Quantong Qiu;Juntao Li;Zecheng Tang;Yihang Lou;Min Zhang
+How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations,2026-06-01,http://arxiv.org/abs/2606.02385v1,William Dorrell
